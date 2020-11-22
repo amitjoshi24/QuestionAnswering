@@ -54,7 +54,7 @@ class Vocabulary:
             (at position 0) and `UNK_TOKEN` (at position 1) are prepended.
         """
         vocab = collections.defaultdict(int)
-        for (_, passage, question, _, _) in samples:
+        for (_, passage, question, _, _, _, _) in samples:
             for token in itertools.chain(passage, question):
                 vocab[token.lower()] += 1
         top_words = [
@@ -161,6 +161,10 @@ class QADataset(Dataset):
                 token.lower() for (token, offset) in elem['context_tokens']
             ][:self.args.max_context_length]
 
+            trueCasePassage = [
+                token for (token, offset) in elem['context_tokens']
+            ][:self.args.max_context_length]
+
             # Each passage has several questions associated with it.
             # Additionally, each question has multiple possible answer spans.
             for qa in elem['qas']:
@@ -169,13 +173,17 @@ class QADataset(Dataset):
                     token.lower() for (token, offset) in qa['question_tokens']
                 ][:self.args.max_question_length]
 
+                trueCaseQuestion = [
+                    token for (token, offset) in qa['question_tokens']
+                ][:self.args.max_question_length]
+
                 # Select the first answer span, which is formatted as
                 # (start_position, end_position), where the end_position
                 # is inclusive.
                 answers = qa['detected_answers']
                 answer_start, answer_end = answers[0]['token_spans'][0]
                 samples.append(
-                    (qid, passage, question, answer_start, answer_end)
+                    (qid, passage, question, answer_start, answer_end, trueCasePassage, trueCaseQuestion)
                 )
                 
         return samples
@@ -201,13 +209,19 @@ class QADataset(Dataset):
 
         passages = []
         questions = []
-        rawPassages = []
-        rawQuestions = []
+        
         start_positions = []
         end_positions = []
+
+        rawPassages = []
+        rawQuestions = []
+
+        trueCasePassages = []
+        trueCaseQuestions = []
+
         for idx in example_idxs:
             # Unpack QA sample and tokenize passage/question.
-            qid, passage, question, answer_start, answer_end = self.samples[idx]
+            qid, passage, question, answer_start, answer_end, trueCasePassage, trueCaseQuestion = self.samples[idx]
 
             # Convert words to tensor.
             passage_ids = torch.tensor(
@@ -222,12 +236,17 @@ class QADataset(Dataset):
             # Store each part in an independent list.
             passages.append(passage_ids)
             questions.append(question_ids)
-            rawPassages.append(passage)
-            rawQuestions.append(question)
+            
             start_positions.append(answer_start_ids)
             end_positions.append(answer_end_ids)
 
-        return zip(passages, questions, start_positions, end_positions, rawPassages, rawQuestions)
+            rawPassages.append(passage)
+            rawQuestions.append(question)
+
+            trueCasePassages.append(trueCasePassage)
+            trueCaseQuestions.append(trueCaseQuestion)
+
+        return zip(passages, questions, start_positions, end_positions, rawPassages, rawQuestions, trueCasePassages, trueCaseQuestions)
 
     def _create_batches(self, generator, batch_size):
         """
@@ -264,6 +283,8 @@ class QADataset(Dataset):
             questions = []
             rawPassages = []
             rawQuestions = []
+            trueCasePassages = []
+            trueCaseQuestions = []
             start_positions = torch.zeros(bsz)
             end_positions = torch.zeros(bsz)
             max_passage_length = 0
@@ -278,6 +299,8 @@ class QADataset(Dataset):
                 end_positions[ii] = current_batch[ii][3]
                 rawPassages.append(current_batch[ii][4])
                 rawQuestions.append(current_batch[ii][5])
+                trueCasePassages.append(current_batch[ii][6])
+                trueCaseQuestions.append(current_batch[ii][7])
                 max_passage_length = max(
                     max_passage_length, len(current_batch[ii][0])
                 )
@@ -302,7 +325,9 @@ class QADataset(Dataset):
                 'start_positions': cuda(self.args, start_positions).long(),
                 'end_positions': cuda(self.args, end_positions).long(),
                 'rawPassages': rawPassages,
-                'rawQuestions': rawQuestions
+                'rawQuestions': rawQuestions,
+                'trueCasePassages': trueCasePassages,
+                'trueCaseQuestions': trueCaseQuestions
             }
 
             if no_more_data:

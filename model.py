@@ -127,26 +127,96 @@ class BilinearOutput(nn.Module):
         super().__init__()
         self.linear = nn.Linear(q_dim, p_dim)
 
-    def forward(self, p, q, p_mask, questionsNer, passagesNer, passagesDicts, questionsDicts):
+
+    def binsearch(self, list, toFind):
+        low = 0
+        n = len(list)
+        high = n-1
+
+        while low + 1 < high:
+            mid = low + ((high - low)//2)
+            if list[mid] == toFind:
+                return mid
+            elif list[mid] < toFind:
+                low = mid
+            else:
+                high = mid
+
+        if list[low] == toFind:
+            return low
+        else:
+            return high
+
+
+
+    def forward(self, p, q, p_mask, passagesNer, questionsNer, passagesMaps, questionsMaps, rawPassages, rawQuestions, trueCasePassages, trueCaseQuestions):
         # Compute bilinear scores
         q_key = self.linear(q).unsqueeze(2)  # [batch_size, p_dim, 1]
         p_scores = torch.bmm(p, q_key).squeeze(2)  # [batch_size, p_len]
         # Assign -inf to pad tokens
         p_scores.data.masked_fill_(p_mask.data, -float('inf'))
-
+        #print ("pmaskdata: " + str(p_mask.data))
         # create set of all named entities in the question
         questionNerSets = list()
         for doc in questionsNer:
             questionNerSet = set()
             for ent in doc.ents:
-                questionNerSet.add(ent.text)
-            questionNerSets.append(questionsNerSet)
+                questionNerSet.add(ent.text.lower())
+            questionNerSets.append(questionNerSet)
 
-        for doc in passagesNer:
+        for i in range(len(passagesNer)):
+            
+            questionEntities = questionNerSets[i]
+            #print ("questionEntities: " + str(questionEntities))
+
+            
+
+            doc = passagesNer[i]
             for ent in doc.ents:
                 sc = ent.start_char
                 ec = ent.end_char
-                wordIndex = passagesDicts((sc, ec))
+
+
+
+                wordIndex = self.binsearch(passagesMaps[i], sc)
+
+                
+                
+                curChar = sc
+
+                actualWord = trueCasePassages[i][wordIndex].lower()
+                while curChar + len(actualWord) <= ec:
+
+                    actualWord = trueCasePassages[i][wordIndex].lower()
+                    
+                    
+
+                    if actualWord not in ent.text.lower():
+                        print ("rawPassage: " + str(rawPassages[i]))
+                        print ("rawQuestion: " + str(rawQuestions[i]))
+                        print ("questionEntities: " + str(questionEntities))
+                        print ("word we were supposed to find: " + str(ent.text.lower()))
+                        print ("actualWordWithOurghettobinsearchshit: " + str(actualWord))
+                        #exit()
+                        break
+
+                    #if this named entity in the passage is in the question, then do pscores[i]++ lmao
+                    if actualWord in questionEntities:
+                        #print ("actualWordMatched: " + str(actualWord))
+                        p_scores[i][wordIndex] += 0.24 #idk
+
+
+
+                    wordIndex += 1
+                    curChar += len(actualWord) + 1 # 1 for the space pls
+                    
+
+
+            #exit()
+
+                
+                
+
                 
 
         return p_scores  # [batch_size, p_len]
@@ -334,9 +404,12 @@ class BaselineReader(nn.Module):
         rawPassages = batch['rawPassages']
         rawQuestions = batch['rawQuestions']
 
+        trueCasePassages = batch['trueCasePassages']
+        trueCaseQuestions = batch['trueCaseQuestions']
+
         passagesNer = list()
         passagesMaps = list()
-        for passage in rawPassages:
+        for passage in trueCasePassages:
             startOfEachWord = list() # list of tuples of (char index (start), word index)
 
             joinedString = " ".join(passage)
@@ -345,7 +418,7 @@ class BaselineReader(nn.Module):
             wordCounter = 0
             for i in range(len(joinedString)):
                 if newWord:
-                    startOfEachWord.append(i, wordCounter)
+                    startOfEachWord.append(i)
                     wordCounter += 1
                     newWord = False
                 if joinedString[i] == " ":
@@ -358,14 +431,14 @@ class BaselineReader(nn.Module):
 
         questionsNer = list()
         questionsMaps = list()
-        for question in rawQuestions:
+        for question in trueCaseQuestions:
             startOfEachWord = list()
             joinedString = " ".join(question)
             newWord = True
             wordCounter = 0
             for i in range(len(joinedString)):
                 if newWord:
-                    startOfEachWord.append(i, wordCounter)
+                    startOfEachWord.append(i)
                     wordCounter += 1
                     newWord = False
                 if joinedString[i] == " ":
@@ -381,12 +454,12 @@ class BaselineReader(nn.Module):
 
         # 6) Start Position Pointer: Compute logits for start positions
         start_logits = self.start_output(
-            passage_hidden, question_vector, ~passage_mask, passagesNer, questionsNer, passagesMaps, questionsMaps
+            passage_hidden, question_vector, ~passage_mask, passagesNer, questionsNer, passagesMaps, questionsMaps, rawPassages, rawQuestions, trueCasePassages, trueCaseQuestions
         )  # [batch_size, p_len]
 
         # 7) End Position Pointer: Compute logits for end positions
         end_logits = self.end_output(
-            passage_hidden, question_vector, ~passage_mask, questionsNer, passagesNer, passagesMaps, questionsMaps
+            passage_hidden, question_vector, ~passage_mask, passagesNer, questionsNer, passagesMaps, questionsMaps, rawPassages, rawQuestions, trueCasePassages, trueCaseQuestions
         )  # [batch_size, p_len]
 
         return start_logits, end_logits  # [batch_size, p_len], [batch_size, p_len]

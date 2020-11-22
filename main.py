@@ -421,7 +421,7 @@ def write_predictions(args, model, dataset):
             for j in range(start_logits.size(0)):
                 # Find question index and passage.
                 sample_index = args.batch_size * i + j
-                qid, passage, _, _, _ = dataset.samples[sample_index]
+                qid, passage, _, _, _, _, _ = dataset.samples[sample_index]
 
                 # Unpack start and end probabilities. Find the constrained
                 # (start, end) pair that has the highest joint probability.
