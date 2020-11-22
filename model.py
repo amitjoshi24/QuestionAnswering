@@ -127,16 +127,27 @@ class BilinearOutput(nn.Module):
         super().__init__()
         self.linear = nn.Linear(q_dim, p_dim)
 
-    def forward(self, p, q, p_mask, questionsNer, passagesNer):
+    def forward(self, p, q, p_mask, questionsNer, passagesNer, passagesDicts, questionsDicts):
         # Compute bilinear scores
         q_key = self.linear(q).unsqueeze(2)  # [batch_size, p_dim, 1]
         p_scores = torch.bmm(p, q_key).squeeze(2)  # [batch_size, p_len]
         # Assign -inf to pad tokens
         p_scores.data.masked_fill_(p_mask.data, -float('inf'))
 
-        #for doc in docs:
-        #    for ent in doc.ents:
-        #        print(ent.text, ent.start_char, ent.end_char, ent.label_) 
+        # create set of all named entities in the question
+        questionNerSets = list()
+        for doc in questionsNer:
+            questionNerSet = set()
+            for ent in doc.ents:
+                questionNerSet.add(ent.text)
+            questionNerSets.append(questionsNerSet)
+
+        for doc in passagesNer:
+            for ent in doc.ents:
+                sc = ent.start_char
+                ec = ent.end_char
+                wordIndex = passagesDicts((sc, ec))
+                
 
         return p_scores  # [batch_size, p_len]
 
@@ -324,16 +335,45 @@ class BaselineReader(nn.Module):
         rawQuestions = batch['rawQuestions']
 
         passagesNer = list()
+        passagesMaps = list()
         for passage in rawPassages:
-            print ("passage: " + str(passage))
-            # convert passage to normal list, do vocabulary.decoding on it, generate original passage
-            pdoc = self.spacy(passage)
+            startOfEachWord = list() # list of tuples of (char index (start), word index)
+
+            joinedString = " ".join(passage)
+
+            newWord = True
+            wordCounter = 0
+            for i in range(len(joinedString)):
+                if newWord:
+                    startOfEachWord.append(i, wordCounter)
+                    wordCounter += 1
+                    newWord = False
+                if joinedString[i] == " ":
+                    newWord = True
+
+
+            pdoc = self.spacy(joinedString)
             passagesNer.append(pdoc)
+            passagesMaps.append(startOfEachWord)
 
         questionsNer = list()
+        questionsMaps = list()
         for question in rawQuestions:
-            qdoc = self.spacy(question)
+            startOfEachWord = list()
+            joinedString = " ".join(question)
+            newWord = True
+            wordCounter = 0
+            for i in range(len(joinedString)):
+                if newWord:
+                    startOfEachWord.append(i, wordCounter)
+                    wordCounter += 1
+                    newWord = False
+                if joinedString[i] == " ":
+                    newWord = True
+
+            qdoc = self.spacy(joinedString)
             questionsNer.append(qdoc)
+            questionsMaps.append(startOfEachWord)
 
 
 
@@ -341,12 +381,12 @@ class BaselineReader(nn.Module):
 
         # 6) Start Position Pointer: Compute logits for start positions
         start_logits = self.start_output(
-            passage_hidden, question_vector, ~passage_mask, passagesNer, questionsNer, passagesNer
+            passage_hidden, question_vector, ~passage_mask, passagesNer, questionsNer, passagesMaps, questionsMaps
         )  # [batch_size, p_len]
 
         # 7) End Position Pointer: Compute logits for end positions
         end_logits = self.end_output(
-            passage_hidden, question_vector, ~passage_mask, questionsNer, passagesNer
+            passage_hidden, question_vector, ~passage_mask, questionsNer, passagesNer, passagesMaps, questionsMaps
         )  # [batch_size, p_len]
 
         return start_logits, end_logits  # [batch_size, p_len], [batch_size, p_len]
