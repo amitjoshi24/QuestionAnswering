@@ -7,6 +7,7 @@ Author:
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+import spacy 
 
 from utils import cuda, load_cached_embeddings
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
@@ -126,12 +127,17 @@ class BilinearOutput(nn.Module):
         super().__init__()
         self.linear = nn.Linear(q_dim, p_dim)
 
-    def forward(self, p, q, p_mask):
+    def forward(self, p, q, p_mask, questionsNer, passagesNer):
         # Compute bilinear scores
         q_key = self.linear(q).unsqueeze(2)  # [batch_size, p_dim, 1]
         p_scores = torch.bmm(p, q_key).squeeze(2)  # [batch_size, p_len]
         # Assign -inf to pad tokens
         p_scores.data.masked_fill_(p_mask.data, -float('inf'))
+
+        #for doc in docs:
+        #    for ent in doc.ents:
+        #        print(ent.text, ent.start_char, ent.end_char, ent.label_) 
+
         return p_scores  # [batch_size, p_len]
 
 
@@ -172,6 +178,7 @@ class BaselineReader(nn.Module):
 
         self.args = args
         self.pad_token_id = args.pad_token_id
+        self.spacy = spacy.load('en_core_web_sm') 
 
         # Initialize embedding layer (1)
         self.embedding = nn.Embedding(args.vocab_size, args.embedding_dim)
@@ -223,6 +230,7 @@ class BaselineReader(nn.Module):
             path: Embedding path, e.g. "glove/glove.6B.300d.txt".
         """
         embedding_map = load_cached_embeddings(path)
+        self.vocabulary = vocabulary
 
         # Create embedding matrix. By default, embeddings are randomly
         # initialized from Uniform(-0.1, 0.1).
@@ -312,14 +320,33 @@ class BaselineReader(nn.Module):
         question_vector = question_scores.unsqueeze(1).bmm(question_hidden).squeeze(1)
         question_vector = self.dropout(question_vector)  # [batch_size, q_hid]
 
+        rawPassages = batch['rawPassages']
+        rawQuestions = batch['rawQuestions']
+
+        passagesNer = list()
+        for passage in rawPassages:
+            print ("passage: " + str(passage))
+            # convert passage to normal list, do vocabulary.decoding on it, generate original passage
+            pdoc = self.spacy(passage)
+            passagesNer.append(pdoc)
+
+        questionsNer = list()
+        for question in rawQuestions:
+            qdoc = self.spacy(question)
+            questionsNer.append(qdoc)
+
+
+
+
+
         # 6) Start Position Pointer: Compute logits for start positions
         start_logits = self.start_output(
-            passage_hidden, question_vector, ~passage_mask
+            passage_hidden, question_vector, ~passage_mask, passagesNer, questionsNer, passagesNer
         )  # [batch_size, p_len]
 
         # 7) End Position Pointer: Compute logits for end positions
         end_logits = self.end_output(
-            passage_hidden, question_vector, ~passage_mask
+            passage_hidden, question_vector, ~passage_mask, questionsNer, passagesNer
         )  # [batch_size, p_len]
 
         return start_logits, end_logits  # [batch_size, p_len], [batch_size, p_len]

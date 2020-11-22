@@ -201,6 +201,8 @@ class QADataset(Dataset):
 
         passages = []
         questions = []
+        rawPassages = []
+        rawQuestions = []
         start_positions = []
         end_positions = []
         for idx in example_idxs:
@@ -220,10 +222,12 @@ class QADataset(Dataset):
             # Store each part in an independent list.
             passages.append(passage_ids)
             questions.append(question_ids)
+            rawPassages.append(passage)
+            rawQuestions.append(question)
             start_positions.append(answer_start_ids)
             end_positions.append(answer_end_ids)
 
-        return zip(passages, questions, start_positions, end_positions)
+        return zip(passages, questions, start_positions, end_positions, rawPassages, rawQuestions)
 
     def _create_batches(self, generator, batch_size):
         """
@@ -246,6 +250,8 @@ class QADataset(Dataset):
             for i in range(batch_size):
                 try:
                     current_batch[i] = list(next(generator))
+                    #print (current_batch[i])
+                    #print (len(current_batch[i]))
                 except StopIteration:  # Run out examples
                     no_more_data = True
                     bsz = i  # The size of the last batch.
@@ -256,16 +262,22 @@ class QADataset(Dataset):
 
             passages = []
             questions = []
+            rawPassages = []
+            rawQuestions = []
             start_positions = torch.zeros(bsz)
             end_positions = torch.zeros(bsz)
             max_passage_length = 0
             max_question_length = 0
             # Check max lengths for both passages and questions
             for ii in range(bsz):
+                #print (current_batch[ii])
+                #print (len(current_batch[ii]))
                 passages.append(current_batch[ii][0])
                 questions.append(current_batch[ii][1])
                 start_positions[ii] = current_batch[ii][2]
                 end_positions[ii] = current_batch[ii][3]
+                rawPassages.append(current_batch[ii][4])
+                rawQuestions.append(current_batch[ii][5])
                 max_passage_length = max(
                     max_passage_length, len(current_batch[ii][0])
                 )
@@ -288,7 +300,9 @@ class QADataset(Dataset):
                 'passages': cuda(self.args, padded_passages).long(),
                 'questions': cuda(self.args, padded_questions).long(),
                 'start_positions': cuda(self.args, start_positions).long(),
-                'end_positions': cuda(self.args, end_positions).long()
+                'end_positions': cuda(self.args, end_positions).long(),
+                'rawPassages': rawPassages,
+                'rawQuestions': rawQuestions
             }
 
             if no_more_data:
