@@ -26,7 +26,7 @@
 {"qid": "18d7493cca8a44db945ff16a2949e26d", "answer": "national football league"}
 {"qid": "6392df5f107a4acf9d96321f1e0c177d", "answer": "super bowl l"}
 {"qid": "81485c83e23a45448e2b9d31a679d73b", "answer": "san francisco bay"}
-{"qid": "5668cdd5c25b4549856d628a3ec248d9", "answer": "super bowl 50"}
+{"qid": "5668cdd5c25b4549856d628a3ec248d9", "answer": "nfl"}
 {"qid": "52d6568dd0b74a99866cad2599161a4a", "answer": "super bowl 50"}
 {"qid": "fd7bfb38f688441087d80a0351b57a67", "answer": "denver linebacker von miller"}
 {"qid": "5b79e7b38c4144318840802650a9dad7", "answer": "five solo tackles , 2\u00bd sacks , and two"}
@@ -46,12 +46,12 @@
 {"qid": "eacb604a58ae461c8becaf241d20fc94", "answer": "two"}
 {"qid": "2d10f1eb017749d286b27d931c11ad1c", "answer": "seven"}
 {"qid": "25e7b1192a3f46b29939ca3d24ba84d1", "answer": "seven times and forced him into three"}
-{"qid": "f5a36768278949f2a141aaac2b35a90d", "answer": "fumble"}
+{"qid": "f5a36768278949f2a141aaac2b35a90d", "answer": "denver 's defense , which sacked him seven times and forced him into three turnovers"}
 {"qid": "cdf0925e33f84a06991a7a956f04aa72", "answer": "denver linebacker von miller"}
 {"qid": "056e4a0f86af48ed8e52b5a5bbb20a9e", "answer": "denver linebacker"}
 {"qid": "28add3f364454f83ad3c97bbeeef265e", "answer": "seven"}
 {"qid": "d1794bb6911644c890519cdcb177ee1f", "answer": "seven"}
-{"qid": "7bb2d15a021247b1b3d162659e7dd9f3", "answer": "linebacker von miller"}
+{"qid": "7bb2d15a021247b1b3d162659e7dd9f3", "answer": "denver linebacker von miller"}
 {"qid": "1e24127c2a4340c68af60b0d65bf2321", "answer": "two"}
 {"qid": "da07218228a644c1857fd6ccb910ae72", "answer": "quarterback cam newton"}
 {"qid": "49a498b05c4a4acd85397de984cf2188", "answer": "eight"}
@@ -192,7 +192,7 @@
 {"qid": "f3b014ecab1c4032a1c6e5fa7641555b", "answer": "coincidentally , both teams were coached by john fox"}
 {"qid": "644501ec5c0749bbbb3b27debffca9b8", "answer": "six"}
 {"qid": "a4339b28775f456c94895fc5a37e77fd", "answer": "15\u20131 record , while the denver broncos became one of four teams to have made eight"}
-{"qid": "b1cb5895c617478aa2d30992551f903a", "answer": "four"}
+{"qid": "b1cb5895c617478aa2d30992551f903a", "answer": "eight"}
 {"qid": "7311a706089c4dedaee715881d893ebc", "answer": "john fox"}
 {"qid": "0e3b434ab0ac4318aabcd29e030523ae", "answer": "deangelo williams"}
 {"qid": "08b9ace3723f4360b5bb00a7aea977ec", "answer": "the preseason"}
@@ -252,7 +252,7 @@
 {"qid": "fcd0fd72886f4e55a4e5b2fefb546fb0", "answer": "super bowls xxi and xxiv"}
 {"qid": "3b135767c60944c9b553293a1de2438d", "answer": "rivera"}
 {"qid": "758adda8585a4887901167fe63009d94", "answer": "super bowls xxi and xxiv"}
-{"qid": "68d5e205ca564d9e8701f5e52dbb806d", "answer": "pittsburgh steelers"}
+{"qid": "68d5e205ca564d9e8701f5e52dbb806d", "answer": "broncos"}
 {"qid": "00c2ee2cc2e744e9961f8fcef76fb902", "answer": "11"}
 {"qid": "4cf7016faef642289d5ef0858330a1d0", "answer": "new england"}
 {"qid": "1343fa26263c40dfabfeb6d49785adef", "answer": "11 points in the final three minutes"}
@@ -287,7 +287,7 @@
 {"qid": "4e6cc369ecea4d96a9f8fefa5cb92bbc", "answer": "emmanuel sanders"}
 {"qid": "3c176b3b49894d32a734e1d2070dceec", "answer": "j. anderson"}
 {"qid": "53895874faba455e89fb8fb67dd7f69a", "answer": "4.7"}
-{"qid": "9d88bcae95ce4459b9bdf21bc8a9bb01", "answer": "7\u00bd"}
+{"qid": "9d88bcae95ce4459b9bdf21bc8a9bb01", "answer": "broncos"}
 {"qid": "fdb7d8a80c7f4ef79ab2b61aae8b8b7f", "answer": "5\u00bd"}
 {"qid": "8c53aa54e92742268a605fe712ed0ccf", "answer": "linebacker brandon marshall"}
 {"qid": "496580a779d24154ba5e1e2bc697bb3f", "answer": "three"}
@@ -340,7 +340,7 @@
 {"qid": "ef9bd4afd9b04e5b85f8fd2f52f6aa1f", "answer": "636"}
 {"qid": "ac46cf3a346e4f2bb6ba99f1c24e7cf6", "answer": "3,837"}
 {"qid": "c28252d7a259420aab82f2fe75e1b4ff", "answer": "27"}
-{"qid": "65f195e4eebf4aafb52d10fd9ce6447e", "answer": "six"}
+{"qid": "65f195e4eebf4aafb52d10fd9ce6447e", "answer": "13"}
 {"qid": "f6e3378dba95429b9690be503d36eb24", "answer": "500"}
 {"qid": "6de282c77ce54d148919299393deca48", "answer": "3,837"}
 {"qid": "ac7c02a02b5d49cc97d530fbb456010e", "answer": "27"}
@@ -397,7 +397,7 @@
 {"qid": "8a94f01e51064a6c95b7583c597166c2", "answer": "25 percent"}
 {"qid": "3691868eda8b41e0a418fa8a4f8dac47", "answer": "community investment and sustainable environments"}
 {"qid": "256e6aea8e284d458f0e634c5417a830", "answer": "vince lombardi"}
-{"qid": "f525d3ff283146e693f88f25f83a5dc1", "answer": "18-karat gold - plated"}
+{"qid": "f525d3ff283146e693f88f25f83a5dc1", "answer": "18-karat gold - plated \" 50"}
 {"qid": "c7be99f0b4f44e3bb140165b2bca1c22", "answer": "tiffany & co."}
 {"qid": "10e4c05319ff48d088e590fc59d66396", "answer": "tiffany & co."}
 {"qid": "1780eb6f4a44465db33d9ef80cfd3578", "answer": "super bowl 50 will also receive a large , 18-karat gold - plated \" 50"}
@@ -427,10 +427,10 @@
 {"qid": "62131e91ff6c40469ca11330ea281f84", "answer": "super bowl 50 host committee"}
 {"qid": "c235b61a39f340028f5917b32f273263", "answer": "over $ 40 million"}
 {"qid": "b6444ce89cee470e8e27faa745b214b5", "answer": "cbs broadcast special episodes of its late night talk shows as its lead - out programs"}
-{"qid": "a18be35b7c6840878da200331bcc1256", "answer": "james corden"}
+{"qid": "a18be35b7c6840878da200331bcc1256", "answer": "cbs also aired a special episode of the late late show with james corden"}
 {"qid": "ff965497cc7e4665bc6fd7e689ab5cf3", "answer": "stephen colbert"}
 {"qid": "10ed7f9a747d4eca8a1b23f44305b619", "answer": "stephen colbert"}
-{"qid": "6770b2d6a616433399b78793ac928681", "answer": "stephen colbert"}
+{"qid": "6770b2d6a616433399b78793ac928681", "answer": "cbs"}
 {"qid": "dc01fdc6811b4628b4591d736a7216ee", "answer": "cbs"}
 {"qid": "26f553fd7f72470bbf4299b572a8bc68", "answer": "cbs"}
 {"qid": "2b735c3b6f6a49c3b5b497250a87f42f", "answer": "justin tucker"}
@@ -442,7 +442,7 @@
 {"qid": "4743695c2bd040b3b08435172563598c", "answer": "baltimore"}
 {"qid": "ec1e941a8d4b444cba0ee62ef1eb1f35", "answer": "host"}
 {"qid": "dc8c943d1253438c876317cc39932a0a", "answer": "justin tucker"}
-{"qid": "1ba37fbddbf04e6ab343ee5bb465b3c0", "answer": "natural grass stadiums"}
+{"qid": "1ba37fbddbf04e6ab343ee5bb465b3c0", "answer": "nfl re - sodded"}
 {"qid": "4229f7764cd747eb8cf9ca38ad3530c3", "answer": "super bowl"}
 {"qid": "39ec3dbad66145c8b9a37403d7b25baa", "answer": "slipping"}
 {"qid": "86a4dda931be468ba5f3e3ab021bad16", "answer": "baltimore ravens kicker justin tucker"}
@@ -481,17 +481,17 @@
 {"qid": "350e0128ab6c4c2aba0b6329e680192b", "answer": "super bowl 50"}
 {"qid": "a10337cda893472c8c3486bea7cc7c13", "answer": "arabic"}
 {"qid": "7df3b85497bf458aa7df911038a515a8", "answer": "super bowl li"}
-{"qid": "ec739bf23f4748cfa92ffc3e8ef5c080", "answer": "bbc radio 5 live and 5 live sports extra"}
+{"qid": "ec739bf23f4748cfa92ffc3e8ef5c080", "answer": "bbc radio 5 live and 5 live sports extra will carry the contest . the bbc"}
 {"qid": "0c9403bd386c48b2a4f90beb67b03078", "answer": "bbc radio 5 live and 5 live sports extra will carry the contest . the bbc"}
-{"qid": "31b5d574b20c4b3fbcd511d7a853adf0", "answer": "darren fletcher"}
+{"qid": "31b5d574b20c4b3fbcd511d7a853adf0", "answer": "bbc will carry its own british english broadcast , with greg brady , darren fletcher"}
 {"qid": "3dafef508455487c99d6d051c0f2c355", "answer": "bbc"}
 {"qid": "e92b130e0cd44a9389ba06900febff75", "answer": "commentary"}
 {"qid": "55e2e3f4ff524ffaadcca00275e0d8b2", "answer": "pittsburgh steelers"}
 {"qid": "b2a4ed9f64364ea7a9c3d614c41746d8", "answer": "denver qb"}
 {"qid": "46739ee2b5ad4b7ba18810c2f9080cc1", "answer": "atlanta"}
 {"qid": "5297ac62f83d439bbf4daeab11acdf31", "answer": "white"}
-{"qid": "d17b2fb7b7ac4d7d8577a15c3eab43c1", "answer": "super bowl"}
-{"qid": "07d1c355c55e4217b2cae4c41363c544", "answer": "super bowl"}
+{"qid": "d17b2fb7b7ac4d7d8577a15c3eab43c1", "answer": "elway 's last game as denver qb , when they defeated the atlanta"}
+{"qid": "07d1c355c55e4217b2cae4c41363c544", "answer": "denver qb"}
 {"qid": "454ef87d1740418ba6ac2cd2491cf1b7", "answer": "denver qb"}
 {"qid": "85d2089c0046418d9e8851acfde41ee1", "answer": "atlanta"}
 {"qid": "f253b330f7f343abac061f738374acd4", "answer": "white uniforms . \" the broncos last wore matching white"}
@@ -519,10 +519,10 @@
 {"qid": "374b47d1e78d4e81a2e95c55f7ff1004", "answer": "$ 5 million"}
 {"qid": "dda0e48d6b624b71bb247fe06089d3c2", "answer": "super bowl city"}
 {"qid": "6b60485586d5447ba612e526d500d15f", "answer": "nfl mobile"}
-{"qid": "a2344051e78348c9a2e513e0dc69ce4d", "answer": "spanish"}
-{"qid": "9cfa244f0f2f4f5a9189757f78805624", "answer": "cbs provided digital streams of the game via cbssports.com"}
+{"qid": "a2344051e78348c9a2e513e0dc69ce4d", "answer": "espn deportes spanish"}
+{"qid": "9cfa244f0f2f4f5a9189757f78805624", "answer": "cbs"}
 {"qid": "a1a683f4f9ed41ef85856b733165031d", "answer": "cbssports.com"}
-{"qid": "cc146c3e8e114d0ebd7a79758f1f2af3", "answer": "cbs sports apps on tablets , windows 10"}
+{"qid": "cc146c3e8e114d0ebd7a79758f1f2af3", "answer": "cbs"}
 {"qid": "6d0f6bac68734e40931642da248caaa2", "answer": "espn deportes spanish"}
 {"qid": "f63e7162a84441978848ca990e17e212", "answer": "cbs"}
 {"qid": "dc3837cd290f430ea4a40c354ef4bd17", "answer": "verizon wireless"}
@@ -540,7 +540,7 @@
 {"qid": "18f9c17562ef4c9a93c0aaffed21bf20", "answer": "nine"}
 {"qid": "4fce98a7cad443ce9d88e1e9374ff28c", "answer": "quickbooks"}
 {"qid": "1516021aa1e144e78fd2c6bdab1cf22d", "answer": "quickbooks"}
-{"qid": "87dae46938bb41b39b8dde1ef5a33022", "answer": "nine"}
+{"qid": "87dae46938bb41b39b8dde1ef5a33022", "answer": "quickbooks"}
 {"qid": "bd3dbab9555b44de9c972eed238ac763", "answer": "quickbooks"}
 {"qid": "48492b19dd144e6ab8dd5208983702f6", "answer": "quickbooks"}
 {"qid": "eaca6902a35a4602a6d6784224ac9a8c", "answer": "espn deportes"}
@@ -551,7 +551,7 @@
 {"qid": "d60f72613efb44b29ab166964b260734", "answer": "espn deportes"}
 {"qid": "4178d3b67c7e4c0c94c4ce43df48ea34", "answer": "espn deportes"}
 {"qid": "2748e0d8b18e440da6e929d7f418866f", "answer": "john sutcliffe"}
-{"qid": "120a55820e4d41449f0d3d20fa6f6c2a", "answer": "espn deportes"}
+{"qid": "120a55820e4d41449f0d3d20fa6f6c2a", "answer": "spanish - language broadcast of the super bowl"}
 {"qid": "0041859712bb48408e7c7718b5cf4f4a", "answer": "john sutcliffe"}
 {"qid": "c1c61bee1f194790a50366a165a2f4dd", "answer": "john sutcliffe"}
 {"qid": "4e63380089fd4f3bae50aec64037be56", "answer": "westwood"}
@@ -600,13 +600,13 @@
 {"qid": "633df376058449e1bf3a68c336bee69e", "answer": "the cameras were upgraded to 5 k resolution"}
 {"qid": "dabb3283885c4a1ba2852d1f727d293d", "answer": "universal studios and walt disney studios"}
 {"qid": "4537e29b8afa4db5bc8c5d8b98f840d9", "answer": "paramount pictures , universal studios and walt disney studios"}
-{"qid": "0e791f441c874b438714a54362506640", "answer": "universal paid for the secret life of pets"}
+{"qid": "0e791f441c874b438714a54362506640", "answer": "paramount pictures , universal studios and walt disney studios"}
 {"qid": "cec3bd62eeb84397ad744cc930a98823", "answer": "x - men : apocalypse , independence day : resurgence and eddie the eagle"}
 {"qid": "628f24c97bf64dfbab3d86ce575f6c23", "answer": "super bowl . fox"}
 {"qid": "c61abda326914e649b1d3db4e4f6533e", "answer": "super bowl"}
 {"qid": "046335ad2d5e4ca7aa86dd640926f53d", "answer": "jason bourne and disney"}
 {"qid": "539c7d52978740dfaef9411716b4366f", "answer": "super bowl"}
-{"qid": "0c59482708864b4a901c74b9cad3b7f4", "answer": "deadpool , x - men"}
+{"qid": "0c59482708864b4a901c74b9cad3b7f4", "answer": "fox paid for deadpool , x - men"}
 {"qid": "40622c5c391b4710a1b8e10c6e2685eb", "answer": "disney studios"}
 {"qid": "03718d29bebd45169c642b17f3bac340", "answer": "jason bourne and disney"}
 {"qid": "8fa3f90ebe9846288c78dee46ae906c0", "answer": "john fox"}
@@ -706,10 +706,10 @@
 {"qid": "29c4c77954234035936ff9a4e556841e", "answer": "panthers 41-yard line . on the next play , ealy knocked the ball out of manning"}
 {"qid": "d24fe8cdd727487c9380d9e3710c5c6c", "answer": "ealy knocked the ball out of manning"}
 {"qid": "c26fa417eb9a46e58477e330b45e94dd", "answer": "punts"}
-{"qid": "028b002badf34642a0ef8be39dce4dbc", "answer": "poland"}
+{"qid": "028b002badf34642a0ef8be39dce4dbc", "answer": "warsaw uprising museum and in the katy\u0144 museum"}
 {"qid": "c123803a4c94450aa7ac8cc95366663f", "answer": "katy\u0144 museum"}
 {"qid": "d975020abc8e4988bbcc19d0f3f32a4e", "answer": "stereoscopic"}
-{"qid": "375d91bb41774027b41f0073205cf8d6", "answer": "poland 's struggles for independence"}
+{"qid": "375d91bb41774027b41f0073205cf8d6", "answer": "poland"}
 {"qid": "3f551446260d4c47a455935aa6b2d6b0", "answer": "60"}
 {"qid": "9b6fca4d266f44f0bf6e03521bb67cf2", "answer": "infrastructure"}
 {"qid": "308dcb30a7574d4ab0e86e95cfefc01e", "answer": "rebuild poland"}
@@ -764,7 +764,7 @@
 {"qid": "f0c7abd352d34c05965fe9fe582c5b7b", "answer": "graham gano"}
 {"qid": "fa11905483bb4c7bb663c92d177eb553", "answer": "safety t. j. ward"}
 {"qid": "ec403dcced51404fbc6b851b085d60cf", "answer": "ted ginn jr."}
-{"qid": "4ec5beca852e460c9f010d4ef2217a80", "answer": "attempt"}
+{"qid": "4ec5beca852e460c9f010d4ef2217a80", "answer": "44-yard"}
 {"qid": "63b469a768634fdeb67ebc9a475af813", "answer": "t. j. ward"}
 {"qid": "898c6b16214b41e79c88b4f8de69a589", "answer": "safety t. j. ward"}
 {"qid": "7d2fd238263b427aa2a8a705742d2cda", "answer": "corey brown"}
@@ -908,7 +908,7 @@
 {"qid": "60003869972a4abe933b6b416e3070ab", "answer": "plain moraine plateau"}
 {"qid": "a3c683aa04f64b3b83e6c3071379f18d", "answer": "former flooded terraces"}
 {"qid": "b86ed6c4082d4bfda5839f90af087a6a", "answer": "valleys"}
-{"qid": "c0ee14dc9a064a00a8d08502db0e4e5b", "answer": "peat swamps or small ponds cover the highest terrace"}
+{"qid": "c0ee14dc9a064a00a8d08502db0e4e5b", "answer": "aeolian sand with a number of dunes parted by peat swamps"}
 {"qid": "405d5ee0ba9d4837aaaa13f87320b32b", "answer": "pine forest"}
 {"qid": "73c6b6b478d34c72b887f4c5ab9b8385", "answer": "1 september 1939"}
 {"qid": "4124578286f24773b25c3cc08254990e", "answer": "german nazi colonial administration"}
@@ -929,7 +929,7 @@
 {"qid": "9dc80a1536b44d6daa8a1d710617e573", "answer": "warsaw \u2019s municipal government authorities have decided to rebuild the saxon palace and the br\u00fchl palace"}
 {"qid": "d01eeff64c6d4de5b66f6aa1a4c906a9", "answer": "socialist realism"}
 {"qid": "8719bf913a5b4dbe8f594a2987e60545", "answer": "warsaw university of technology building"}
-{"qid": "4d68dd223b754eabaec130dc6c507a43", "answer": "municipal government authorities"}
+{"qid": "4d68dd223b754eabaec130dc6c507a43", "answer": "warsaw \u2019s municipal government authorities"}
 {"qid": "07b93e6e11f0414c9de15f02babb7446", "answer": "2\u00bd"}
 {"qid": "325ae15ba817445f8758bc262b0930a4", "answer": "90"}
 {"qid": "10575f3d6d5245e2bb2995d3c5e48107", "answer": "four"}
@@ -960,7 +960,7 @@
 {"qid": "205b41e572d44bf7933601736d95a2f2", "answer": "36.9 %"}
 {"qid": "cfabca3dddaa484aad2ed8c6664abc2b", "answer": "2.8 %"}
 {"qid": "7b4416fe02ad4b29a97b56e26c3ad339", "answer": "1944"}
-{"qid": "72b54818105a4c23a516c94cc9feec66", "answer": "rada miasta"}
+{"qid": "72b54818105a4c23a516c94cc9feec66", "answer": "warsaw city council"}
 {"qid": "6df50ef414854068a09639b0d62277d1", "answer": "60"}
 {"qid": "8ffac07ea91447bfa34f504a11c85c78", "answer": "two - thirds"}
 {"qid": "38f8ae5ab0c14101965c30a7a39cb2f9", "answer": "committees"}
@@ -995,7 +995,7 @@
 {"qid": "58b8639075e6447980a60c6ee40cc164", "answer": "374"}
 {"qid": "d12cef64efd6460280ef462f7315d95f", "answer": "polish united workers"}
 {"qid": "4cc5eca85cff4b1082d143f858bebd89", "answer": "christianity"}
-{"qid": "88cc3f346403493da0006d8dace3a21c", "answer": "north"}
+{"qid": "88cc3f346403493da0006d8dace3a21c", "answer": "north of france"}
 {"qid": "3cea6e1a518a4e1198698e631064fb39", "answer": "in the 1050s"}
 {"qid": "6fd9b2fdb1cc4c04997b40e25098a0c7", "answer": "1060s"}
 {"qid": "4c22f177db734206b0ac1fb2c54fd9ce", "answer": "byzantine general alexius komnenos"}
@@ -1009,10 +1009,10 @@
 {"qid": "55b3020fe59f4b48ac0d314790c9a7f5", "answer": "aveo"}
 {"qid": "6e59d1b97a4343d0913d311a4cef875f", "answer": "\u015br\u00f3dmie\u015bcie"}
 {"qid": "b562ea966ba746cc960eb7d7305f4765", "answer": "304,016"}
-{"qid": "bd35ed0415644092a1d20bceacf0a011", "answer": "the 7th greatest emerging market"}
+{"qid": "bd35ed0415644092a1d20bceacf0a011", "answer": "7th greatest emerging market"}
 {"qid": "422fb60dab1348f59a56b97f05e93592", "answer": "12 %"}
 {"qid": "72eb5b857e7a4e8e8235702f685a8734", "answer": "191.766 billion pln"}
-{"qid": "92cd0d75ad67475eb95ccb58ebff5b86", "answer": "due to the location"}
+{"qid": "92cd0d75ad67475eb95ccb58ebff5b86", "answer": "due to the location of warsaw"}
 {"qid": "50aed64ae55a478fb0f0e0df456914b2", "answer": "within the borders of warsaw"}
 {"qid": "006c5c007a0743e0b84cdb8b9024600c", "answer": "southern city border"}
 {"qid": "8eb5bfb730a04b5ab3a0055e3325e238", "answer": "kabaty forest"}
@@ -1098,7 +1098,7 @@
 {"qid": "75c577590e0d4096864fe168d0f4e2c4", "answer": "earl of hereford"}
 {"qid": "4bb75f3e326f4eed951f505691418b36", "answer": "edward the confessor"}
 {"qid": "ffce4b1977d04b43acd3605d335f5d56", "answer": "anglo - saxon and precedes the early gothic"}
-{"qid": "7cf2043ba90a4bd9aeaad937fec3b419", "answer": "anglo - saxon and precedes the early gothic"}
+{"qid": "7cf2043ba90a4bd9aeaad937fec3b419", "answer": "norman"}
 {"qid": "d2d7580fa6dd45f98e9ef9fca55828f0", "answer": "sicily"}
 {"qid": "04d21be1f37249a1a8b1eedf3cff5f0f", "answer": "southern italy"}
 {"qid": "ef477e69ffb0475abb5fda47a2bf4a39", "answer": "norman abbot robert de grantmesnil , several monks of saint - evroul fled to southern italy"}
@@ -1115,11 +1115,11 @@
 {"qid": "02a54bb41fea450d82e4124af9c29a0c", "answer": "king malcolm iii of scotland"}
 {"qid": "0382a4fd1c7d498f9b42eeefd6152b26", "answer": "1072"}
 {"qid": "bc49c60c350c4bcf8babbfc1eadf027a", "answer": "duncan"}
-{"qid": "7af1fa2c7741438a8d2c86a327161bb9", "answer": "berengaria of navarre , first - born daughter of king sancho vi"}
+{"qid": "7af1fa2c7741438a8d2c86a327161bb9", "answer": "berengaria"}
 {"qid": "49e45fa77224459ba2db8802dd95bd4f", "answer": "12 may 1191"}
 {"qid": "0f5da41e6a9f459e9ffb319ed300ba5d", "answer": "double"}
 {"qid": "dfcd3ae8040c469dbc5e7abe46b6aaf8", "answer": "1097"}
-{"qid": "d74ccda8410647fdba86b0151a32fb9e", "answer": "crusaders passing by the siege of amalfi"}
+{"qid": "d74ccda8410647fdba86b0151a32fb9e", "answer": "bohemond of taranto and his nephew tancred with an army of italo - normans"}
 {"qid": "4504f303ec0242718978d08f1a48f08e", "answer": "conquest of jerusalem"}
 {"qid": "0e59885ca2b34e49b79b8577806e3853", "answer": "normandy conquered england"}
 {"qid": "4303aaf8abac4408a5335712c605e27a", "answer": "duke william ii of normandy"}
@@ -1127,7 +1127,7 @@
 {"qid": "e23df842ade542d6b07f322fe64cd28d", "answer": "england"}
 {"qid": "6bc17b41d262434eac9c8f3afdcc1cef", "answer": "1064"}
 {"qid": "3b3e75b973ef48b2897bfd3d0168fe1b", "answer": "william of montreuil"}
-{"qid": "4b1b523361c54531a1a1213e6060f1c1", "answer": "a new stage"}
+{"qid": "4b1b523361c54531a1a1213e6060f1c1", "answer": "norman architecture typically stands out as a new stage"}
 {"qid": "eb74cbc8db484112a4faf15ec683bdcf", "answer": "rounded"}
 {"qid": "086cb398f02343389fae23a318044344", "answer": "the channel islands"}
 {"qid": "2019092abfe94b87bc84b9678f40c5a9", "answer": "two"}
@@ -1137,7 +1137,7 @@
 {"qid": "bd091aa43ae749479ed8782579313010", "answer": "philaretus brachamius"}
 {"qid": "48709af0262346c88db696242aa4f857", "answer": "11th"}
 {"qid": "cdcf9a88af6d4388b872ccc08f3b0774", "answer": "william of volpiano and john of ravenna"}
-{"qid": "596cb0305d8f474c8a4a3ed7535c889e", "answer": "lion - hearted"}
+{"qid": "596cb0305d8f474c8a4a3ed7535c889e", "answer": "richard the lion - hearted"}
 {"qid": "c8269e157fc24853a2a7132251a66ac9", "answer": "isaac komnenos"}
 {"qid": "64106c02db68430296658ec2e48334f6", "answer": "1191"}
 {"qid": "d551966d13f74f6a9f21bf5a5600b44e", "answer": "isaac komnenos"}
@@ -1159,7 +1159,7 @@
 {"qid": "fdade55a0cee4b70a4a4a9e0eabfb47d", "answer": "nikola tesla ( serbian cyrillic : \u043d\u0438\u043a\u043e\u043b\u0430 \u0442\u0435\u0441\u043b\u0430"}
 {"qid": "eff48f87ccb947f98402824173a2ed95", "answer": "modern alternating current"}
 {"qid": "f8cf2b50d3794692a2e4e8919ba9a20b", "answer": "sybilla of normandy"}
-{"qid": "b57996afa55b4dac9615a7afd69ccacd", "answer": "norman"}
+{"qid": "b57996afa55b4dac9615a7afd69ccacd", "answer": "scotland"}
 {"qid": "817733b0482f4f318ec7ea2c9702350e", "answer": "german"}
 {"qid": "274b9ce6011643e0abd63e0083b04643", "answer": "integral calculus"}
 {"qid": "9ff0dc400e89400798e692a5119d8733", "answer": "cheating"}
@@ -1183,7 +1183,7 @@
 {"qid": "1a81c0fc5e5c48568ac6902cb0a7b7a4", "answer": "thomas edison"}
 {"qid": "6db05f03f4cc49bfb5e5cae31703d7a7", "answer": "new york city"}
 {"qid": "e023c4d4ef504b8d9446ab114ce31ef8", "answer": "george westinghouse"}
-{"qid": "084a87c255da4a9fbf3ef2cf44983127", "answer": "george westinghouse"}
+{"qid": "084a87c255da4a9fbf3ef2cf44983127", "answer": "westinghouse"}
 {"qid": "6eab8b32652e4229917e17e5a98d68fd", "answer": "prague"}
 {"qid": "9a1c1349d2da43b29cc9a957742c3184", "answer": "he never studied greek , a required subject"}
 {"qid": "2e9f668381d044fd818ba23f5a36f95d", "answer": "lectures"}
@@ -1213,7 +1213,7 @@
 {"qid": "5b50b7248d4342b9a9ee5aefac42f7d6", "answer": "1862"}
 {"qid": "6978be2c8b514332b809ce8e03dbed60", "answer": "dane"}
 {"qid": "0eb667d665c24ba2b76f0e32e2176d9a", "answer": "dane and three sisters , milka , angelina and marica"}
-{"qid": "bf951cfa63be48668fe546a1b082a86f", "answer": "killed in a horse - riding accident when nikola was five"}
+{"qid": "bf951cfa63be48668fe546a1b082a86f", "answer": "dane was killed in a horse - riding accident when nikola was five"}
 {"qid": "7d09b1b1e19144cd8ad4383e199a5d6a", "answer": "gospi\u0107"}
 {"qid": "1d9ba0a54af746cebfe48670e4bde5da", "answer": "pastor"}
 {"qid": "3d928e61bdf2441191b3b89264eb1c9d", "answer": "charles f. peck"}
@@ -1232,7 +1232,7 @@
 {"qid": "2f04546bc5ff489da2d07d851b33bd59", "answer": "read many books"}
 {"qid": "3cd2dc2ade824151a6790971431fe0eb", "answer": "being drafted into the austro - hungarian army"}
 {"qid": "8c048f7f3d74456cbe21dc10d8fbbc2f", "answer": "1874"}
-{"qid": "4c36e64981e24ac7a10042fe3215e4db", "answer": "he explored the mountains"}
+{"qid": "4c36e64981e24ac7a10042fe3215e4db", "answer": "tomingaj"}
 {"qid": "8b0f13b9220740028c9aec3bfe249d42", "answer": "mark twain"}
 {"qid": "4f24034d465241a59f6e3c24b05e7479", "answer": "1882"}
 {"qid": "6aa9c37ba37f4829b3620c26f795ad90", "answer": "france"}
@@ -1249,7 +1249,7 @@
 {"qid": "3bb739e4a67e474d92310c3daa06ced3", "answer": "an archetypal \" mad scientist"}
 {"qid": "e1ec25c40c1c4294bdcf2a4238c2cd1c", "answer": "fell into relative obscurity after his death"}
 {"qid": "23291d3830a9466387cde088e73c96c5", "answer": "1943"}
-{"qid": "647f842052b54874bc70ab1dbb1821b0", "answer": "the si unit of magnetic flux density"}
+{"qid": "647f842052b54874bc70ab1dbb1821b0", "answer": "the si unit of magnetic flux density the tesla"}
 {"qid": "84b76be70cad44679a8ad6c7865b5478", "answer": "7 january 1943"}
 {"qid": "0eb950414e0c40549c9a9439bbf09ae5", "answer": "showmanship"}
 {"qid": "47fe04f5568a4485a79e78cf863cb469", "answer": "croatia"}
@@ -1257,8 +1257,8 @@
 {"qid": "899a204b9cd3446a9345afac517642e5", "answer": "mechanical appliances"}
 {"qid": "a772a968450d4af3ad85e5b9ed40c241", "answer": "n\u00e9e mandi\u0107 ) , whose father"}
 {"qid": "01376d6dffd84dfaae88d11ec71d6a05", "answer": "serbian orthodox priest"}
-{"qid": "ae7134eaa05041e0a90dbbcc7bea2715", "answer": "milutin tesla"}
-{"qid": "b45b93ed5b814e26b28babda50e2ef6b", "answer": "\u0111uka tesla ( n\u00e9e mandi\u0107"}
+{"qid": "ae7134eaa05041e0a90dbbcc7bea2715", "answer": "milutin tesla , was a serbian orthodox priest . tesla 's mother , \u0111uka tesla"}
+{"qid": "b45b93ed5b814e26b28babda50e2ef6b", "answer": "\u0111uka tesla"}
 {"qid": "fce491c0efe44f059fbfc958e0252f16", "answer": "genetics and influence"}
 {"qid": "d7445839562243d1aaccfc93e93a63f6", "answer": "western serbia"}
 {"qid": "0833e57b7adf45e2aea77e766514277e", "answer": "conrad of montferrat"}
@@ -1287,8 +1287,8 @@
 {"qid": "ceabd92f596044d3a4efa0745e23176e", "answer": "robert lane and benjamin vail"}
 {"qid": "456020d140e447c6b17ee4a117952066", "answer": "electric lighting company"}
 {"qid": "37b541c787c24facab16a098d209c6ff", "answer": "electrical arc light based illumination systems"}
-{"qid": "b51e93218d2c40808b9c08c47c367927", "answer": "electrical arc light based illumination systems"}
-{"qid": "46ad1db9f7174e499efa1233d525343c", "answer": "electric light & manufacturing"}
+{"qid": "b51e93218d2c40808b9c08c47c367927", "answer": "tesla electric light & manufacturing"}
+{"qid": "46ad1db9f7174e499efa1233d525343c", "answer": "tesla electric light & manufacturing"}
 {"qid": "361ecfc404f041ea8e5ec3e1d8f65a98", "answer": "tesla electric light & manufacturing"}
 {"qid": "675a1af657bf4e9ba8d0fcaa92814103", "answer": "1886"}
 {"qid": "96904db735a843fb8994154084c34bcb", "answer": "tesla partnered with two businessmen in 1886 , robert lane and benjamin vail"}
@@ -1296,9 +1296,9 @@
 {"qid": "034675616ece461d8160a1cb6d31a579", "answer": "robert lane and benjamin vail"}
 {"qid": "6313030e15b64474a082651fdc711539", "answer": "pittsburgh"}
 {"qid": "8ea8134198d540cfa82feadee81165b6", "answer": "pittsburgh"}
-{"qid": "b8526d9dd3a04e4c8e2014b943333be5", "answer": "60-cycle"}
+{"qid": "b8526d9dd3a04e4c8e2014b943333be5", "answer": "60-cycle ac"}
 {"qid": "2bebecf4fa874dc8a7ee5a22df22c72d", "answer": "dc traction motor"}
-{"qid": "d5d4932a39464f00be3a6daeb1de4ce6", "answer": "60-cycle"}
+{"qid": "d5d4932a39464f00be3a6daeb1de4ce6", "answer": "ac"}
 {"qid": "862d0029d69e432a9c1122854d785451", "answer": "dc traction motor"}
 {"qid": "a88f0e377cf6415eacbd739eac601a24", "answer": "penniless"}
 {"qid": "4cb7a457631d466e82f3f7a325772c57", "answer": "penniless"}
@@ -1364,7 +1364,7 @@
 {"qid": "0cd7665281bc4888bdc239a4e52969e7", "answer": "servicing and replacing mechanical brushes"}
 {"qid": "289a37d155d848eb9646d88322f78366", "answer": "may 1888"}
 {"qid": "410fb895fa8f4deaa0ba057fa4d78d56", "answer": "richard dean adams"}
-{"qid": "eec172aa674b440297fa0794dadc4db4", "answer": "richard dean adams"}
+{"qid": "eec172aa674b440297fa0794dadc4db4", "answer": "1893 richard dean adams"}
 {"qid": "de2157f189fe4218b94ad017f3f7b2e1", "answer": "westinghouse electric"}
 {"qid": "1d79bc9e8a3f40fdaf35b40bab8a101b", "answer": "westinghouse electric"}
 {"qid": "f231ede158544d1a951ecd7c22c4ebd6", "answer": "westinghouse electric"}
@@ -1381,7 +1381,7 @@
 {"qid": "20ff1ad3c6294911a4aae881ff95bb3c", "answer": "galileo ferraris"}
 {"qid": "8538e882aa9b49ea8f6dbd51608f696c", "answer": "george westinghouse"}
 {"qid": "5169e4c63c88412bbfae8087241d9e25", "answer": "magnetic field - based induction motor"}
-{"qid": "a2f627bf6d1b4bb7bcb767c757ce780c", "answer": "& manufacturing company"}
+{"qid": "a2f627bf6d1b4bb7bcb767c757ce780c", "answer": "westinghouse electric & manufacturing company"}
 {"qid": "f28cdc66c7204a778280f3be1970f851", "answer": "trans - atlantic wireless telecommunications facility"}
 {"qid": "1a58a0048a1e454b828831271e12ad40", "answer": "trans - atlantic wireless telecommunications"}
 {"qid": "c7749b27f5cf4ceebe68ce29b5df256a", "answer": "near shoreham , long island"}
@@ -1395,7 +1395,7 @@
 {"qid": "2ee2f3016d7b447ca5e8106c133df707", "answer": "george westinghouse"}
 {"qid": "dd76bb826de045a781af481c2398a693", "answer": "chicago"}
 {"qid": "4e0d5372992a4763866cee2a00a71fd8", "answer": "one million dollars"}
-{"qid": "d7f067cdcaae496cabb9f5ef7c0225d4", "answer": "polyphase system"}
+{"qid": "d7f067cdcaae496cabb9f5ef7c0225d4", "answer": "tesla polyphase system"}
 {"qid": "4f391ca34d9e4bd7883b8dd4cacfbc9d", "answer": "tesla polyphase system"}
 {"qid": "a51abb6de5194965895587a9171dc14d", "answer": "george westinghouse"}
 {"qid": "2fbfac5bacf642c9b0b81c22c674d031", "answer": "chicago"}
@@ -1446,7 +1446,7 @@
 {"qid": "6ee179fb4ea64fb3ac094c2cc0509a38", "answer": "it stimulated his brain cells"}
 {"qid": "71196073ae784adfa7bd969ecf0a2b27", "answer": "squished his toes one hundred times"}
 {"qid": "44a0a18c91244e0b993618c3c298a077", "answer": "brain cells"}
-{"qid": "94d2563ab77d43e9a82c90edd70c6bc9", "answer": "the original agreement"}
+{"qid": "94d2563ab77d43e9a82c90edd70c6bc9", "answer": "tesla money on the original agreement"}
 {"qid": "3d167473a88e41eb896d6e445bf03360", "answer": "the original agreement"}
 {"qid": "29734a3a915b4bf59348a3dff617ae80", "answer": "shocked by the reminder of his part in the stock market crash"}
 {"qid": "82525e1ccd904998959766e43b854911", "answer": "38"}
@@ -1457,10 +1457,10 @@
 {"qid": "2e88ee1da7574a8286e65ead89e0f21e", "answer": "magic , telepathy , and being piloted by a trained monkey hidden inside"}
 {"qid": "aa7b617ed461449d84969cc98005d131", "answer": "outrageous claims about the workings of the boat"}
 {"qid": "936e59b9fb974ca68118f8b1d5fdf4c7", "answer": "biplane"}
-{"qid": "5eacf6c9df7a477fbff4ef13bde1af14", "answer": "vtol aircraft"}
+{"qid": "5eacf6c9df7a477fbff4ef13bde1af14", "answer": "1,655,114"}
 {"qid": "2fb5bb855d3a47c380d1f4bf89fcb289", "answer": "turbine"}
 {"qid": "03603dadf3e1409990b00cfd17193c99", "answer": "$ 125 per month"}
-{"qid": "95c877e37b804abcb8fb9aebaf46bde4", "answer": "electric & manufacturing company"}
+{"qid": "95c877e37b804abcb8fb9aebaf46bde4", "answer": "westinghouse electric & manufacturing company"}
 {"qid": "0e834675b53a4e94ae43044340ff3968", "answer": "$ 125 per month"}
 {"qid": "0003606b3987451e9f919299d9dbafe2", "answer": "rent"}
 {"qid": "2b37de708ab844f7b090d940b7e38906", "answer": "over 50 letters"}
@@ -1711,7 +1711,7 @@
 {"qid": "4418e8981bc34e4192827ff49eaa3ec5", "answer": "time"}
 {"qid": "f2e302a6b3214b0ebd2646e6a741cc79", "answer": "big o notation"}
 {"qid": "da1e80423fed403fac57ce1bc521a357", "answer": "constant factors and smaller terms"}
-{"qid": "0f6d2cff3aa3453f8afc6a233800bb0a", "answer": "t(n"}
+{"qid": "0f6d2cff3aa3453f8afc6a233800bb0a", "answer": "40"}
 {"qid": "ce2fef9f2df849ecb87ae7b9f0fde7b4", "answer": "hides constant factors and smaller terms"}
 {"qid": "0cdd5c70e2d946e29e79af271166d447", "answer": "input encoding"}
 {"qid": "520ca4ad14964704871aa586cdfffd87", "answer": "encoding"}
@@ -1720,7 +1720,7 @@
 {"qid": "33a6b601f2ba48e89f4d5ea729a00252", "answer": "input is sorted or sorted in reverse order"}
 {"qid": "24467060b4d04a418466062df8c7c476", "answer": "reduction being used"}
 {"qid": "2fed18f4ed0e4c2182542fd300692f34", "answer": "x."}
-{"qid": "88461e67ce404e019b92c5cbaa726aab", "answer": "reduced"}
+{"qid": "88461e67ce404e019b92c5cbaa726aab", "answer": "np - hard problems"}
 {"qid": "cb38ffd1292347d184d93226d9d95c78", "answer": "eight"}
 {"qid": "2e04c9da2f5e48779c3cffc39d509f5e", "answer": "affliction"}
 {"qid": "6c6c05ce454845e9a2caaf64ab2fcd1a", "answer": "memorizing complete books , and supposedly possessed a photographic memory.:33 he was a polyglot"}
@@ -1730,7 +1730,7 @@
 {"qid": "97052a799c3b467895944d47c9655f87", "answer": "non - deterministic time is a very important resource"}
 {"qid": "16acde06bfd2412f8d1b75b6626dcce0", "answer": "mathematical"}
 {"qid": "b69d785e2a6f4152ab9704da6d955f4c", "answer": "compute algorithms"}
-{"qid": "d24af5b2e0f345cfb1dfcfe3d3331746", "answer": "problems with the yes / no answers reversed ) of np"}
+{"qid": "d24af5b2e0f345cfb1dfcfe3d3331746", "answer": "np"}
 {"qid": "9f95206a4a4a4b72af7dde0fd3376d69", "answer": "reversed"}
 {"qid": "27a8a5b00a034bde887aa198015fbf9e", "answer": "np"}
 {"qid": "fc519d322c2c4da88eb7fb972e1dd7ff", "answer": "class containing the complement problems"}
@@ -1752,7 +1752,7 @@
 {"qid": "c3b9caf337394fa5a470b4b320387b5d", "answer": "us$ 1,000,000 prize"}
 {"qid": "b9692989d93441dcad8b39a8c996a29c", "answer": "us$ 1,000,000 prize"}
 {"qid": "2a990f38dbcb42aa86f947b683fa7cb5", "answer": "us$ 1,000,000 prize for resolving the problem"}
-{"qid": "bd6b019c18ca43c0bfc6e622e369222b", "answer": "ladner"}
+{"qid": "bd6b019c18ca43c0bfc6e622e369222b", "answer": "ladner that if p \u2260 np"}
 {"qid": "7a265feef6c2470a86b4473cfd091a2f", "answer": "np - intermediate problems"}
 {"qid": "1dc00be42ab04fd493b1fcd2272a95b1", "answer": "np - intermediate problems"}
 {"qid": "5eed37e4ac494bd19483212b4216a748", "answer": "abstraction"}
@@ -1802,7 +1802,7 @@
 {"qid": "9cc5514ad3e740a7a04e8609795d7f6c", "answer": "arts , religion , civics , community roles , or life skills"}
 {"qid": "e767e7b4cfc24adcb688061693afc6f9", "answer": "civics"}
 {"qid": "f1c82887dd474bd8b35cfe7eb1237699", "answer": "np - complete"}
-{"qid": "5bacddb16c0e4e519bc24ceeac3d8171", "answer": "most difficult"}
+{"qid": "5bacddb16c0e4e519bc24ceeac3d8171", "answer": "most difficult problems in np"}
 {"qid": "838445a2de6a4b27837f25769e975ac4", "answer": "not solved"}
 {"qid": "32b7b54855b6470487a21d09029ea5c7", "answer": "mean that p = np"}
 {"qid": "898d7a7477c24050987ff93cf7460810", "answer": "requirements on ( say ) computation time"}
@@ -1938,7 +1938,7 @@
 {"qid": "32b712c994eb4ab6b003b6e72110148d", "answer": "asian , african and caribbean"}
 {"qid": "8592b604b9cd426d8414c378d3b09a68", "answer": "schools in some asian , african and caribbean countries"}
 {"qid": "b29a16ed01474c59aecdc97ef1e2378c", "answer": "essay"}
-{"qid": "9a527bbd892f461c9822ff9e12686973", "answer": "singapore and other countries"}
+{"qid": "9a527bbd892f461c9822ff9e12686973", "answer": "ireland , singapore and other countries"}
 {"qid": "93a62ff4e694439b82f7e968cb69e667", "answer": "school at a given time in the school day"}
 {"qid": "5ef93469ad8d4e81b88d14b4ebfb47e9", "answer": "remain in school"}
 {"qid": "e3d37e1151f2482fabbbe6440a52ae65", "answer": "lines or a punishment essay , or sit quietly"}
@@ -2036,7 +2036,7 @@
 {"qid": "367ce292927c4da284386634719a07bd", "answer": "avoiding the profession"}
 {"qid": "8f8b5da78e3d4a5ea39c75f0c79305a0", "answer": "sex offenders register"}
 {"qid": "8aea05b0da674438a34295fd5b096af6", "answer": "the general teaching council for scotland"}
-{"qid": "e651419d430e40fea5cd109be8a524aa", "answer": "teaching"}
+{"qid": "e651419d430e40fea5cd109be8a524aa", "answer": "teaching in scotland"}
 {"qid": "430dd0c5ca0848fca474e35bf8e1bf08", "answer": "seven"}
 {"qid": "6ecb9e391b9d435e89c63aeebd6075ce", "answer": "provisional registration"}
 {"qid": "3ed1383cf65542aaad3d3eed2c4c4083", "answer": "year"}
@@ -2129,14 +2129,14 @@
 {"qid": "924b52617d1a464d9a28595d1748c14f", "answer": "doctor of theology"}
 {"qid": "52e244a9f78c494dace5425a62a645ba", "answer": "johann tetzel"}
 {"qid": "6d608c3ff7b74c6d969b9f21ccdf1d0a", "answer": "also attested as ' into heaven"}
-{"qid": "2f3c9dd7c1cf4a268e48f54a27b0a7f5", "answer": "luther"}
+{"qid": "2f3c9dd7c1cf4a268e48f54a27b0a7f5", "answer": "luther objected to a saying attributed to johann tetzel"}
 {"qid": "6cf84084dde0400fa759e2c19937a62b", "answer": "johann tetzel that \" as soon as the coin in the coffer rings"}
 {"qid": "b9ddbde9f3a4401199c421cced477f9e", "answer": "christ and his salvation"}
 {"qid": "3a4fe209c3494e0cb0dc2c4b900b0b34", "answer": "christ and his salvation"}
 {"qid": "efad5b4b04454a56a8e18a71534334bb", "answer": "first of two points that became the foundation for the reformation"}
 {"qid": "23f1f491525c4f21a983235dc767fbba", "answer": "two"}
 {"qid": "326980bad98f448ca176ebd9e82c4f70", "answer": "tetzel"}
-{"qid": "720ace1fa82745a58d5993b87f8bb0cb", "answer": "reflection"}
+{"qid": "720ace1fa82745a58d5993b87f8bb0cb", "answer": "tetzel overstated the matter in regard to indulgences"}
 {"qid": "2919402ca5894ff1a9a959c319557c91", "answer": "indulgences"}
 {"qid": "0c1cea62f8ce4983b4e6a8e66bc95102", "answer": "catholic dogma of the time"}
 {"qid": "0198071519c04bb9a95608be47d4efc6", "answer": "council"}
@@ -2166,13 +2166,13 @@
 {"qid": "ddba1a08da9a4dbf82e4851ea3e5d092", "answer": "wittenberg"}
 {"qid": "d823ab7f55f54ec092b0465ad6eaef40", "answer": "the door"}
 {"qid": "9e221d980f3448b381b163918847609f", "answer": "1527"}
-{"qid": "301b716407e247fabc8891bcb511d4a1", "answer": "visitation of the electorate of saxony"}
+{"qid": "301b716407e247fabc8891bcb511d4a1", "answer": "1527"}
 {"qid": "c3bd7b296d9443639ac06a7269855316", "answer": "pastoral care and christian"}
 {"qid": "51c647953b274eb7a22c8b3ddc981f3f", "answer": "nothing at all of christian doctrine"}
 {"qid": "4cf69112a05940a3a0ec17f6e34fc1dc", "answer": "unskilled and incapable of teaching"}
 {"qid": "d24d5117043341208ec9e75028812014", "answer": "january 1518"}
 {"qid": "8e762e3ca9914709882f34d14704cca1", "answer": "printing press"}
-{"qid": "8e30553f71244ac98e1d1cdd692d15c6", "answer": "friends"}
+{"qid": "8e30553f71244ac98e1d1cdd692d15c6", "answer": "friends of luther"}
 {"qid": "197f91aedce34b23b442bb56b6cd231b", "answer": "two months"}
 {"qid": "043ac91dbdbc4bf89646798ce42cfd65", "answer": "two months"}
 {"qid": "2da6f7ecc9a24d1cb5e61e40f0b81a83", "answer": "about teaching"}
@@ -2237,9 +2237,9 @@
 {"qid": "bfab2ce6f765400a91f3579383947a2b", "answer": "living , and grade taught"}
 {"qid": "ae60f437c56a4468b75659c37f701cc8", "answer": "elementary school teachers"}
 {"qid": "55b2f66a966046578f5767d5ed9157c2", "answer": "internet"}
-{"qid": "c22ff8bd997c4269baa129c36813ff16", "answer": "immediate"}
+{"qid": "c22ff8bd997c4269baa129c36813ff16", "answer": "luther 's intervention was immediate"}
 {"qid": "0b2af18aead243c28f2a204fe9b7824e", "answer": "jerome schurf"}
-{"qid": "05496adc8fde472995ab53b6428297aa", "answer": "sixth"}
+{"qid": "05496adc8fde472995ab53b6428297aa", "answer": "sixth sermon , the wittenberg jurist jerome schurf"}
 {"qid": "fdd810727162423d81f6fd4e28de8fe6", "answer": "divine mercy"}
 {"qid": "1079af1ca488451e9243d2cfcb5310fb", "answer": "misguided"}
 {"qid": "1df30718d02d45e19a135fd65d040db1", "answer": "15 june 1520"}
@@ -2288,7 +2288,7 @@
 {"qid": "dd057bd4265549bba38e6de3c2891a29", "answer": "revolutionary stage of the reformation"}
 {"qid": "49a4138c921c4a929cf50caf64c091f8", "answer": "swabian league"}
 {"qid": "cd8689e1217148d5ae71b448c48b16ec", "answer": "latin translation of the qur'an"}
-{"qid": "9315b8f618774813b34bad29786a2b4e", "answer": "latin"}
+{"qid": "9315b8f618774813b34bad29786a2b4e", "answer": "latin translation of the qur'an"}
 {"qid": "9692ee6b02ae494698db6b985439d88c", "answer": "critical pamphlets on islam"}
 {"qid": "279d0fef055943319712ef9b1de618e8", "answer": "indifferent"}
 {"qid": "95d1a448660946998296a4012afdd0a1", "answer": "it exposed to scrutiny"}
@@ -2325,7 +2325,7 @@
 {"qid": "927afae40eb444dc82ba85adeacafb39", "answer": "german - language publications"}
 {"qid": "28f939bc8c744a798e3aa890599d23bd", "answer": "influential bible"}
 {"qid": "b1a6b466f1bb47fdad7ea0e1386385b3", "answer": "evolution of the german language and literature"}
-{"qid": "bc2ee2dc29954b07afeb50d70ab3435c", "answer": "william tyndale"}
+{"qid": "bc2ee2dc29954b07afeb50d70ab3435c", "answer": "william tyndale 's english bible"}
 {"qid": "33b8ddfc97e844e88bd54a91229e111f", "answer": "william tyndale"}
 {"qid": "5e7e2f3e87264dbf863ae06e13f36c72", "answer": "jesus christ"}
 {"qid": "6c966b140ef34f39a1b625d098278e13", "answer": "jews"}
@@ -2353,7 +2353,7 @@
 {"qid": "7e52ee92b49341298cb8c5fbad58b017", "answer": "small catechism"}
 {"qid": "c130cd3342304ce4a69796a84aadfc6c", "answer": "the bible"}
 {"qid": "17854760a0674bd080b64c8f71ab2977", "answer": "saxon chancellery"}
-{"qid": "5c979def3bf640289e862c56091b2696", "answer": "saxon chancellery"}
+{"qid": "5c979def3bf640289e862c56091b2696", "answer": "saxon chancellery , intelligible to both northern and southern germans"}
 {"qid": "7a9d96ff6a654899ab587ddf59540958", "answer": "saxon chancellery"}
 {"qid": "643219a647644518a09f6bc754ce4295", "answer": "he intended his vigorous , direct language to make the bible accessible to everyday germans"}
 {"qid": "2f11c4d15b43496982fafa5fbe90ecbb", "answer": "impediments and difficulties so that other people may read it without hindrance"}
@@ -2387,7 +2387,7 @@
 {"qid": "3843b2b383914ea8a0eb4bf047572f58", "answer": "four of eight songs of the first lutheran hymnal achtliederbuch , 18 of 26"}
 {"qid": "3a9bbe03adcc4a7e839b2a73a8b386a0", "answer": "24 of the 32"}
 {"qid": "311de822ac674a779a593dee9cdacaa7", "answer": "18 of 26 songs of the erfurt enchiridion , and 24 of the 32 songs"}
-{"qid": "728d62410f9f409db7e03db1bec0746f", "answer": "small catechism"}
+{"qid": "728d62410f9f409db7e03db1bec0746f", "answer": "luther 's small catechism"}
 {"qid": "f6e42ac74f38444192134aa0703e502a", "answer": "larger catechism"}
 {"qid": "ed6ff10078fa4bcaab14dc9399e7dbb3", "answer": "ten commandments ) and the lord 's prayer"}
 {"qid": "8234fbe25613438aaecc0bb4bc16b15e", "answer": "a doctrine to be learned"}
@@ -2426,7 +2426,7 @@
 {"qid": "89e4cd3437f94a0cab82b34ea4dd844c", "answer": "doctrinal unity"}
 {"qid": "1133240117d242b9a380638c14df9b19", "answer": "fourteen points out of fifteen"}
 {"qid": "5e8f22b1a0ce403f8a8bdff982aab284", "answer": "lord 's supper"}
-{"qid": "a68a3d6e73084e628ac2c1ba63189050", "answer": "san bernardino"}
+{"qid": "a68a3d6e73084e628ac2c1ba63189050", "answer": "san bernardino , and riverside"}
 {"qid": "ff4f0268c9e04ce1af97d3665c2dda40", "answer": "united states"}
 {"qid": "a75b24ea44d942488a4188c1df3f1d6a", "answer": "five most populous"}
 {"qid": "5613b0c87b694d49b9b783f482f24a9f", "answer": "top 15"}
@@ -2448,7 +2448,7 @@
 {"qid": "8aa093439a7a4984bfa7eaa9544832f5", "answer": "her vocations"}
 {"qid": "22c654427edd4bf4b596df063c30f247", "answer": "our lord"}
 {"qid": "f087edf33294463fb1ff8b1a085c8e7f", "answer": "johann walter"}
-{"qid": "d5130a8e44824239b6ff309a03d7652b", "answer": "hymnic setting of psalm 67 's prayer for grace"}
+{"qid": "d5130a8e44824239b6ff309a03d7652b", "answer": "67 's prayer for grace"}
 {"qid": "dcb4413338a74c6c855240653ca64de0", "answer": "j. s. bach"}
 {"qid": "4ef10e7bf6d74cf2b12373384f583f5b", "answer": "halle"}
 {"qid": "79f704b1f90844318ebfb3329e44d3c7", "answer": "baptism"}
@@ -2472,7 +2472,7 @@
 {"qid": "5abb557cc5184a3d940a509bc98c97fe", "answer": "moral law"}
 {"qid": "7d53390177c144ce91437c245aaf6340", "answer": "agricola"}
 {"qid": "f4d59d1d2ace49b1bbbb72c95daa69a1", "answer": "god 's wrath to christians"}
-{"qid": "e9a7c58677e44e6e9cd6cf50edd3a821", "answer": "theses with six series of theses"}
+{"qid": "e9a7c58677e44e6e9cd6cf50edd3a821", "answer": "theses with six series of theses against agricola"}
 {"qid": "2e28d7a167ae4b42876c1beb0ea8b448", "answer": "1539 open letter"}
 {"qid": "8a1eae970b324a70bc814908ce47343f", "answer": "his last statement"}
 {"qid": "d177d10a72154972ae420fab4dd3438b", "answer": "latin"}
@@ -2525,7 +2525,7 @@
 {"qid": "b6c84fc6da784a8c9085ee4c976ffa67", "answer": "edwards"}
 {"qid": "7433bb3393714e98a5a0eb53ecd02e86", "answer": "vulgarity"}
 {"qid": "b0ec0bc9550b46b9ac0dadfdaba6719d", "answer": "1531\u201346"}
-{"qid": "312f3ecc576d4a27ab091192622f6eba", "answer": "politics and polemics 1531\u201346"}
+{"qid": "312f3ecc576d4a27ab091192622f6eba", "answer": "luther 's last battles : politics and polemics 1531\u201346"}
 {"qid": "9d4b9242c77c4bafb739e6e56ede281d", "answer": "10,000"}
 {"qid": "3c6b598993df44a9880a5f4048d623ee", "answer": "10,000"}
 {"qid": "73d754ba721f45288e463270291e20f6", "answer": "6.7"}
@@ -2588,7 +2588,7 @@
 {"qid": "a9bb863167cb4c36958bccfc1b7bb65b", "answer": "keep the marriage secret"}
 {"qid": "5b3d0b6c344a4c7188789fe1ba63717a", "answer": "giving confessional advice"}
 {"qid": "7209931421234e7099ac12007b64b979", "answer": "margarethe von der saale , with melanchthon and bucer"}
-{"qid": "958aad856abf49ff8f5f83b603cf0cc0", "answer": "martin brecht"}
+{"qid": "958aad856abf49ff8f5f83b603cf0cc0", "answer": "philip of hesse"}
 {"qid": "81c977433f47406d9cca937217b167d1", "answer": "damage"}
 {"qid": "c136ca0340734a74866724f0256797ef", "answer": "luther"}
 {"qid": "084d5643bc1c4935a6b9cdf7ba2f8321", "answer": "anti - jewish rhetoric"}
@@ -2715,7 +2715,7 @@
 {"qid": "52b773bb18ee4ca5875b29961c7610d4", "answer": "pay a monthly fee"}
 {"qid": "492bf9f5f47a4bca85bba2ae67c1370a", "answer": "january 2010"}
 {"qid": "62187a66e7924c58add8242b118769bf", "answer": "non - hd variant of its multiroom box"}
-{"qid": "998bc6e8cafa4df0b948c54ec64a6f04", "answer": "metropolitan statistical areas"}
+{"qid": "998bc6e8cafa4df0b948c54ec64a6f04", "answer": "eight metropolitan statistical areas"}
 {"qid": "f532058e03304055821bc3eec3ac1abc", "answer": "two"}
 {"qid": "c903710c1861435db79e0db78686d7b0", "answer": "five million"}
 {"qid": "74aebe3be82b4f8cb878a670fbf42005", "answer": "southern border region"}
@@ -2728,7 +2728,7 @@
 {"qid": "2333150b917b47358c5d1e27b81a6854", "answer": "40,000"}
 {"qid": "0bd62fff39d246abb1c736f86fd7da28", "answer": "stb"}
 {"qid": "de918fb3a0674507acf7d68c2991c892", "answer": "17,000"}
-{"qid": "02ab226f84d648f49dd7ad7f2166323a", "answer": "4,222,000"}
+{"qid": "02ab226f84d648f49dd7ad7f2166323a", "answer": "sky+hd"}
 {"qid": "bd13dc9de4214dce85e9969bcfd867a6", "answer": "ofcom"}
 {"qid": "d4d5956b70104fa086d899df25d3071e", "answer": "\u00a3 15\u2013100,000"}
 {"qid": "69e5f29de4d44df2b996fc09f9fa6260", "answer": "no veto over the presence of channels on their epg"}
@@ -2764,7 +2764,7 @@
 {"qid": "3b6e55b5d4634c5cab360f67041a64b6", "answer": "english premier league football"}
 {"qid": "fa2c379ec72b4df89bf9e96a7dabdcca", "answer": "adjacent port of long beach , the united states ' second busiest container port"}
 {"qid": "00ede55d0917496789fd9f4df9063490", "answer": "adjacent port of long beach"}
-{"qid": "45e884146dd4425ea09fcdd83d719421", "answer": "southern"}
+{"qid": "45e884146dd4425ea09fcdd83d719421", "answer": "southern california"}
 {"qid": "c016e5e1668b4f678eb0c455c8671f1d", "answer": "tax credits"}
 {"qid": "058a241996cb41e9b42f9e003e2c0f18", "answer": "essentials"}
 {"qid": "f819df905bfd4964834b9ad7d05118f3", "answer": "\u2018 often damaging \u2019"}
@@ -2783,7 +2783,7 @@
 {"qid": "8664a202e17245f2ad4d6f525047718a", "answer": "professional"}
 {"qid": "2d61c9e1c1b14199a9d70b1708d96b5b", "answer": "nhl"}
 {"qid": "ce33ef0aac124837a71d6f039ae02066", "answer": "nhl"}
-{"qid": "5514b70da20545309b3b807a41ef5442", "answer": "los angeles rams , san diego chargers"}
+{"qid": "5514b70da20545309b3b807a41ef5442", "answer": "nhl ( los angeles kings , anaheim ducks ) ; and mls ( la galaxy"}
 {"qid": "d9acbd909c4f4a7ab4dd17738ef497ac", "answer": "la galaxy"}
 {"qid": "8d7d793691e64020b7403eb00c70ee69", "answer": "pacific ocean"}
 {"qid": "9d5cbb1fbab846f8a97364b1b3e17a01", "answer": "geologic , topographic , and natural ecosystem landscapes"}
@@ -2792,7 +2792,7 @@
 {"qid": "16e0c45b8a2a43fd816e53980fc256ae", "answer": "transverse and peninsular"}
 {"qid": "3f34defaa75d4f3e9a1a00272417c39f", "answer": "college sports"}
 {"qid": "30e374d4545f4fbd8e0856b643b78b07", "answer": "college sports"}
-{"qid": "875db207dc744981860ff8273769dcbf", "answer": "ucla bruins"}
+{"qid": "875db207dc744981860ff8273769dcbf", "answer": "usc trojans"}
 {"qid": "03e7b245b64944d088fc85e819baa8e7", "answer": "pac-12 conference"}
 {"qid": "d2f45dfa3a9548148a60dde7a499e499", "answer": "ncaa division i in the pac-12 conference"}
 {"qid": "64ba3bb2e4334701ad722d1c04050998", "answer": "san andreas fault"}
@@ -2801,8 +2801,8 @@
 {"qid": "f2c1dd3fffe648bba3f5c5df8d2cdac8", "answer": "usgs"}
 {"qid": "9c8299cc450d4f278f942b5922f8b73c", "answer": "occurrence"}
 {"qid": "0f3ad633dc6849f8a873e887421cbe22", "answer": "cisco systems company"}
-{"qid": "8d53eabf100e488ab4db28044b542e13", "answer": "bskyb utilises the videoguard pay - tv scrambling system owned by nds"}
-{"qid": "79861215ce4d4cacbd4a678ead3108ad", "answer": "cisco systems company"}
+{"qid": "8d53eabf100e488ab4db28044b542e13", "answer": "videoguard pay - tv scrambling system owned by nds"}
+{"qid": "79861215ce4d4cacbd4a678ead3108ad", "answer": "nds"}
 {"qid": "aee42aea969e41689ce35b57875e56c1", "answer": "bskyb"}
 {"qid": "3240db4adde6424484f88e1146acd0df", "answer": "sky+"}
 {"qid": "f0758d87cb664cc0ac8d0967b0644569", "answer": "mexico"}
@@ -2812,7 +2812,7 @@
 {"qid": "89811d4e679e468493d1bb352b146815", "answer": "free"}
 {"qid": "55aa533624ac475280ebbfde847befa4", "answer": "its regional tourism groups as consisting of northern , central , and southern california"}
 {"qid": "926ba169b27b4c1a8dc2ef3ec23ce4c6", "answer": "automobile club of southern california"}
-{"qid": "39b2c233782f4be5937ce159fefd9ac2", "answer": "automobile association and the automobile"}
+{"qid": "39b2c233782f4be5937ce159fefd9ac2", "answer": "california state automobile association and the automobile club of southern california"}
 {"qid": "65d1bb66113343578ce79c4999cf05a2", "answer": "the tehachapis"}
 {"qid": "19caa33eabd442fe89a55f1c6f61cdcf", "answer": "eastern kern and san bernardino"}
 {"qid": "b25d7237ea8a4098b062af4b3a4bbbae", "answer": "10 million"}
@@ -2829,15 +2829,15 @@
 {"qid": "46f93cbc1110482a9a1f0b9895311835", "answer": "third"}
 {"qid": "0857d34ebd2646929964c3736f704117", "answer": "suburban communities and use of automobiles and highways"}
 {"qid": "b0dc9e018eea4585a7b882a5fa3e7e3c", "answer": "large , spread - out , suburban communities and use of automobiles and highways"}
-{"qid": "af831c99d3b5443aa157572342d952dc", "answer": "baja"}
-{"qid": "a61e76bda85742458eae0718291db000", "answer": "2010"}
+{"qid": "af831c99d3b5443aa157572342d952dc", "answer": "baja california"}
+{"qid": "a61e76bda85742458eae0718291db000", "answer": "22,680,010"}
 {"qid": "9ff15c03305045a084859746a08daaaf", "answer": "high growth rates"}
 {"qid": "662643c151d9450c93fc80bc3db9483d", "answer": "10.0 %"}
 {"qid": "219addbeda354154ae6099391de5a2a2", "answer": "tech - oriented"}
 {"qid": "43fb9708fe8242278d97a027a3359275", "answer": "sacramento region"}
 {"qid": "07914644435346438f0b1e6411b52bd3", "answer": "\u00a3 30 m"}
 {"qid": "91f07a3a44c94a949e399f0f7df077cd", "answer": "no indication as to whether the new deal includes the additional video on demand"}
-{"qid": "0fc74d7b63934acd8ff4c626a573cf42", "answer": "virgin media"}
+{"qid": "0fc74d7b63934acd8ff4c626a573cf42", "answer": "bskyb and virgin media"}
 {"qid": "d31eb76f0c38401cab13263e97eb6d3d", "answer": "bskyb."}
 {"qid": "623c1cd10f604e9890db92f817002dd3", "answer": "against each other relating to the carriage of their respective basic channels"}
 {"qid": "a7fd7fd425944a75b023edfb1539d5ad", "answer": "bendigo"}
@@ -2862,7 +2862,7 @@
 {"qid": "14f941ee4f5a42e4b7a6a77b91f18a2c", "answer": "over 100,000"}
 {"qid": "81a37604ae19473c9fed485bc7635b2a", "answer": "ntl and telewest resulted in virgin media"}
 {"qid": "83de6634ebf2444aaeb7a2ede889774a", "answer": "2007"}
-{"qid": "6aa998ebcd384364bd6d567f4da538f4", "answer": "denied"}
+{"qid": "6aa998ebcd384364bd6d567f4da538f4", "answer": "bskyb denied"}
 {"qid": "9fc357ef8aaa4431bfb9de45d7140b79", "answer": "hd channels and video on demand content"}
 {"qid": "15934ae85e4b430e8f3b50131492efb5", "answer": "hd channels"}
 {"qid": "8ffa07f0cdcf4e26bbf435bc0c2ec0f3", "answer": "multi - member proportional representation"}
@@ -2877,7 +2877,7 @@
 {"qid": "dfddda2ca4964f76ade2c70cc07e668b", "answer": "huguenot preachers and congregants"}
 {"qid": "53efe921ea004ecda61da39c3e1bfffa", "answer": "south - east of australia"}
 {"qid": "3622fb1c9c6943269a98cea02001dc13", "answer": "second - largest"}
-{"qid": "3147839618cc46abbfa1a1e7e9c01f15", "answer": "victoria is australia 's most densely populated state"}
+{"qid": "3147839618cc46abbfa1a1e7e9c01f15", "answer": "victoria"}
 {"qid": "5281a3076b294a56940e163c31709233", "answer": "phillip bay"}
 {"qid": "0342634c4d044767996fdcf29da9faff", "answer": "second - largest"}
 {"qid": "3cb34bce942a46939f6b196e9dbc3e2a", "answer": "labor"}
@@ -2927,7 +2927,7 @@
 {"qid": "1bc1f9f3809042ddac11778bab1131f2", "answer": "state or government schools , are funded and run directly by the victoria department of education"}
 {"qid": "5dfe098fe3c8492baa2da5dc72672dac", "answer": "victoria department of education"}
 {"qid": "d522b996bb50485ba893e01fe6931fa2", "answer": "fees"}
-{"qid": "077715ac901d4a408df38a740ad64cb5", "answer": "parish schools run by the roman catholic church"}
+{"qid": "077715ac901d4a408df38a740ad64cb5", "answer": "victoria department of education"}
 {"qid": "e7f30c9b0d2b4dedb0e60c1b3dbccbcf", "answer": "curriculum standards . in addition , victoria"}
 {"qid": "edf29ecf5eb14a2b9b091935470f0566", "answer": "sky q hub"}
 {"qid": "2a83df26b89c4b3a9ccef158dbbda5e8", "answer": "sky q silver"}
@@ -2954,7 +2954,7 @@
 {"qid": "6e438b5ea3bd42e48731b455d85ed49e", "answer": "launch and expansion of the sky digital"}
 {"qid": "ae9c1325bc404c4695f449eeec45a437", "answer": "3.5 million"}
 {"qid": "9ec27ff4b6984112bf59d3f0440a683e", "answer": "highly diversified"}
-{"qid": "7f28ea0c07f3454e90f4bd6613193813", "answer": "second"}
+{"qid": "7f28ea0c07f3454e90f4bd6613193813", "answer": "second in australia"}
 {"qid": "d3cacc247f59415b8b9a3ef71b327756", "answer": "fourth in terms of gsp"}
 {"qid": "73b68bc6ea4f479884e6856c82cbf354", "answer": "melbourne"}
 {"qid": "67964903709c44fbaf71f35ad722cde6", "answer": "melbourne cricket ground"}
@@ -2962,7 +2962,7 @@
 {"qid": "18e8c52d8a9a48de803439c5ae455f4c", "answer": "miners"}
 {"qid": "1b51b7f2127b424cbbeaf6c6982c8e0e", "answer": "eureka stockade"}
 {"qid": "a2343a7ecb6c4a0abc6525197ec59e5f", "answer": "mining licence fees"}
-{"qid": "641464c51d0b42cab615b6e52a3dc19a", "answer": "act 1855"}
+{"qid": "641464c51d0b42cab615b6e52a3dc19a", "answer": "victoria act 1855"}
 {"qid": "ec636ae0935947e1868e1808927e3c75", "answer": "tourism"}
 {"qid": "27912e649d0e416983461743df8d2f3f", "answer": "sports tourism"}
 {"qid": "de935273041a4badb99c477fa132bad2", "answer": "regional cities , such as the v8 supercars and australian motorcycle grand prix at phillip island"}
@@ -2973,7 +2973,7 @@
 {"qid": "3cafe699bc9e4b9e8c283c28d3f3db3e", "answer": "its video"}
 {"qid": "acce29d749684db891141cfdde87d571", "answer": "bbc hd"}
 {"qid": "643a3a1230084adab597278975bd84e1", "answer": "4 hd"}
-{"qid": "f5a5096e35b64482bba92986440d14e4", "answer": "southern"}
+{"qid": "f5a5096e35b64482bba92986440d14e4", "answer": "southern and central parts of france"}
 {"qid": "736fb689fc53491d83c9175ddfb2bad5", "answer": "one - eighth"}
 {"qid": "71a2265261a64eddaab8d5dc5e7f9e15", "answer": "1562 to 1598"}
 {"qid": "3d41ca0b4eaa4bb19fa4a00f7ef770a4", "answer": "edict of nantes"}
@@ -2998,7 +2998,7 @@
 {"qid": "1ec4eb077e924d599777d392172db114", "answer": "new holland"}
 {"qid": "f2d86bde31d442f3941f396e7840e94f", "answer": "sydney"}
 {"qid": "2aae5394e33b417ba37616e0c367ae92", "answer": "william iii of orange"}
-{"qid": "3f9b74d8ad01459b8dd1d1513de49fd3", "answer": "king of england"}
+{"qid": "3f9b74d8ad01459b8dd1d1513de49fd3", "answer": "william iii of orange , who later became king of england"}
 {"qid": "bc8fb2b13a7e4f1ab857fbd6407cc87b", "answer": "william formed the league of augsburg"}
 {"qid": "6b48758dd1024d8a931179a1de6804f1", "answer": "dutch republic"}
 {"qid": "e69dc86de0cf45fea5474854ff9177a8", "answer": "1672"}
@@ -3059,7 +3059,7 @@
 {"qid": "5e78e0e51caa44c2bc26ad69eb07240e", "answer": "staten"}
 {"qid": "d0e883e18808436da22e3e204f64a077", "answer": "approximately one million"}
 {"qid": "50f8ccb6703d43ff9e7764e73ce26184", "answer": "2 %"}
-{"qid": "5f55790c124740828baf697aab160271", "answer": "northeast"}
+{"qid": "5f55790c124740828baf697aab160271", "answer": "northeast france"}
 {"qid": "19f302b12c5e45108178d4f11abe0218", "answer": "alsace in northeast france"}
 {"qid": "02d060924fd744c1931e8b3dd074daf7", "answer": "france"}
 {"qid": "65da2b37631944a681fe93bd35953f4a", "answer": "1624"}
@@ -3072,7 +3072,7 @@
 {"qid": "9069f8aa192c4d8eb1da632090f9df8a", "answer": "e.i. du pont"}
 {"qid": "c522d9914a5640218b2effb47be03f3b", "answer": "french first names and surnames for their children well into the nineteenth century"}
 {"qid": "44cd66b7c1974397947218b3ff98ef90", "answer": "eleutherian gunpowder mills"}
-{"qid": "bca024e49fea43d1915a2716101ee145", "answer": "exodus of huguenots from france created a brain drain , as many huguenots"}
+{"qid": "bca024e49fea43d1915a2716101ee145", "answer": "french crown 's refusal"}
 {"qid": "0a6ba3dc0ed744dd8596f9672279a65d", "answer": "huguenot descent"}
 {"qid": "0757e78cf23341fe802c8f9e94895a4d", "answer": "non - catholics"}
 {"qid": "b28482af4b9c4f70aa6c084f8ab9067a", "answer": "north american front of the seven years ' war"}
@@ -3081,7 +3081,7 @@
 {"qid": "560f10879906407c81a6e06d72df3f2b", "answer": "dublin , cork , youghal and waterford"}
 {"qid": "707ba22b6f774807990fada9c3e0ff8e", "answer": "dublin"}
 {"qid": "aeb122bbd91b4ad0b729a16494b2cace", "answer": "sheriff"}
-{"qid": "6e5d5b629219473e8464f1c5a766e406", "answer": "serve the significant new huguenot community in the town"}
+{"qid": "6e5d5b629219473e8464f1c5a766e406", "answer": "portarlington dates back to 1696"}
 {"qid": "9c83cffaffe34aef8c88b4eba249d4ed", "answer": "jacksonville , florida"}
 {"qid": "442e6333877f41959b861438d46f48dc", "answer": "jean ribault"}
 {"qid": "1af7c469e7d8495b8ef51cf80f3221f5", "answer": "fort caroline"}
@@ -3158,10 +3158,10 @@
 {"qid": "7a2ccb6d7ecf4c6e9e948268acd03be2", "answer": "1555"}
 {"qid": "59eb01af4db64d05a24e95df5068ea79", "answer": "fort coligny"}
 {"qid": "0d38b2964663450f8424fff414201c40", "answer": "1560"}
-{"qid": "e49ebecd82e84c8f89326744f5296fc7", "answer": "declaration of faith to express their beliefs to the portuguese . this was their death sentence"}
+{"qid": "e49ebecd82e84c8f89326744f5296fc7", "answer": "declaration of faith to express their beliefs to the portuguese"}
 {"qid": "52b621c4fa3c4089b67fef1791f8b674", "answer": "navarre"}
 {"qid": "0714eacf212743dab3a7bf29ddd6b4b5", "answer": "1598"}
-{"qid": "f2a4351ada584b3ca269866aebdc6c97", "answer": "reaffirmed catholicism"}
+{"qid": "f2a4351ada584b3ca269866aebdc6c97", "answer": "reaffirmed catholicism as the state religion of france"}
 {"qid": "7091c790e7e94059a09f14719b0db83e", "answer": "catholic interests"}
 {"qid": "4a1aa0094bc342eb8eaf28439d8abeae", "answer": "catholics"}
 {"qid": "5e75a99ce6ba4c91aef65b6ee7ddd728", "answer": "injector"}
@@ -3245,9 +3245,9 @@
 {"qid": "123fbd6c8b884d42a96ebe0bd694867b", "answer": "atmospheric engine"}
 {"qid": "e25bf5427c124ff69267d96e8d104727", "answer": "thomas newcomen"}
 {"qid": "d6f67ce35b0c44c4b8fdbf505da3c9b4", "answer": "1712"}
-{"qid": "554d8acf4d444c768c56d9fb302650e6", "answer": "steam pump"}
+{"qid": "554d8acf4d444c768c56d9fb302650e6", "answer": "savery 's steam pump"}
 {"qid": "ce1ec7fd59154f8e89b4d4001c3fcfc2", "answer": "papin"}
-{"qid": "4ef2071bda52416b83c016e2aaae25a4", "answer": "valves driven by trip mechanisms"}
+{"qid": "4ef2071bda52416b83c016e2aaae25a4", "answer": "poppet"}
 {"qid": "3923faaa759d402cb6a89900562d032b", "answer": "joy"}
 {"qid": "f7dc41f8f6f649e6acb60c08ce934132", "answer": "exhaust side remains open for a longer period after cut - off"}
 {"qid": "2bb42030b6234ea8bc626f31d62a98e7", "answer": "james watt"}
@@ -3272,7 +3272,7 @@
 {"qid": "b753f60ed64946d99d49dce0c98ca3aa", "answer": "lutheran and reformed states in germany and scandinavia"}
 {"qid": "5ea2289cbd444b6db5e6c4422112f466", "answer": "edict of potsdam"}
 {"qid": "45399867c02247d49b44dfe5e83fb3fc", "answer": "elector of brandenburg and duke of prussia"}
-{"qid": "9ddbfb3833cf42f78c818571f4f8f824", "answer": "altpreu\u00dfische infantry regiments no"}
+{"qid": "9ddbfb3833cf42f78c818571f4f8f824", "answer": "huguenot refugees found a safe haven in the lutheran and reformed states in germany and scandinavia"}
 {"qid": "1f22800ae0da4be9824e4181a1f8846b", "answer": "steam engines"}
 {"qid": "6a3ed3e0f7dc4e49b2a1157df3af7472", "answer": "steamboats"}
 {"qid": "10460dd9a5d84a679c503e63f00118b5", "answer": "farm tractors"}
@@ -3319,7 +3319,7 @@
 {"qid": "713a54f522e749618be09bcddde67e87", "answer": "coastline peninsula of davenports neck"}
 {"qid": "8e4ff26b76b849b886bd7b7fb678543b", "answer": "john pell"}
 {"qid": "4e4bd02326d44e6cbc72fd8ced1458ce", "answer": "la rochelle"}
-{"qid": "042131adeb244e64a5a82294c85989a3", "answer": "trinity - st"}
+{"qid": "042131adeb244e64a5a82294c85989a3", "answer": "huguenot burial ground"}
 {"qid": "cf35b92acb304f25a57669746b027be2", "answer": "electric motors and internal combustion engines"}
 {"qid": "1b67304dfce8417580b1e576bff007ac", "answer": "reciprocating piston"}
 {"qid": "71530719a7aa45e5bce07e250afbced3", "answer": "turbine"}
@@ -3351,7 +3351,7 @@
 {"qid": "b0fbe79e40924c7b904597f8bd60459c", "answer": "corliss steam engine"}
 {"qid": "861c47046511476c8bbd43747c4f8fd0", "answer": "1849"}
 {"qid": "a5da17b4413641e4bba1fa010baf05f5", "answer": "30 %"}
-{"qid": "a9ff5a46b51144009b30615ad2acb074", "answer": "four"}
+{"qid": "a9ff5a46b51144009b30615ad2acb074", "answer": "corliss steam engine , patented in 1849 , which was a four"}
 {"qid": "5c57e300257e41f2a4e9ab7dd0d70cc4", "answer": "rumford medal the committee"}
 {"qid": "626bfa5b33ad4d50a4fe2f2ae53cf119", "answer": "rankine cycle"}
 {"qid": "b7ecb73c7e0541fc809db86377bbe49d", "answer": "removed"}
@@ -3379,10 +3379,10 @@
 {"qid": "d36001be8d4144f3a1b08d505b5c2b05", "answer": "british invention steam turbine"}
 {"qid": "f0e46252d0c84cc68b33f28b8c8b9c75", "answer": "british"}
 {"qid": "ed06c660bed34d34956eeb1145d963c8", "answer": "1905"}
-{"qid": "c24cc0cdbdfc43f1ac5496566d3b47b8", "answer": "when james watt developed"}
+{"qid": "c24cc0cdbdfc43f1ac5496566d3b47b8", "answer": "newcomen 's and watt 's early engines were \" atmospheric \""}
 {"qid": "8123c96970304bac88240eeb3cc0a975", "answer": "atmospheric"}
 {"qid": "491188d1b9ef42a6b7b6dd4720473e54", "answer": "half"}
-{"qid": "e8032c5b8c52440db536b76f3d5aa096", "answer": "john smeaton 's improved version of newcomen 's"}
+{"qid": "e8032c5b8c52440db536b76f3d5aa096", "answer": "john smeaton"}
 {"qid": "46ad75c40fc940f68f2dc1e105c82f19", "answer": "expanding steam"}
 {"qid": "974d594fc41c418984b3e1a48286e654", "answer": "injector"}
 {"qid": "f8bedd3cf38c4bb8a89a41ac350d680a", "answer": "raise the temperature of the steam above its saturated vapour point"}
@@ -3445,10 +3445,10 @@
 {"qid": "4d17f7bb43664bd8845954d42acedffe", "answer": "in the condenser"}
 {"qid": "2bf56265d0b943f5b5ef519a27cffaf2", "answer": "constant temperature"}
 {"qid": "b8001aa145c846dd86fcbe441b9d1a83", "answer": "isothermal"}
-{"qid": "117259be65b14957990fdd6b6855dd15", "answer": "from the condenser"}
+{"qid": "117259be65b14957990fdd6b6855dd15", "answer": "rankine"}
 {"qid": "5ce288094a89474abe79b656e32aae6b", "answer": "1773"}
 {"qid": "e0f09a52abaf4fbe8b81a869878f6537", "answer": "1777"}
-{"qid": "2bcc7c3dd21143ea94c360288d4239b9", "answer": "phlogiston theory of combustion and corrosion"}
+{"qid": "2bcc7c3dd21143ea94c360288d4239b9", "answer": "priestley is often given priority"}
 {"qid": "6740c471f7014024b67c672049a9b4f1", "answer": "antoine lavoisier"}
 {"qid": "13c0134989ba4154ab340c3da08bdff3", "answer": "oxygen helped to discredit the then - popular phlogiston theory of combustion and corrosion"}
 {"qid": "72b97e9b8727483e905699bca4c83710", "answer": "james dewar"}
@@ -3507,7 +3507,7 @@
 {"qid": "5900eace30284f5dad0edc18beb0af02", "answer": "oxygen compounds"}
 {"qid": "e817e0f3f0ee4a60a0d78a5076e8081e", "answer": "carbon dioxide"}
 {"qid": "c6d94042f6c14cf083f5b8d7479464d4", "answer": "carbon dioxide ( co 2 ) . the earth 's crustal rock"}
-{"qid": "552e89957dbc4123af4a3c4699b64a75", "answer": "crust"}
+{"qid": "552e89957dbc4123af4a3c4699b64a75", "answer": "earth 's mantle , of much larger mass than the crust"}
 {"qid": "80966b4808dd497b869119bf656f794d", "answer": "silicates of magnesium and iron"}
 {"qid": "fac996ea51044bdbadf7a436efcf115e", "answer": "oxygen compounds"}
 {"qid": "4b67cbc4a2c2477b9294456822e14220", "answer": "photosynthesis"}
@@ -3522,9 +3522,9 @@
 {"qid": "9bb735f41923472f9e54bc15cbd81563", "answer": "byzantium"}
 {"qid": "2583aa92556b40b8b103bcfc2cfebfc2", "answer": "bce"}
 {"qid": "10a9b624d15343cf969edf837fc08ae1", "answer": "classical element fire"}
-{"qid": "e449548940d9424a89b74ea934c33c04", "answer": "mechanics , philo of byzantium"}
+{"qid": "e449548940d9424a89b74ea934c33c04", "answer": "greek writer on mechanics , philo of byzantium"}
 {"qid": "bc3b97a61fe945de97c3566e7a9eb60d", "answer": "surmised that parts of the air"}
-{"qid": "b6e6519828414d9f95ac13df6424ed97", "answer": "pneumatica"}
+{"qid": "b6e6519828414d9f95ac13df6424ed97", "answer": "philo of byzantium . in his work pneumatica"}
 {"qid": "5744ee4ecced4d5b9f505ec31b2420c6", "answer": "leonardo da vinci"}
 {"qid": "90852fdf56324bdaa6fce6946b5d552e", "answer": "air is consumed during combustion and respiration"}
 {"qid": "b8969837373d4559ad6fb4bd187b1847", "answer": "trigger combustion . oxygen"}
@@ -3744,9 +3744,9 @@
 {"qid": "8a5e1f0a145140c0a38297db9b3719ed", "answer": "march 1974"}
 {"qid": "8a97d808a1714deba5efc2031d27c13d", "answer": "japan"}
 {"qid": "83ea09253ca94f3c8912dae81b199195", "answer": "71 %"}
-{"qid": "64464f6b86eb480da562d26c6cf484df", "answer": "encourage it to change its noninvolvement policy"}
+{"qid": "64464f6b86eb480da562d26c6cf484df", "answer": "japan"}
 {"qid": "a45276cfbd144498bc9563121c808e1f", "answer": "1967"}
-{"qid": "8d60d81dbabe49cf9df62147a4e284fc", "answer": "december 25"}
+{"qid": "8d60d81dbabe49cf9df62147a4e284fc", "answer": "december 25 , japan"}
 {"qid": "3b1a4b51f7564ad48ae4b720721ab689", "answer": "datsun truck"}
 {"qid": "8114941e522a4f2f8162ef134a51920e", "answer": "dodge d-50 a few years after the oil crisis"}
 {"qid": "6a2d58ae669f4f7e8b8a3c9205a74081", "answer": "chevrolet luv"}
@@ -3764,7 +3764,7 @@
 {"qid": "b2941492517341eda0a32da9042a1fa5", "answer": "1968"}
 {"qid": "8a5d2f98656e42699d0082c6738a9076", "answer": "john f. kennedy"}
 {"qid": "bdb7e6fb8d9d43b48e51585625abbd5e", "answer": "two"}
-{"qid": "6dd337cb2ef945caa743ab53eb30d5ff", "answer": "posted price of oil by 70 % , to $ 5.11 a barrel"}
+{"qid": "6dd337cb2ef945caa743ab53eb30d5ff", "answer": "5.11 a barrel"}
 {"qid": "6253860198554fed8484865b08816611", "answer": "october 16 , 1973"}
 {"qid": "54067300e0a34b588135841e9e37ed0d", "answer": "five percent monthly increments"}
 {"qid": "dbbba0852a524b0fbf889e937ea6f127", "answer": "$ 2.2 billion"}
@@ -3777,7 +3777,7 @@
 {"qid": "c34a1bad26e847b78f5691b714095bdb", "answer": "necessary"}
 {"qid": "2a7bdb8b7acb4e538d9ca7eceac2786a", "answer": "letters"}
 {"qid": "88e5bcddca8f42e381601055a7fc25f4", "answer": "1961 to 1972"}
-{"qid": "e5358395e7514ff484f835617ff1fa20", "answer": "gemini missions"}
+{"qid": "e5358395e7514ff484f835617ff1fa20", "answer": "apollo missions"}
 {"qid": "5b94643158bc4cd98d5578909be05c00", "answer": "soviet union"}
 {"qid": "efb9bab5b4904c92aca6f09919766bac", "answer": "apollo"}
 {"qid": "9b4fed88f2a14c94992b348e1221f310", "answer": "oxygen therapy"}
@@ -3799,16 +3799,16 @@
 {"qid": "e12ccfdab7a14772b3e1b1017d99533f", "answer": "approximately one week"}
 {"qid": "3317ddeb4bd84e1e9817f986df8132f7", "answer": "we are neither making maximum effort nor achieving results necessary if this country"}
 {"qid": "1e44c73b3e9f4f7a969060871108610c", "answer": "1967"}
-{"qid": "f86e20fafe3248b79f33ab69f1c943a9", "answer": "prelaunch test"}
+{"qid": "f86e20fafe3248b79f33ab69f1c943a9", "answer": "apollo"}
 {"qid": "4e42f67042c24ccebf1b14ecd0faf5b5", "answer": "budget cuts"}
 {"qid": "709f91bf2999494ba375e176106e16d7", "answer": "five"}
 {"qid": "5582f347a97f48ed89bea7bd7b369ef5", "answer": "prevented by an oxygen tank explosion"}
 {"qid": "58f36e51e3fd48d7b80d9b2891d019b6", "answer": "command ship"}
-{"qid": "93c4368656424c729273ca3d3bb77acc", "answer": "lander spacecraft to be used as a \" lifeboat"}
+{"qid": "93c4368656424c729273ca3d3bb77acc", "answer": "lor"}
 {"qid": "1c96588cf9b749189f04e578bed92100", "answer": "propulsion , electrical power and life support"}
 {"qid": "683cb99c728c46be84447454eea6b000", "answer": "1964"}
 {"qid": "e7d60df4900745209ba7cdfa44bd5818", "answer": "apollo 8"}
-{"qid": "d386a4ed93cc4e08a0f418c4345c5a79", "answer": "apollo 17"}
+{"qid": "d386a4ed93cc4e08a0f418c4345c5a79", "answer": "apollo"}
 {"qid": "ef0e36bd8ce2408b9850cc37ac337279", "answer": "842"}
 {"qid": "f8ec85999ee6471092ea0ef3c3358d52", "answer": "technology incidental to rocketry and manned spaceflight , including avionics , telecommunications , and computers"}
 {"qid": "b9a6ec3411e648709029a9e4fbf93012", "answer": "robert r. gilruth"}
@@ -3853,7 +3853,7 @@
 {"qid": "24ba580850b44a32bb3ea72a9fbc4f2d", "answer": "minuteman program"}
 {"qid": "3f8242ecc73641328cbf4e3d98392be7", "answer": "samuel c. phillips"}
 {"qid": "cb2cb9b899f4498ab235d68d0f10bd5d", "answer": "1964"}
-{"qid": "49e28a37021b40278093a2e2b44983b2", "answer": "apollo program director"}
+{"qid": "49e28a37021b40278093a2e2b44983b2", "answer": "phillips be made apollo program director"}
 {"qid": "fbc5462401ca49239590069a5e03ddcf", "answer": "nicholas e. golovin"}
 {"qid": "fb12a19ad3b043b4853d020a9c1a44ba", "answer": "july 1961"}
 {"qid": "0a8914f563de40bca82a0fb73458154e", "answer": "joseph shea"}
@@ -3994,7 +3994,7 @@
 {"qid": "ba9cefc2dc764db2a503d51a00aa397c", "answer": "christmas eve"}
 {"qid": "3ca371ff16b6468597ce4a88c79fa2b8", "answer": "bold step of sending apollo 8 to orbit the moon"}
 {"qid": "1a2a8a1ee6b34327a0a7a074b3ac87ac", "answer": "human cosmonauts"}
-{"qid": "a685bf6757674df58fac438a80e74166", "answer": "lunar reconnaissance orbiter"}
+{"qid": "a685bf6757674df58fac438a80e74166", "answer": "apollo flights landed"}
 {"qid": "a02728bc218f4733bb33f06d253d2879", "answer": "apollo 11 mission"}
 {"qid": "ac82d998f6ff42e1b30da3d03418a24a", "answer": "still be standing"}
 {"qid": "55d6da8046ce462cbe020355680d9908", "answer": "apollo 12 within walking distance of the surveyor 3 unmanned lunar probe"}
@@ -4009,10 +4009,10 @@
 {"qid": "2e4cd317cb2c45608025b3d83a051809", "answer": "apollo applications program"}
 {"qid": "d805356b10014a4dae82a58d7c7f8f71", "answer": "interplanetary"}
 {"qid": "60cb48beae02492485c0cb712928bab2", "answer": "saturn ib launches"}
-{"qid": "d9be1882b09541b6b109304cd05085c7", "answer": "yearly budget also began to shrink in light"}
-{"qid": "56220403f88f469e9641e0a53a62e9e3", "answer": "decision was made to also cancel missions 18 and 19"}
+{"qid": "d9be1882b09541b6b109304cd05085c7", "answer": "nasa 's yearly budget also began to shrink in light"}
+{"qid": "56220403f88f469e9641e0a53a62e9e3", "answer": "18"}
 {"qid": "1f864a030c0a46df85893fb5b659ac8a", "answer": "1971"}
-{"qid": "a5b34a92451a44a0a8529d5220b95517", "answer": "saturn v. apollo 4"}
+{"qid": "a5b34a92451a44a0a8529d5220b95517", "answer": "saturn v. apollo"}
 {"qid": "6e8f084de07f4dfba2bdd1000714689d", "answer": "ballast"}
 {"qid": "38b4cfadeb194f4590a9259465e75b5e", "answer": "1968"}
 {"qid": "a937607dcf954926b5e6b167185dd4b9", "answer": "a third unmanned test"}
@@ -4056,7 +4056,7 @@
 {"qid": "84aa45ecd97e4fe999b6dcf6f9d734f5", "answer": "the constitutional traditions common to the member states"}
 {"qid": "bd6b309a3f8c432395832baf0c3d1f10", "answer": "fundamental rights recognised"}
 {"qid": "1f56db6d7f9749c695b935ba7e0cc639", "answer": "32"}
-{"qid": "844dd58471504973b2db4c311c416af9", "answer": "service medal"}
+{"qid": "844dd58471504973b2db4c311c416af9", "answer": "nasa"}
 {"qid": "354bcbac9edc4ad2912b19a71db24df6", "answer": "1969"}
 {"qid": "07b9366456b34381998d187e0bf762b5", "answer": "flew the first earth orbital test"}
 {"qid": "b4efa21817fc4281a98975101555bbc8", "answer": "apollo 8"}
@@ -4099,7 +4099,7 @@
 {"qid": "1e1f685bffde467eb13bc28747e8b728", "answer": "principles of legal certainty and good faith"}
 {"qid": "4228908bb7194534ac73fce8cdba2417", "answer": "labour and industry relations"}
 {"qid": "ec5c2a029dcf4759b4e3d28e648cafb2", "answer": "1997"}
-{"qid": "b9152977f7d14cabb707705e01947a05", "answer": "1996 parental leave directive"}
+{"qid": "b9152977f7d14cabb707705e01947a05", "answer": "1994 works council directive"}
 {"qid": "be58d18510b4461eba14be84a4b4558d", "answer": "1996"}
 {"qid": "749549f089e548ed924fca6b48a73e4e", "answer": "workforce consultation"}
 {"qid": "41a15993e20f488cad93e537f42f0e71", "answer": "12"}
@@ -4114,7 +4114,7 @@
 {"qid": "d4c345f454c9411d80fd7b4cb27282f1", "answer": "democracy and human rights"}
 {"qid": "221b94c3705e4eafa2336c9439bccd38", "answer": "1972"}
 {"qid": "59bb4de2f136466daf66c87fa3d15527", "answer": "factual commitment to human rights"}
-{"qid": "a8c1ba49fabe450fb33a6f3481ef7964", "answer": "democracy , the rule of law and the social state principles"}
+{"qid": "a8c1ba49fabe450fb33a6f3481ef7964", "answer": "german constitutional court from the solange i and solange ii"}
 {"qid": "cbedca152e464ba1ae555a485260532a", "answer": "none"}
 {"qid": "0e6a0bafd7d3466c975c0aa0efb2b818", "answer": "member states"}
 {"qid": "cb0086ef5c0e4f2294fe0a2b4b30db0c", "answer": "1950"}
@@ -4137,7 +4137,7 @@
 {"qid": "c7b773b875494ca8b23761796a3dc3a1", "answer": "with common rules for coal and steel"}
 {"qid": "9f49f715c5f546528802c4343ad43b4d", "answer": "uk , ireland , denmark and norway"}
 {"qid": "d23838ee52f14e98b4116029c7eb0337", "answer": "1979 , spain and portugal 1985 , austria , finland , norway and sweden in 1994"}
-{"qid": "b9ce430c38a547dea36145c7313f6973", "answer": "1994"}
+{"qid": "b9ce430c38a547dea36145c7313f6973", "answer": "norway"}
 {"qid": "bef1a1835c3f4a31b1336fe22d9efa11", "answer": "greenland"}
 {"qid": "25820907329f4eb5a71063ba06b316ee", "answer": "coal and steel , and then atomic energy"}
 {"qid": "c0b1269fc41d4ba3afdafae19f20e972", "answer": "1985"}
@@ -4206,11 +4206,11 @@
 {"qid": "be2619a1e6ba4bb7826a1c17d23035ca", "answer": "middle miocene"}
 {"qid": "1cf323ff7ce84dbfa38df1fe555dcd42", "answer": "cretaceous \u2013 paleogene extinction event"}
 {"qid": "71440db88f264819a64eaa2cee543a14", "answer": "34 million"}
-{"qid": "0bbc97f62f7c42849ce529d88ce4475d", "answer": "european council \" ( a distinct"}
+{"qid": "0bbc97f62f7c42849ce529d88ce4475d", "answer": "european council"}
 {"qid": "7d520df7b5da4f80822d7de122722a86", "answer": "donald tusk"}
 {"qid": "7d8db2d31d0d416a93bbe376277d7cd3", "answer": "352 votes"}
 {"qid": "656aef2118714127bedb3261ed0e7dca", "answer": "352"}
-{"qid": "57b77d9ae8ac4fe09424282a27b31f7e", "answer": "352 votes"}
+{"qid": "57b77d9ae8ac4fe09424282a27b31f7e", "answer": "352"}
 {"qid": "c2523350101840adb5476dab0058de0f", "answer": "the council"}
 {"qid": "1e0b9f85a1754ce090a853c42e1194e3", "answer": "six months"}
 {"qid": "0175cb76e8a04257a8d7d7cbb27dae5f", "answer": "352"}
@@ -4240,10 +4240,10 @@
 {"qid": "df11a0a655824dc9bf0edc685e9ffc0a", "answer": "xingu tribe , remains of some of these large settlements in the middle of the amazon"}
 {"qid": "6516cb366d504a269c414ebd8fb0fdd9", "answer": "michael heckenberger"}
 {"qid": "f3f1a999135941b7be8ce42060531bd2", "answer": "roads , bridges and large plazas"}
-{"qid": "eafc2090420d47a4b867aaf2e903990c", "answer": "keck and mithouard"}
+{"qid": "eafc2090420d47a4b867aaf2e903990c", "answer": "french"}
 {"qid": "0ceffc9c317f4f3eaf63e37908f91c23", "answer": "prevent cut throat"}
 {"qid": "7f230b1183304e47a8e1bfbb52bbdd30", "answer": "konsumentombudsmannen v de agostini"}
-{"qid": "89ef8b02e78846b0ace5f48d3ade1287", "answer": "harmonised"}
+{"qid": "89ef8b02e78846b0ace5f48d3ade1287", "answer": "eu harmonised"}
 {"qid": "b2ebdf6da3a74001be5d18cccaa05b66", "answer": "2007"}
 {"qid": "87f9e5802b1a4434a6c490c20243865f", "answer": "since the treaty of rome 1957"}
 {"qid": "15eee2284b78453a8fc0241e7a635aa3", "answer": "consumer prices"}
@@ -4253,7 +4253,7 @@
 {"qid": "939c0260c4cc464b95b77cdc789bcfbe", "answer": "france"}
 {"qid": "e8b44e7928e9423ab4606b19d04184df", "answer": "2003"}
 {"qid": "f66a247c1dd440f2a5ce03f11da0415b", "answer": "cocoa butter"}
-{"qid": "22dc7b86c943490da0709f8085a9178f", "answer": "cube shaped packages"}
+{"qid": "22dc7b86c943490da0709f8085a9178f", "answer": "cube shaped packages infringed article 34"}
 {"qid": "9b3ff338a3d44552a66ba6226f2963cc", "answer": "587,000"}
 {"qid": "1aa468e68ebc4244ba3ec263079df0a9", "answer": "587,000"}
 {"qid": "a710b0f0b1084b789b3101b4de92f412", "answer": "livestock pasture"}
@@ -4292,7 +4292,7 @@
 {"qid": "58cf346122914a27a28f627e69be1df6", "answer": "the european union"}
 {"qid": "4964e63928e54de3b4ceea3b9609834c", "answer": "the council"}
 {"qid": "e80d3e1f9bf041d68660986919ecc505", "answer": "jean - claude juncker"}
-{"qid": "b0bdba5752dc472ea72ede66904e28cf", "answer": "bargained"}
+{"qid": "b0bdba5752dc472ea72ede66904e28cf", "answer": "28"}
 {"qid": "b388b76e68ef405998cd466c6e870720", "answer": "federica mogherini"}
 {"qid": "078e6022c5af4b2cbd5dec9d034c1022", "answer": "article 17(3"}
 {"qid": "e2077dd46c22428788a7d4ce7b6e79d6", "answer": "jean - claude juncker"}
@@ -4371,10 +4371,10 @@
 {"qid": "f3923c6ce529460b9df389b407a3278d", "answer": "density of 0.2 inhabitants per square kilometre"}
 {"qid": "d3f45e3369184ba1b8b5c9538795c609", "answer": "anthropological"}
 {"qid": "a090d24f4f8242928eb7df676c0836f1", "answer": "5 million"}
-{"qid": "2c891de545ab4b1e94961b4b5790a7ce", "answer": "rainforest"}
-{"qid": "c4926d41c63940b08bf866453a643d59", "answer": "archeologist betty meggers"}
+{"qid": "2c891de545ab4b1e94961b4b5790a7ce", "answer": "amazon rainforest"}
+{"qid": "c4926d41c63940b08bf866453a643d59", "answer": "amazon rainforest"}
 {"qid": "4cc0d7cd9dbe4b3db2e191f6448497c3", "answer": "0.2"}
-{"qid": "539e884c64d247e3900a1610fb13c2a7", "answer": "rainforest"}
+{"qid": "539e884c64d247e3900a1610fb13c2a7", "answer": "amazon rainforest"}
 {"qid": "ae59b836072b43fcac2fcc9f1e28e673", "answer": "betty meggers"}
 {"qid": "5bb87ab42b0647e7bf6272c3027b88a7", "answer": "archeologist betty meggers"}
 {"qid": "2bfbeb8aaffa40bbb89884da83d5c9c8", "answer": "0.2"}
@@ -4432,7 +4432,7 @@
 {"qid": "89394d96dec04d689b0abd78c707a1db", "answer": "people to pursue their life goals"}
 {"qid": "852d705d0e00417ab7463c6c499c5e00", "answer": "european community"}
 {"qid": "be65a212acf24ef39797d750482fe8cd", "answer": "citizenship"}
-{"qid": "b6c285542dcc402dab21e97afc7bb653", "answer": "steymann v staatssecretaris van justitie"}
+{"qid": "b6c285542dcc402dab21e97afc7bb653", "answer": "netherlands"}
 {"qid": "2d663e475db94aec9831ae306fa4809f", "answer": "stay"}
 {"qid": "074cc7d7a82045ba8e169c28fb5fe091", "answer": "comb"}
 {"qid": "744d48efebd042eebdd56daf320bd908", "answer": "ctenes"}
@@ -4493,7 +4493,7 @@
 {"qid": "9c673e3f183041ef9a9ff084eb5e5357", "answer": "a transparent dome made of long , immobile cilia"}
 {"qid": "d43e8a30ae374d4aaabe258011019f4e", "answer": "balance sensor"}
 {"qid": "6520aa9e152e4ccca66368257a6af36e", "answer": "balance sensor"}
-{"qid": "e518b5eb0d604d08b21d517a95dd098f", "answer": "beroida , also known as nuda"}
+{"qid": "e518b5eb0d604d08b21d517a95dd098f", "answer": "beroida"}
 {"qid": "3363e069464b4904b7b4fe266ce30cdd", "answer": "beroida"}
 {"qid": "541091dfd980491593da8b20b6356ab6", "answer": "the stomach wall"}
 {"qid": "90d1ab115e9c419b9b1a62ed8ef6cadb", "answer": "front of the animal"}
@@ -4556,7 +4556,7 @@
 {"qid": "3c15f318ed994364b3859b2fbca9ce1a", "answer": "chengjiang lagerst\u00e4tte and dated to about 515 million years"}
 {"qid": "5056d7c4a4c14763934948fc68036110", "answer": "sessile"}
 {"qid": "162c44d9b9cf4edba36d8536021492bb", "answer": "stromatoveris was an evolutionary \" aunt \" of ctenophores"}
-{"qid": "8df9ef05a9494961b35c43392fa9321f", "answer": "sessile"}
+{"qid": "8df9ef05a9494961b35c43392fa9321f", "answer": "sessile frond - like fossil stromatoveris"}
 {"qid": "953f10b31fc44dbd85c8510a757e7eef", "answer": "cambrian"}
 {"qid": "eb5f8ea6298947ed9df4207932fb9e5a", "answer": "state route 99"}
 {"qid": "5947265d372d4742ab03f71078285481", "answer": "yosemite freeway / eisenhower freeway"}
@@ -4589,7 +4589,7 @@
 {"qid": "7286c5fbcaf34527b3502986e4c0661a", "answer": "central pacific railroad"}
 {"qid": "7800cc34c1204ab38ea9379e91adaff7", "answer": "court of justice"}
 {"qid": "335350de323944008ad02b8e110693fb", "answer": "nationalisation law"}
-{"qid": "e20b96b6bf154aa59614756aafe50977", "answer": "treaty of rome"}
+{"qid": "e20b96b6bf154aa59614756aafe50977", "answer": "italian nationalisation law conflicted with the treaty of rome"}
 {"qid": "c747308480b04ddfbc59dc2b6ec11b01", "answer": "european court of justice and the highest national courts"}
 {"qid": "9bda120155e240bca56b9e442e356457", "answer": "1964"}
 {"qid": "357fee8d4f494f2f97956c3985e6d168", "answer": "court of justice"}
@@ -4597,7 +4597,7 @@
 {"qid": "5184c75347144a33b399dcbf8b26cebc", "answer": "bankamericard"}
 {"qid": "5d9d43486ee646beb75d1bfd67c6639d", "answer": "revolve a balance"}
 {"qid": "7fae4c859e434c2d8983d3393d2cb4c2", "answer": "1958"}
-{"qid": "a3c19eef8e464a499f0365edcd770648", "answer": "visa inc."}
+{"qid": "a3c19eef8e464a499f0365edcd770648", "answer": "bankamericard"}
 {"qid": "9610c34345e14ca8ac37690410606f35", "answer": "bob gallion"}
 {"qid": "81acc7fe55ee45e1a9fbeee209e7246f", "answer": "bob gallion"}
 {"qid": "0473eb8c3d214a9cabe3f193a8c88ce8", "answer": "madera"}
@@ -4622,13 +4622,13 @@
 {"qid": "6533245d7c244d12a01ecb89c363d347", "answer": "sticky cells"}
 {"qid": "8c3df2c7cb1f482ba39a9f6321da78af", "answer": "two"}
 {"qid": "0504a5c45eed43c4b6687becab548ff3", "answer": "the same message routing methodology as developed by baran"}
-{"qid": "06963072fb42419f8f03c80ce2b62313", "answer": "roger scantlebury"}
+{"qid": "06963072fb42419f8f03c80ce2b62313", "answer": "davies ' team ( roger scantlebury"}
 {"qid": "07e19a35a159423c99a45da57fd4ee7d", "answer": "a nationwide network"}
 {"qid": "77d0014cfe8f4bb2a678b41e850ae37d", "answer": "arpanet"}
 {"qid": "c950d899a3f246bbaae0367479afe7a4", "answer": "baran"}
-{"qid": "3deb71c3f6d14d159babc0ca79a815b9", "answer": "roger scantlebury"}
+{"qid": "3deb71c3f6d14d159babc0ca79a815b9", "answer": "davies ' team ( roger scantlebury"}
 {"qid": "118d00e94ec846f98d833792a408e3bd", "answer": "it for use in the arpanet"}
-{"qid": "03adfbcd47894c0c8cdcb12513e33a73", "answer": "520,159 , making it the fifth - largest city in california , the largest inland city"}
+{"qid": "03adfbcd47894c0c8cdcb12513e33a73", "answer": "california , the largest inland city"}
 {"qid": "bf34e106cc5f438dbd04cb534801f8c6", "answer": "220 miles ( 350 km )"}
 {"qid": "845b92a8b8594c7ca6ccc0d7facf1baa", "answer": "ash tree"}
 {"qid": "bafa0fef109c44b384cc82c37a2b44b1", "answer": "ash tree \" in spanish , and an ash leaf"}
@@ -4670,9 +4670,9 @@
 {"qid": "9c3bfd1660f04323895995e55491a012", "answer": "spanish colonial revival"}
 {"qid": "6144da36dcb64324bc5a3181716df282", "answer": "spanish colonial revival"}
 {"qid": "7d36e5fb55774131a805cfa8f7116265", "answer": "contrasts with the newer"}
-{"qid": "1806e93a156c490d97e0c89a5941afa0", "answer": "decades"}
+{"qid": "1806e93a156c490d97e0c89a5941afa0", "answer": "fresno architects , hilliard , taylor & wheeler"}
 {"qid": "fe9a6229f7bf4434a3b554746fd1a2ad", "answer": "a suite of network protocols"}
-{"qid": "dc57ef9d9c144f7fa9ea7f80416c18da", "answer": "built with three layers"}
+{"qid": "dc57ef9d9c144f7fa9ea7f80416c18da", "answer": "decnet is a suite of network protocols created by digital equipment corporation"}
 {"qid": "cadcc0ff639648b4b9393e5218c8d368", "answer": "three"}
 {"qid": "db5bb77d2d7747db86543bd7bb4af2de", "answer": "open standards"}
 {"qid": "4413edf58e0a4082ae53d1f06801d1c5", "answer": "complete addressing information"}
@@ -4755,7 +4755,7 @@
 {"qid": "a207b12c8059492b8a10e6991e46de48", "answer": "raising population and traffic"}
 {"qid": "6f61893c632245f8a2600009dee6ff5b", "answer": "494,665"}
 {"qid": "9f5335bdf42b4059848c723f48f97cc0", "answer": "8.3 %"}
-{"qid": "93ba6a4970104b349a5f17a93927b442", "answer": "494,665"}
+{"qid": "93ba6a4970104b349a5f17a93927b442", "answer": "fresno"}
 {"qid": "f2101a34c79649dd9b04926c254d8892", "answer": "30.0 %"}
 {"qid": "1d5554639c2d467590514831d62e60e7", "answer": "4,404.5"}
 {"qid": "fc4757a88f6b4c99aa618cfb51e5f27e", "answer": "115 \u00b0 f"}
@@ -4765,7 +4765,7 @@
 {"qid": "0052fbd5d20a44e48011062099554510", "answer": "90.2 mm"}
 {"qid": "80bf56dc9adb45439e04900275a6c133", "answer": "amtrak san joaquins"}
 {"qid": "6b82d29575c043b6b907fc62e063e6b8", "answer": "downtown fresno"}
-{"qid": "14969e7b4c2e49a48a9b892253abaf2f", "answer": "burlington northern santa fe railway and union pacific"}
+{"qid": "14969e7b4c2e49a48a9b892253abaf2f", "answer": "burlington northern santa fe railway and union pacific railroad railroads cross in fresno"}
 {"qid": "0e5517d5fa8340c6b80e855ea811e49c", "answer": "san joaquin valley railroad"}
 {"qid": "9cb487f8cd5e4b49b2b4be54aa4f1682", "answer": "fresno"}
 {"qid": "671fe9e5c653471eb3627727efc3a991", "answer": "genoese traders"}
@@ -4786,14 +4786,14 @@
 {"qid": "b87146d69f8b42e1b1e442a861727db8", "answer": "cyclades packet switching network"}
 {"qid": "fe927e571b984beaa09fe02ec4c2eb89", "answer": "using unreliable datagrams"}
 {"qid": "a6ddd1dddfb54513a882b0304853133f", "answer": "louis pouzin"}
-{"qid": "1d8b4511bf054e7fbab64d06ac949094", "answer": "appletalk was a proprietary suite of networking protocols"}
-{"qid": "861f92d55de640819a959feea931ea2b", "answer": "networking protocols developed by apple inc. in 1985 for apple macintosh computers"}
+{"qid": "1d8b4511bf054e7fbab64d06ac949094", "answer": "apple macintosh computers"}
+{"qid": "861f92d55de640819a959feea931ea2b", "answer": "apple macintosh computers"}
 {"qid": "4dd79c42b7a24e00882809f865fffcc6", "answer": "addresses"}
 {"qid": "0c02965324e04a9faa0c9d14911fd4e3", "answer": "apple macintosh computers"}
 {"qid": "7cc7b95a7834462c9dc8c9971d061be1", "answer": "1880s and world war ii"}
-{"qid": "80987bd57b6d4f9e991b76951f05b73e", "answer": "electric street cars"}
+{"qid": "80987bd57b6d4f9e991b76951f05b73e", "answer": "fresno water tower"}
 {"qid": "76df102f371945739074821755c91543", "answer": "fresno carnegie public library"}
-{"qid": "7ede548292904ed9a89fda4f7590d401", "answer": "fresno carnegie public library"}
+{"qid": "7ede548292904ed9a89fda4f7590d401", "answer": "fresno county courthouse ( demolished ) , the fresno carnegie public library"}
 {"qid": "cd7e05dd2a094473855f46feb0104966", "answer": "it only needs to contain this code"}
 {"qid": "51bb1abd6a4548dabdbb01f296aa54ba", "answer": "address information is only transferred to each node during the connection set - up phase"}
 {"qid": "c66a9fff90a34c138b9ea803c0709883", "answer": "the packets"}
@@ -4949,7 +4949,7 @@
 {"qid": "766d62909b204e9295afacd606f3c6ae", "answer": "seismic waves"}
 {"qid": "a328f5ce7a724ee8ac822cccf8742000", "answer": "a crust and lithosphere on top"}
 {"qid": "881efb7346aa452ea13e726b9a96318f", "answer": "crust and lithosphere on top"}
-{"qid": "4e97b37c82bd461a91955434d1148e83", "answer": "wave speeds"}
+{"qid": "4e97b37c82bd461a91955434d1148e83", "answer": "wave speeds inside the earth"}
 {"qid": "5b002faaed4c4927b02a0c0bb52db77b", "answer": "outer core and inner core"}
 {"qid": "ced17f8914844e338751627da27e4736", "answer": "between 1346 and 1671"}
 {"qid": "cf4bc3b88b804660adc8af2fd80ff0b6", "answer": "every year between 1346 and 1671"}
@@ -4974,7 +4974,7 @@
 {"qid": "af73ca6b2f334a65ad5509afc327dd40", "answer": "not cut must be younger than the fault"}
 {"qid": "2be82b77f0714b73ab19af28fc5880e9", "answer": "plague theory"}
 {"qid": "c59d26aa1e4a4178b6229f4d012fc73e", "answer": "southern china"}
-{"qid": "66c72290a2b148b0bd3ff80f64d4076e", "answer": "alexandre yersin"}
+{"qid": "66c72290a2b148b0bd3ff80f64d4076e", "answer": "yersinia pestis"}
 {"qid": "1ab2a94ae54444ac9ba57a4cc3368079", "answer": "transmitted"}
 {"qid": "f540f965c5a146319d8479c72eed9058", "answer": "rodents"}
 {"qid": "f818bb5a8e05447f99d5c8dac5638070", "answer": "king"}
@@ -5076,12 +5076,12 @@
 {"qid": "2895a47df1814e1587d696373da0a6de", "answer": "topographic gradients"}
 {"qid": "7b0b3a360c07477dba3e6088474703b6", "answer": "continual motion along the fault"}
 {"qid": "d60129838efa415ca3b687bd3551ae0f", "answer": "deformational events"}
-{"qid": "4d976d3cac314a609a3c24155d6f0eec", "answer": "pons aelius"}
+{"qid": "4d976d3cac314a609a3c24155d6f0eec", "answer": "newcastle was pons aelius"}
 {"qid": "92f0b6f3de7a4451b6c95278732eda0d", "answer": "tyne"}
 {"qid": "2991e169b4704296acce063446e02e15", "answer": "2,000"}
 {"qid": "cb957ea88edd4fc1afb8269814822e62", "answer": "hadrian 's"}
 {"qid": "dfcfe1a1f8f34da5ac1d0416a7a74938", "answer": "pictish tribes"}
-{"qid": "a45841a787fe4b27a05b80bb7c8129f1", "answer": "many theatres"}
+{"qid": "a45841a787fe4b27a05b80bb7c8129f1", "answer": "newcastle playhouse and gulbenkian studio"}
 {"qid": "337d327aeb144876b3c86dc325c2e309", "answer": "theatre royal on grey street"}
 {"qid": "5b0f20f8633841f49db5101ba47db833", "answer": "shakespeare company"}
 {"qid": "85fe734afe3b4873bccad5ab995426b4", "answer": "local talent"}
@@ -5113,7 +5113,7 @@
 {"qid": "cb97d0d8ed6b4f4ca51d7ec31820f964", "answer": "anticlines"}
 {"qid": "c4f23dcee6b54e01ac56555238a3f6cc", "answer": "coal"}
 {"qid": "4a141f82fa294c369e9bbbd64baa7ed9", "answer": "hostmen"}
-{"qid": "149cb2a4823a4430a10e59f31e2ae3d7", "answer": "first recorded contextually in 1538 . the phrase itself means a pointless pursuit"}
+{"qid": "149cb2a4823a4430a10e59f31e2ae3d7", "answer": "newcastle was first recorded contextually in 1538 . the phrase itself means a pointless pursuit"}
 {"qid": "cf3ff927bbdc4abb8bfa53841c7ac355", "answer": "an eccentric"}
 {"qid": "376a294702d04230bf6547d6b87e83b8", "answer": "ruin him"}
 {"qid": "5a11a2e1765d4140be939e6de6935993", "answer": "magma"}
@@ -5148,17 +5148,17 @@
 {"qid": "8ee610bcf1a443ddbe7af1200d3218e7", "answer": "1842"}
 {"qid": "ae3a295d5d634a518e4ce68cacb89368", "answer": "four"}
 {"qid": "c80a0fa0161a4f119b24dd602852f456", "answer": "29 are grade i and 49"}
-{"qid": "108f7473a362478a9c1a9ee7c96e4a75", "answer": "282,442"}
+{"qid": "108f7473a362478a9c1a9ee7c96e4a75", "answer": "189,863"}
 {"qid": "f55cc8afb4764aba82249e6ce54db569", "answer": "259,000"}
-{"qid": "0776c7334ded44d5ab26118515352687", "answer": "student"}
+{"qid": "0776c7334ded44d5ab26118515352687", "answer": "newcastle"}
 {"qid": "4784e373370848ad9c59f39be46083a2", "answer": "newcastle and northumbria universities"}
 {"qid": "e4d2f34c77ef43c998ea4f4eb7842fe6", "answer": "student populations"}
 {"qid": "c724d55923694be8a2b9c38cbb5f398d", "answer": "urbanization of the city"}
 {"qid": "b07037f7485447a181bf17201714061c", "answer": "maling company"}
-{"qid": "d032c283410d495c9f09442175fd4436", "answer": "electric lighting"}
+{"qid": "d032c283410d495c9f09442175fd4436", "answer": "newcastle and surrounding areas included the development of safety lamps"}
 {"qid": "2eacbf7b01f84ad99f1cae35155f8744", "answer": "central to the city 's prosperity"}
 {"qid": "98b7fd03e00c451cafc74fd882dc9190", "answer": "steam turbine"}
-{"qid": "3019d05432544707ac6342dacea48191", "answer": "oceanic"}
+{"qid": "3019d05432544707ac6342dacea48191", "answer": "newcastle is oceanic"}
 {"qid": "90d2a416a9e34e15b935afcd0a36c9f9", "answer": "warming"}
 {"qid": "f0533104f1ec4f1bac979103498c57cf", "answer": "rain"}
 {"qid": "15c59ef7e5b2433b8904dc72fc6116d7", "answer": "january 1982"}
@@ -5168,7 +5168,7 @@
 {"qid": "d3f377019cbe44f2b656c4035ad36a7b", "answer": "high fuel prices"}
 {"qid": "52d5eff78dfe430db660cdef1a85a897", "answer": "2008"}
 {"qid": "8ea2803f351c4fcbbae70f0cb8ec3600", "answer": "thomson cruise lines"}
-{"qid": "0489eeeb40ee402b95012bdf2ab17fa9", "answer": "the town moor"}
+{"qid": "0489eeeb40ee402b95012bdf2ab17fa9", "answer": "newcastle is the town moor"}
 {"qid": "e2605785b2a94eaf958c696cf997d54c", "answer": "green space"}
 {"qid": "fecfb2144caf4b559165c27c1075deda", "answer": "hoppings funfair , said to be the largest travelling funfair"}
 {"qid": "82bd6a6e128e43f8866c0be1a9cdb838", "answer": "june"}
@@ -5187,7 +5187,7 @@
 {"qid": "7fa831c111294adcb944431e2199120e", "answer": "within the highest of the five colour - coded brackets at 5.9 %"}
 {"qid": "1e9f9d9410d749aa8bc40eece817f836", "answer": "flats"}
 {"qid": "5c506a36553444bb8a53d29add8177f8", "answer": "authorities"}
-{"qid": "1f57b5c62f34423f9800bd5452468f28", "answer": "overinflated markets"}
+{"qid": "1f57b5c62f34423f9800bd5452468f28", "answer": "brighton and tunbridge wells"}
 {"qid": "bf7fa074911448c09dd1888573e42667", "answer": "dutch"}
 {"qid": "afa4aef872e54a1aa756fa611892ec94", "answer": "elsewhere in the northern united kingdom"}
 {"qid": "d2268075fe584160a21f45bea2e1f707", "answer": "go away"}
@@ -5203,7 +5203,7 @@
 {"qid": "baab69ef98714e2d974824b0d8dd53db", "answer": "ouseburn valley"}
 {"qid": "c4e99e962aea4e7eb7465a4e4eeb4086", "answer": "architects"}
 {"qid": "81150223a8624c3e979eda8ddebc3980", "answer": "cany ash and robert sakula were attracted by the possibilities of high density"}
-{"qid": "213a5f1c7818421dbc4df0e5f7043bdd", "answer": "theatre"}
+{"qid": "213a5f1c7818421dbc4df0e5f7043bdd", "answer": "newcastle for fifteen years"}
 {"qid": "37d7b357e2b5488abd7b7c51269d1de8", "answer": "stephen kemble"}
 {"qid": "c5171e78631c4e5aaa6981d7ac209db7", "answer": "many celebrated seasons"}
 {"qid": "fa7364c8d11246699729c91fe8036b71", "answer": "21 january 1788"}
@@ -5212,7 +5212,7 @@
 {"qid": "3685042b3521404788492d8084796863", "answer": "noisiest city"}
 {"qid": "97f1c00f0f0343fcadc0383df50f346e", "answer": "80.4 decibels"}
 {"qid": "073f6f1086594ee68503fe8abf7a569d", "answer": "negative"}
-{"qid": "e5e40e7169e44b629f2cc46cc9d14ae7", "answer": "motorway underpass without pedestrian access"}
+{"qid": "e5e40e7169e44b629f2cc46cc9d14ae7", "answer": "newcastle 's case included a motorway underpass without pedestrian access"}
 {"qid": "e0e522a071234bae893152ab95098864", "answer": "principles of geology"}
 {"qid": "25b9ba7ca7b3438b838630deebb4bc71", "answer": "doctrine of uniformitarianism"}
 {"qid": "4219e200548442e29c21a9c632c253ea", "answer": "charles darwin"}
@@ -5235,7 +5235,7 @@
 {"qid": "36cfc6fc5bd247d98f86d3670c4178fc", "answer": "northwestern canada"}
 {"qid": "0bd4456c963a416b8bb015efc47b06b8", "answer": "newcastle upon tyne"}
 {"qid": "e2867618a58f4ec1b3cb56c3584b3cb8", "answer": "8000"}
-{"qid": "9db9735b6c1c4e639dd6b8dd7e01adb3", "answer": "the ' lit & phil"}
+{"qid": "9db9735b6c1c4e639dd6b8dd7e01adb3", "answer": "newcastle upon tyne ( popularly known as the ' lit & phil"}
 {"qid": "227834a3614141c58b7d9abaaf57eec7", "answer": "lecture theatre"}
 {"qid": "9b499b7fcefc487fb0fa950f23c21cad", "answer": "joseph swan"}
 {"qid": "f4a1745aed6f4457999d505c0e09dd10", "answer": "victorian architecture"}
@@ -5262,12 +5262,12 @@
 {"qid": "83bcb1038b08403091f721e706f6859c", "answer": "march"}
 {"qid": "ff86643019d44dfa969abc5bca96630b", "answer": "biennial av festival of international electronic art"}
 {"qid": "3d2636888c9740cc99bc65766d50e157", "answer": "newcastlegateshead"}
-{"qid": "a3a4ef6357924ef48d70392a0121fa67", "answer": "2"}
+{"qid": "a3a4ef6357924ef48d70392a0121fa67", "answer": "2 weeks"}
 {"qid": "1be53e1b7a0146ddadabd86ec169bf1d", "answer": "newcastle mela , held on the late august bank holiday weekend"}
 {"qid": "8d8a9dd687ec47808754940ef90660f7", "answer": "norman foster designed sage gateshead music and arts centre"}
 {"qid": "e3b237228e8e45bf8c069a9f0ab3c369", "answer": "newcastle mela"}
 {"qid": "b632c5963779492cbf51fd80cad12b5f", "answer": "east asian"}
-{"qid": "ff8ff6ae11534d79b0061437b97750b1", "answer": "newcastlegateshead"}
+{"qid": "ff8ff6ae11534d79b0061437b97750b1", "answer": "newcastle mela"}
 {"qid": "3b124ba23b004e59881b6f8ab4522dba", "answer": "henry young darracott scott"}
 {"qid": "cd9f74a933a2430f8c89634970d3fbdf", "answer": "1867\u201372"}
 {"qid": "121f2d1164ca47ae9337934c2cf8e705", "answer": "impressive staircase"}
@@ -5298,7 +5298,7 @@
 {"qid": "dda8fe052b7848c3b7d979e5508f9928", "answer": "department for culture , media and sport . like other national british museums"}
 {"qid": "8f0c437327d34e4a9cec9c9d6d192b0c", "answer": "2001"}
 {"qid": "a2b4392a09f946058e869adf8b18808b", "answer": "the night of the fire"}
-{"qid": "2c6830dce1c04100a2e7e9323b221924", "answer": "get carter"}
+{"qid": "2c6830dce1c04100a2e7e9323b221924", "answer": "1971 film get carter"}
 {"qid": "69e9c838bfae45fca4a36ba338fe1d89", "answer": "noir thriller"}
 {"qid": "f7859c4a9d174060a8927d66386d498b", "answer": "mike figgis"}
 {"qid": "cafb5d11d8f74ba39db04e6cf177376a", "answer": "tommy lee jones"}
@@ -5344,7 +5344,7 @@
 {"qid": "b2f2f98581ef4f81aadbf0ecdd836715", "answer": "american sweetgum"}
 {"qid": "5606201276634f7b9de09d2ea8f8ca77", "answer": "charles dickens and beatrix potter"}
 {"qid": "2f08574560c0465b9880d6b0f726ba3b", "answer": "charles dickens and beatrix potter"}
-{"qid": "4ef375ea32434301b48c38441534105e", "answer": "12th to 16th"}
+{"qid": "4ef375ea32434301b48c38441534105e", "answer": "12th to 16th centuries"}
 {"qid": "f8f968617d0f490cae2872048fab9a1f", "answer": "trial and rehabilitation"}
 {"qid": "da21270c2bd948d28f087a535fa3696c", "answer": "lucas horenbout"}
 {"qid": "4ab8ab4d02c54d48a7cc931e7083f648", "answer": "1709"}
@@ -5352,7 +5352,7 @@
 {"qid": "4ca6e12c9ae0435796052400017f2124", "answer": "george stephenson"}
 {"qid": "adf19c2a3c344d0b9d3fc634c4c6c11b", "answer": "incandescent light bulb"}
 {"qid": "ec1b904f662f40979d156e59b5585605", "answer": "thailand"}
-{"qid": "321f0b0a05f34cf5a7e503204734a107", "answer": "the a1 ( gateshead newcastle western bypass ) , stretching north to edinburgh and south"}
+{"qid": "321f0b0a05f34cf5a7e503204734a107", "answer": "newcastle western bypass ) , stretching north to edinburgh and south"}
 {"qid": "6c8e67bbcd1f445989284ea57324bef2", "answer": "newcastle airport"}
 {"qid": "18437f82e443412383905013b3c47dbf", "answer": "coast road"}
 {"qid": "be48ac41fcae4f1abd6180a74a458405", "answer": "newcastle airport"}
@@ -5386,7 +5386,7 @@
 {"qid": "aa7d16a3d4cc4a9cba2d9284adb69610", "answer": "scotland . the v&a dundee will be on the city 's waterfront"}
 {"qid": "edeb25946f0b4e6c9fa2aa767c8c9f8a", "answer": "fashion , architecture , product design , graphic arts and photography"}
 {"qid": "fcce62f027fa4c3389944dc2f54eab86", "answer": "2015"}
-{"qid": "b700b4dec70e4d05a4ec1a6ba752bfd6", "answer": "c1600 from bishopsgate"}
+{"qid": "b700b4dec70e4d05a4ec1a6ba752bfd6", "answer": "london house of the english restoration period and a fireplace from the gallery of northumberland house"}
 {"qid": "c50a882e68424dfca8842c51a96f4a4f", "answer": "c1600"}
 {"qid": "4b0bcea06abf481b94edddc62d335805", "answer": "c1600 from bishopsgate"}
 {"qid": "5bd0b3f9a5cc4368a4aa1b00ec681145", "answer": "chateau of montal"}
@@ -5454,7 +5454,7 @@
 {"qid": "91a48ede66a244b0b5ac39c8854ece4a", "answer": "gosforth park"}
 {"qid": "12d887eaa8894f57ac247215a916bb4e", "answer": "newcastle eagles"}
 {"qid": "d9b1661f420e48218dc001265306dec8", "answer": "newcastle diamonds"}
-{"qid": "7167e1d87ae74fc39da6e3aaa28af567", "answer": "gosforth park"}
+{"qid": "7167e1d87ae74fc39da6e3aaa28af567", "answer": "newcastle eagles basketball team"}
 {"qid": "f1843671d9d945caa0117341c69ab599", "answer": "5.9-mile"}
 {"qid": "f5dca9346b644e048695f15e9e403fcd", "answer": "josiah wedgwood , william de morgan and bernard leach"}
 {"qid": "93209c7aab6444c583035c23b0e41bfd", "answer": "britain and holland"}
@@ -5483,7 +5483,7 @@
 {"qid": "1deab91ee9cd4af89942584472051b79", "answer": "kyoto , porcelain"}
 {"qid": "8fbc9037ff7a41798be1c592327d36bd", "answer": "70,000"}
 {"qid": "f9ba687548f345b5a3483c5aea465b2d", "answer": "china , japan and korea"}
-{"qid": "ed12192a7f18462e83e73fd308e99582", "answer": "t. t. tsui gallery of chinese art"}
+{"qid": "ed12192a7f18462e83e73fd308e99582", "answer": "chinese lacquerware table"}
 {"qid": "872e732d2efa4573bb6fe836251ef030", "answer": "1991"}
 {"qid": "47033d3527eb49cda6a4d1f0a8b60f3b", "answer": "ming and qing"}
 {"qid": "5b7b67026f8648cd8002d2e30134b6b2", "answer": "the galleries of continental art 1600\u20131800"}
@@ -5587,7 +5587,7 @@
 {"qid": "31e7804da87648c798422da31792a118", "answer": "nicholas stone"}
 {"qid": "7b7109e5360944989f97dfce64a92054", "answer": "nicholas stone"}
 {"qid": "e07e292c8a864b1994f2b02aeb52729e", "answer": "nicholas stone"}
-{"qid": "be21ca4f53f14c24bfe9f001fe28f2cb", "answer": "british and europeans"}
+{"qid": "be21ca4f53f14c24bfe9f001fe28f2cb", "answer": "british"}
 {"qid": "120e61cff3604d75a1e52defe17e7f8f", "answer": "2007"}
 {"qid": "6c94ba784ff34b8c97dec8b2b8946b41", "answer": "factory project"}
 {"qid": "0fc23adafa9141efa1ce7710ad474fb3", "answer": "andy warhol"}
@@ -5635,7 +5635,7 @@
 {"qid": "8f30365164ae4b66ada5e4e953a7fb0c", "answer": "a glass case"}
 {"qid": "556e50c8da8e4b00baad041fd05468fc", "answer": "1965\u201366"}
 {"qid": "3a4f2058418f47d59368e5a1b76f850b", "answer": "third"}
-{"qid": "ff6d09b173fd46e593d6c261df5ba631", "answer": "\" beating the odds"}
+{"qid": "ff6d09b173fd46e593d6c261df5ba631", "answer": "\" beating the odds : the untold story behind the rise of abc"}
 {"qid": "44ae0ed3c453454888188edb44557baf", "answer": "1857"}
 {"qid": "971a9618c33b41e6b0571c9216586775", "answer": "233"}
 {"qid": "a1a1b75baede4d43bea16b21b08ff672", "answer": "sketches in oil , the most significant being the 1821 full size oil sketch"}
@@ -5661,7 +5661,7 @@
 {"qid": "ec971a05da1f4fceb225faa9273e8a4b", "answer": "8 tonnes"}
 {"qid": "069673c469a64af6bd0a8907c6e94df5", "answer": "sir george gilbert scott"}
 {"qid": "3da8ff89af9c4c29a7e5b6370781bad9", "answer": "over 10,000"}
-{"qid": "f85bea1bf2a14d108008b0dc94e1d54c", "answer": "conservation"}
+{"qid": "f85bea1bf2a14d108008b0dc94e1d54c", "answer": "v&a museum of childhood"}
 {"qid": "8fab81be1c1746a3952ca7f35185cdc8", "answer": "temperature and light ) and preventing pests"}
 {"qid": "50697f2676cd45dc8cd82e9dc75c3c64", "answer": "interventive treatment"}
 {"qid": "1670d8fdbd1f459cb97f69e9dda2aa8f", "answer": "cleaning and reintegration"}
@@ -5684,7 +5684,7 @@
 {"qid": "aca4d23c008340ed934132f26eabe2af", "answer": "1940"}
 {"qid": "d62529a6cf0a40488350d51a9011a242", "answer": "nbc red network"}
 {"qid": "4586a62e4c5549a2b7d284bb8fb84950", "answer": "nbc red network"}
-{"qid": "c82b3fbefbf74530a1db17653f98e3ee", "answer": "magnetophon"}
+{"qid": "c82b3fbefbf74530a1db17653f98e3ee", "answer": "abc"}
 {"qid": "45409757485e459389cbef91baa60b5c", "answer": "paul whiteman"}
 {"qid": "4ed017f861cf4269992ab8864ef01083", "answer": "suspenseful dramas as sherlock holmes , gang"}
 {"qid": "50cad8059feb4f57812434437e753405", "answer": "bing crosby"}
@@ -5702,7 +5702,7 @@
 {"qid": "605c566aad7240988f7f368d22c86198", "answer": "black"}
 {"qid": "56059662e53d45cd9654dfc543f58032", "answer": "black"}
 {"qid": "50329a578a194c02b2c528564f9b3538", "answer": "33 % stake in european sports channel eurosport for $ 155 million"}
-{"qid": "8953674430d84360b30e907d52f1ed87", "answer": "abc1"}
+{"qid": "8953674430d84360b30e907d52f1ed87", "answer": "abc"}
 {"qid": "89102751ea904e6594c7ec67fb1802ba", "answer": "october"}
 {"qid": "51a06bd2b114418cba42e01b03805d75", "answer": "abc international"}
 {"qid": "353bfed6f8324b26b5ba72efdf4ae34f", "answer": "united states"}
@@ -5737,7 +5737,7 @@
 {"qid": "b7fc413a8b4f4e57b73a7e5763959415", "answer": "satellite television"}
 {"qid": "4b55ac80de7c4abe8d0f19f5ac568904", "answer": "japan and latin america"}
 {"qid": "f57bf492965245539ef9d69517e535de", "answer": "japan and latin america"}
-{"qid": "e02c30fbd5bb43018eb43d351f2b0b6d", "answer": "disney"}
+{"qid": "e02c30fbd5bb43018eb43d351f2b0b6d", "answer": "disney \u2013 abc"}
 {"qid": "edd0d4f2cf024d3e9cc1381eaf11b325", "answer": "october 19 , 2005"}
 {"qid": "69f66ae4120f4700b9e168bf737465f4", "answer": "six"}
 {"qid": "e6f1a6101e354d5b9c530f859062df08", "answer": "u.s. supreme court"}
@@ -5777,9 +5777,9 @@
 {"qid": "59084fcb9d1f482e97ebff573e84b8c4", "answer": "dots"}
 {"qid": "0d0de5ed75b04c57aedf9e817e09cf9d", "answer": "the dot"}
 {"qid": "74527a87809541e8af8ea59560e5114b", "answer": "kings row and casablanca ; cheyenne"}
-{"qid": "f699cd24c4a541aca8a3c1d8ea0c580d", "answer": "sugarfoot"}
+{"qid": "f699cd24c4a541aca8a3c1d8ea0c580d", "answer": "oklahoma"}
 {"qid": "2bb05973730d48c58ec6224b318ffc7e", "answer": "walt disney"}
-{"qid": "cc06d11769cf46f38f468936a352251f", "answer": "wheel"}
+{"qid": "cc06d11769cf46f38f468936a352251f", "answer": "abc television series , and showcase these adaptations as part of the wheel"}
 {"qid": "3c5f2bab5be749b2ad889374ba41c8a0", "answer": "1993\u201394 season"}
 {"qid": "37d867fe3b804c7e8d3f9ab390fc2622", "answer": "1993\u201394 season"}
 {"qid": "6bd8b6b21cf64458a2a040c1b0e4fa43", "answer": "1983"}
@@ -5803,18 +5803,18 @@
 {"qid": "de70dfa0e80c4db190bc3ce7fef9294b", "answer": "roy contacted goldenson"}
 {"qid": "b79209d1b5494b469ebf024153319aac", "answer": "$ 500,000"}
 {"qid": "88370ee25858428cae4a166b0c8a302e", "answer": "1954"}
-{"qid": "b3b8c36cd7054595b8611a29d6d6dd76", "answer": "disneyland"}
+{"qid": "b3b8c36cd7054595b8611a29d6d6dd76", "answer": "abc agreed to finance disneyland"}
 {"qid": "3d7a8846646b4073ac387c2c755e25c7", "answer": "october 9 , 1948"}
 {"qid": "2e6e92502b5e459c866934021c55e935", "answer": "october 1948"}
 {"qid": "1b7f721077a74c8aa48b69ba7a060798", "answer": "mount wilson"}
 {"qid": "0252381f0296463480b148f4642b59a0", "answer": "prospect studios"}
 {"qid": "7fc00a6d46424f47ab79c520decb2e63", "answer": "paramount pictures"}
 {"qid": "52f0e3650900467a8cf0b4c90c1b8328", "answer": "lone ranger"}
-{"qid": "96d5696f047f4357b98b14ba1b1279b5", "answer": "prime time comedy in u.s. television history"}
+{"qid": "96d5696f047f4357b98b14ba1b1279b5", "answer": "abc 's flagship productions at the time were the lone ranger"}
 {"qid": "a1fbe5c984a3443c896db8e73c706221", "answer": "pittard sullivan"}
 {"qid": "a94fe8cb0f3c45909412ebe5349660db", "answer": "2015"}
 {"qid": "a318cb359a294d9585efec11ea950c5c", "answer": "love tv"}
-{"qid": "5140082a30e14c3191c849a91ff0635a", "answer": "on demand to the beginning of the abc show"}
+{"qid": "5140082a30e14c3191c849a91ff0635a", "answer": "abc"}
 {"qid": "1ee381467b41430999239d22a9da9f41", "answer": "2004"}
 {"qid": "babca091507042fe9e6dfa2ce01650dd", "answer": "nbc"}
 {"qid": "e20c38f6a8bd4e23b7c5e65622c4b936", "answer": "cancellations of holdovers"}
@@ -5827,11 +5827,11 @@
 {"qid": "20cb4950f9d04025a1ed52e1dfadecab", "answer": "espn sports saturday block"}
 {"qid": "e212603323b24c8784c057e3d67ac99b", "answer": "2006"}
 {"qid": "41f66821c16b4cfdb2dc4724941bdf85", "answer": "2006"}
-{"qid": "3a893d20643040d3b06b926e019b8f86", "answer": "sundays"}
+{"qid": "3a893d20643040d3b06b926e019b8f86", "answer": "abc airs nba games on sundays"}
 {"qid": "57510b18133b41afa40bdb98b9374827", "answer": "open championship golf and the wimbledon tennis"}
 {"qid": "323fb0b6499242fa9ad5bb50a6fad2a7", "answer": "1970"}
 {"qid": "ad9e05bc5d5b4724a23a37f872f641c6", "answer": "1972"}
-{"qid": "a12e7e3a937047a28c85dbe1b363138d", "answer": "worldvision enterprises , which would produce and distribute programming for u.s. syndication , and abc circle"}
+{"qid": "a12e7e3a937047a28c85dbe1b363138d", "answer": "abc circle"}
 {"qid": "a5e792298fc64bdbb5264e3f705a9c87", "answer": "robert kintner"}
 {"qid": "dd959111c6234ce3a65ec5d142b61200", "answer": "dumont television network"}
 {"qid": "a836c9f05a344bf390f31b3da2d3ad5d", "answer": "abc - dumont"}
@@ -5840,7 +5840,7 @@
 {"qid": "c4d68ec748804d52824de0bca41a0f96", "answer": "hugh downs"}
 {"qid": "058af75917b948f1a665c2e5cf8400f8", "answer": "colleague barbara walters"}
 {"qid": "4cf37c68b3c544299b2595e8ffb9392c", "answer": "mca inc."}
-{"qid": "01c8ec671ee14a51ac82a3df86915299", "answer": "watch abc , hulu"}
+{"qid": "01c8ec671ee14a51ac82a3df86915299", "answer": "watch abc"}
 {"qid": "6ce0c14bd4904efd801f89b20019a0bc", "answer": "eight"}
 {"qid": "b9b7394a91104543b014cf53ebeae88a", "answer": "fast forwarding of accessed content"}
 {"qid": "3fb1d5f2bac44df9b26f8e7775204c18", "answer": "january 7 , 2014"}
@@ -5874,7 +5874,7 @@
 {"qid": "131c9f45ff7541db8f5ef79644eca9cb", "answer": "abc entertainment"}
 {"qid": "fb4ae359593344f78fdb885fede0dd82", "answer": "abc studios into a new division"}
 {"qid": "95a3246466ce41ecbb4e45b9febbc22a", "answer": "media"}
-{"qid": "13ed3785d87b4fc7a3fa04f97e026d71", "answer": "individual episodes of abc and disney channel programs available for purchase on itunes"}
+{"qid": "13ed3785d87b4fc7a3fa04f97e026d71", "answer": "abc"}
 {"qid": "4b0245a4865f4ba9b7a0369d0594bf29", "answer": "2004"}
 {"qid": "5c2778ef52d8459c9500c61dc59c1046", "answer": "grey 's anatomy"}
 {"qid": "37fd3d74641248e1b6a47cf9fa82fd3d", "answer": "anne sweeney"}
@@ -5882,7 +5882,7 @@
 {"qid": "66e72aa7846f4626ba72506ac5c6dae8", "answer": "writers guild of america strike that halted production of network programs for much of the 2007\u201308"}
 {"qid": "52245888702b47d8a5c8bbaa923c29c0", "answer": "writers guild of america strike that halted production of network programs for much of the 2007\u201308"}
 {"qid": "c5d357214886462ebdc8c77982e59202", "answer": "caris & co."}
-{"qid": "be65358dad014ce6a7933143782664b8", "answer": "buena vista television ) handles domestic television distribution , while disney \u2013 abc international television"}
+{"qid": "be65358dad014ce6a7933143782664b8", "answer": "abc international television"}
 {"qid": "fee8b6d5beac43ac894e67eaf79045d6", "answer": "buena vista television"}
 {"qid": "85d0f2bb6c43444990996185ae7cf662", "answer": "buena vista international television"}
 {"qid": "5765888ded564f59ae1f21cd03c39a45", "answer": "selznick library"}
@@ -5899,17 +5899,17 @@
 {"qid": "105f311f97804ce68b354a95d5551deb", "answer": "worldvision enterprises"}
 {"qid": "eb58cd1bf9bb460298ff5d9180f07892", "answer": "ruby - spears and hanna - barbera libraries"}
 {"qid": "13d1a50a4b524c27941fb562a5bf3ca9", "answer": "2011"}
-{"qid": "1284596805ee466fbd20568a964a42b0", "answer": "cancellation of supernanny"}
+{"qid": "1284596805ee466fbd20568a964a42b0", "answer": "2011 cancellation of supernanny"}
 {"qid": "5a73e35a87d84dcdaa0119efb264adc5", "answer": "hd"}
 {"qid": "ec32a31d125943fe8de83f72f7364f47", "answer": "affiliate - syndicated saturday morning e / i block litton 's weekend aventure"}
 {"qid": "f745aec6ea2442739f34e93908f707c3", "answer": "middle and modern family"}
 {"qid": "4663e270664b43f9a18529360b1beb2d", "answer": "dragon 's den"}
 {"qid": "92eae706a3734db6bb8c408aa1febfdc", "answer": "sundays"}
 {"qid": "3ba4744c5f764c828bc6ae3b2c4d4aab", "answer": "tim allen sitcom"}
-{"qid": "c35e2b57737e4e1c927fb6c36e838e51", "answer": "24-hour news channel"}
-{"qid": "0d531372d67e4ea3b0915ef9019768cb", "answer": "abc news"}
+{"qid": "c35e2b57737e4e1c927fb6c36e838e51", "answer": "abc"}
+{"qid": "0d531372d67e4ea3b0915ef9019768cb", "answer": "abc"}
 {"qid": "aab02c366a1c493fa734c05564993874", "answer": "wjrt - tv"}
-{"qid": "7be30b851db34d50bea355855a92285a", "answer": "wjrt - tv and wtvg"}
+{"qid": "7be30b851db34d50bea355855a92285a", "answer": "toledo"}
 {"qid": "5ad388d5d07548e1b29ac4611f2b6660", "answer": "operas all my children"}
 {"qid": "06326e9c79ae4f619e6c0e08ffbc17a9", "answer": "prospect park"}
 {"qid": "d3f62e21f97e4108aa4274797fcc4b81", "answer": "soaps"}
@@ -5917,7 +5917,7 @@
 {"qid": "24760322c4904a0b9bf67cf9ccbf726a", "answer": "renewing a handful of new shows"}
 {"qid": "4c98925a7db64759838b8ebae1392970", "answer": "1993"}
 {"qid": "8e845aeec6a342cd90b61966e6470b39", "answer": "dic entertainment"}
-{"qid": "7c42d1b91eba40bca9175b8040c86b19", "answer": "warner"}
+{"qid": "7c42d1b91eba40bca9175b8040c86b19", "answer": "abc"}
 {"qid": "6fa59054669146768576e58a2f5e2f10", "answer": "23.63 %"}
 {"qid": "8c3ca3e3de724d3f975ce7d0aaadd9d8", "answer": "fred silverman"}
 {"qid": "6f681fe5a0e542868f053b7f0275d3d3", "answer": "fred silverman"}
@@ -5925,7 +5925,7 @@
 {"qid": "0ab4675deff74fd8aa1be2b41ac06e7f", "answer": "november 3 , 1975"}
 {"qid": "b12c088b458b444382f3f865b0ea86be", "answer": "abc 's dramas"}
 {"qid": "81021d580dab45cf890d315a027cf05b", "answer": "abc 's dramas"}
-{"qid": "f2b56af7680646298bb0c5221ca6f6e4", "answer": "outrate nbc"}
+{"qid": "f2b56af7680646298bb0c5221ca6f6e4", "answer": "abc"}
 {"qid": "d08bef494edc479f86f7e1d7739448af", "answer": "low"}
 {"qid": "a265206c022d4ecbbf6091abb000fe44", "answer": "wls"}
 {"qid": "e08361085b254402ab8b30537f738451", "answer": "may 9 , 1960"}
@@ -5936,7 +5936,7 @@
 {"qid": "c8e3882544664cc5a5c96ca96e0b9d8d", "answer": "\u00f6gedei khan"}
 {"qid": "e8ef6ff7e3294eb0a9e1ba36607120aa", "answer": "khanates"}
 {"qid": "cf11ebed02624f4892506e5f1d0ef0b6", "answer": "mongolia"}
-{"qid": "8665b9284a3844b6a504d47905a116f6", "answer": "abc television network"}
+{"qid": "8665b9284a3844b6a504d47905a116f6", "answer": "abc television network , having aired since 1963 . abc"}
 {"qid": "bf14224d6b2c4806b41cffa820ece40a", "answer": "1975"}
 {"qid": "a3d8f24c1a024b79b7479cd720776725", "answer": "opera general hospital"}
 {"qid": "60c2b8af8ad142509054fcd9805e3142", "answer": "the view and the chew , and the soap opera general hospital"}
@@ -5955,11 +5955,11 @@
 {"qid": "eef8e356c0f2482291c4c87cc9b8a38d", "answer": "nypd blue"}
 {"qid": "93e9422c20544a5a8f27885807f54f61", "answer": "steven bochco"}
 {"qid": "1179fb1f2ef048e6ae2c7fc843b0a055", "answer": "ten"}
-{"qid": "c100e70e6ca341eb8942425f112e2e60", "answer": "abc on demand"}
+{"qid": "c100e70e6ca341eb8942425f112e2e60", "answer": "abc"}
 {"qid": "aefb8c14fe824d0f8f36f7f8ea2d3b46", "answer": "hulu"}
 {"qid": "2495f2c466f742668c7a5495b883ca60", "answer": "july 6 , 2009"}
 {"qid": "dc55228a50fc4e59af8059208d460339", "answer": "27 %"}
-{"qid": "0022aa5912ae42bb8193a798ca0132b8", "answer": "times square studios"}
+{"qid": "0022aa5912ae42bb8193a798ca0132b8", "answer": "abc also owns the times square studios"}
 {"qid": "0ffaad6cf61b49e79d63ae9da3cfa180", "answer": "abc news"}
 {"qid": "53959c80ea534488aa4fae06569c6894", "answer": "peter jennings"}
 {"qid": "c248e3a9b1a74757b22fdf09d2aebec2", "answer": "world news tonight"}
@@ -5974,15 +5974,15 @@
 {"qid": "45c2e691c85e4610818510abdc63f7f6", "answer": "president of nbc 's entertainment division"}
 {"qid": "39ba75ee46964c29a08528cdbe676209", "answer": "laverne & shirley"}
 {"qid": "b162b8fa74e941738fdcd81545142e16", "answer": "jiggle tv"}
-{"qid": "af2c199715fb41c681d6e383fa096d76", "answer": "abc news"}
+{"qid": "af2c199715fb41c681d6e383fa096d76", "answer": "abc"}
 {"qid": "077e355583614be484a17558c2292ec9", "answer": "view and the chew and the soap opera general hospital"}
 {"qid": "becdb4b12d9d4422996b7bc02054d2be", "answer": "7:00 to 9:00 a.m. weekdays"}
 {"qid": "22fb57da3aca4a6f8e079a5efc165ad3", "answer": "jimmy kimmel live!."}
 {"qid": "c78951cc40ff4eb495907018794a61d0", "answer": "new jersey"}
 {"qid": "522dff039c8c4fa798300fbbeb704838", "answer": "wbma - ld"}
 {"qid": "7c6c0f014e3c4d868ba9610d10309080", "answer": "wbnd - ld"}
-{"qid": "ac77b805abe848b3aee6f6d740b2ad3a", "answer": "wlqp - lp"}
-{"qid": "391d7481296d4ac6a229f305f140038b", "answer": "monday night football"}
+{"qid": "ac77b805abe848b3aee6f6d740b2ad3a", "answer": "abc"}
+{"qid": "391d7481296d4ac6a229f305f140038b", "answer": "abc debuted monday night football"}
 {"qid": "dc8c707013c64074b3075acc8af0e177", "answer": "1970"}
 {"qid": "d4c22d79ca49439ab4c0c039b3ec108f", "answer": "espn"}
 {"qid": "355a2bc063cc454cb1fe143674b01a04", "answer": "score"}
@@ -5991,26 +5991,26 @@
 {"qid": "4fdd357fc7a04c579523e87e713a7228", "answer": "$ 465 million"}
 {"qid": "b83ed183a14e4b12ae1e55de2251f7d5", "answer": "prime time"}
 {"qid": "06a06e8780184c1f8f3fa5a5b90dd411", "answer": "stand - up comic"}
-{"qid": "69a50179e42a4d42b918f740ed77cd8f", "answer": "youngstown"}
+{"qid": "69a50179e42a4d42b918f740ed77cd8f", "answer": "youngstown , ohio"}
 {"qid": "e12187f602994916868a226a37b0b0b3", "answer": "five times"}
-{"qid": "a968dcf23dc34e0baab9b59b7c72b80c", "answer": "wtrf - tv"}
+{"qid": "a968dcf23dc34e0baab9b59b7c72b80c", "answer": "abc programming on a digital subchannel after airing the network 's"}
 {"qid": "3912899179bf406da4bdcf5084481502", "answer": "1960s"}
 {"qid": "86787177955746c6bc91c451e44c6772", "answer": "infinity broadcasting corporation"}
-{"qid": "d3813763d3a746648d485bb4cdbb81bd", "answer": "nabisco"}
+{"qid": "d3813763d3a746648d485bb4cdbb81bd", "answer": "abc video enterprises"}
 {"qid": "2323f56275c44b3c8927900524beee88", "answer": "arts & entertainment television"}
 {"qid": "d8f4d404eece427e99231647948f29e0", "answer": "arts & entertainment television"}
 {"qid": "b7b1b0548df744cd9eab42056cb6ac30", "answer": "tgif"}
 {"qid": "9e5a51c91a374ac7a9bfddfc285b88b8", "answer": "block"}
 {"qid": "0c8d93c587fd41458850fc76052e2022", "answer": "miller - boyett"}
-{"qid": "b1a227d627e74b91ab074c3be75716d8", "answer": "abc network became a serious contender to nbc and cbs"}
+{"qid": "b1a227d627e74b91ab074c3be75716d8", "answer": "abc"}
 {"qid": "490b3ec347244bbba11f0d09f9a6a507", "answer": "500 %"}
 {"qid": "ca9e21b436304722bdeb407f2543676b", "answer": "between 10 %"}
 {"qid": "dc0c087b1c7e4e40b62fc6c9e6da07a3", "answer": "ollie treiz"}
-{"qid": "d035ebe95ce9420092e32c7e8ed15527", "answer": "ollie treiz"}
+{"qid": "d035ebe95ce9420092e32c7e8ed15527", "answer": "abc entertainment president ollie treiz"}
 {"qid": "36c023910e2c4fcfbf813117e536821b", "answer": "abc 's western series"}
 {"qid": "be1a09ddfb6e4962bedbb9c8daaad39b", "answer": "nbc and cbs"}
 {"qid": "c1bb0085d4624099ad5319163388a712", "answer": "unofficial law"}
-{"qid": "9f712c2f5569487683473c1ac98d3c30", "answer": "detective"}
+{"qid": "9f712c2f5569487683473c1ac98d3c30", "answer": "abc 's western"}
 {"qid": "c608338511ef47b3a49e6b07e8a8e6f5", "answer": "2004"}
 {"qid": "7a5af58928fb4c40966954d78f5b4206", "answer": "2004"}
 {"qid": "6ca923c8aa4347959775cd51a27d78e2", "answer": "fridays"}
@@ -6036,14 +6036,14 @@
 {"qid": "032b43b2dcbd46a4bfb3bec61b569428", "answer": "loyalkaspar"}
 {"qid": "919d89f9c0354a70bfc2bf68ffe9390f", "answer": "four"}
 {"qid": "e0f0bb18f22f4565b2728b9b1406434f", "answer": "abc modern \" ( which was inspired by the logotype"}
-{"qid": "c8104b718d4049d8a8e14156832a4d74", "answer": "espn"}
+{"qid": "c8104b718d4049d8a8e14156832a4d74", "answer": "espn on abc"}
 {"qid": "571894c05a444b9e809662a2465325ce", "answer": "seven"}
 {"qid": "5d3879cf57fc4d799b02425ddb99d853", "answer": "film production company"}
 {"qid": "36f0f011e4a841f8a4438b3742528d8b", "answer": "ralph nelson - directed charly"}
 {"qid": "c4f70b8840ca4c02a9ea5e5ae959b2ff", "answer": "1985"}
 {"qid": "58ce4d51285e412cbdb93a05873cdff4", "answer": "redwood city"}
 {"qid": "224a38251ef240908ce1bb8b494078b0", "answer": "genghis khan"}
-{"qid": "8c072984644c4a5b8488b3735c75f716", "answer": "liao"}
+{"qid": "8c072984644c4a5b8488b3735c75f716", "answer": "liao dynasty"}
 {"qid": "155bb3d59fef4d119608e6fa7136c830", "answer": "20,000"}
 {"qid": "255faffc9ab243f98323a62e286cfd71", "answer": "qara khitai and defeat kuchlug"}
 {"qid": "6b33ea816db44b4aa8231a419f3c162d", "answer": "western liao"}
@@ -6053,9 +6053,9 @@
 {"qid": "8f81244779d443079fe8994cc51f8137", "answer": "central asia and china"}
 {"qid": "2e23cb0aae9345dc9fd324ef358c14a3", "answer": "eurasia"}
 {"qid": "969d0ae95e054c02b91182821c680d3d", "answer": "mongolia were united politically , and arranged marriages"}
-{"qid": "410145670922413faaa75ba207cd96e8", "answer": "mother hoelun"}
+{"qid": "410145670922413faaa75ba207cd96e8", "answer": "tem\u00fcjin 's mother hoelun"}
 {"qid": "6cea1722e2f642eaabffab78c68a9293", "answer": "chinese dynasties to the south . tem\u00fcjin 's mother hoelun"}
-{"qid": "5a72ef6dfd8248368d4fdb9ef8ae856e", "answer": "need for alliances"}
+{"qid": "5a72ef6dfd8248368d4fdb9ef8ae856e", "answer": "mongolia"}
 {"qid": "d0423beed21e4c0db3004467ef3f56ee", "answer": "sinclair broadcast group"}
 {"qid": "321b8b13e29d4175aa6f21a3d42445c9", "answer": "birmingham market"}
 {"qid": "907c7bfff71a41c6a04d73d2a8f85078", "answer": "the e. w. scripps company"}
@@ -6076,8 +6076,8 @@
 {"qid": "a0e07355260c46bd9e510054f20b0896", "answer": "genghis khan mausoleum"}
 {"qid": "3edbf8bc6f38430d8a1376678a3edda0", "answer": "his father 's former allies"}
 {"qid": "b75fa8df2de24470b74506b02f6914b2", "answer": "around"}
-{"qid": "db793a8477724b2f8c3369387550d274", "answer": "genghis khan"}
-{"qid": "61b42366a3c042758be4736b6f24e31f", "answer": "genghis khan 's"}
+{"qid": "db793a8477724b2f8c3369387550d274", "answer": "tayichi'ud enslaved tem\u00fcjin"}
+{"qid": "61b42366a3c042758be4736b6f24e31f", "answer": "tem\u00fcjin"}
 {"qid": "e9e44367f0354fceacc5c2c2bdf09447", "answer": "capital cities communications"}
 {"qid": "81a1fba29c504f8985f3a1b19f0ea63f", "answer": "$ 3.5 billion and $ 118"}
 {"qid": "f0f1f939d8ee4308bd9dd617350c28b4", "answer": "warren buffett"}
@@ -6095,39 +6095,39 @@
 {"qid": "79b61da38e154aac930080cc46ed6b8e", "answer": "watch abc"}
 {"qid": "4d4a11edfc4d4257a53a2db1266e4848", "answer": "the service"}
 {"qid": "1594ed60e360417b8398d12ef6cc1fbb", "answer": "hearst television"}
-{"qid": "26e5036b43cb4341843fff8efc0dae4b", "answer": "watch abc"}
-{"qid": "4257ae20a0a741a7a6f769f2e7e6bcbf", "answer": "three"}
+{"qid": "26e5036b43cb4341843fff8efc0dae4b", "answer": "abc launched \" watch abc"}
+{"qid": "4257ae20a0a741a7a6f769f2e7e6bcbf", "answer": "b\u00f6rte had three"}
 {"qid": "32e3b7170bcd42cfaa1af4d42fc4c84f", "answer": "\u00f6gedei"}
 {"qid": "6b1b8857d2674bea965f6f26d792e562", "answer": "\u00f6gedei"}
 {"qid": "69edddb28e7f496eaea392389531b4a1", "answer": "six"}
 {"qid": "e427fb095c074598a82df883cfbc8e68", "answer": "yassa code"}
 {"qid": "62b7d44da38e4bcbb9e51830ee285493", "answer": "civilians and soldiers wealth from future possible war spoils"}
 {"qid": "43a5b4a5d2b64540b75287d2f2b98f2b", "answer": "orphans"}
-{"qid": "19237b3a9cf940a5bfbedd9ffd19ffce", "answer": "stronger with each victory"}
+{"qid": "19237b3a9cf940a5bfbedd9ffd19ffce", "answer": "tem\u00fcjin stronger with each victory"}
 {"qid": "c7be28f397db441e8162c9a3e40531a0", "answer": "sworn brother or blood brother"}
 {"qid": "ef70d1ad3a4f424388e4acf987a3cb54", "answer": "khan"}
 {"qid": "1b1db17a055b48fb82fc159371f1a4fc", "answer": "jadaran"}
 {"qid": "f6bfe62f31df46b99c0a331340f613bc", "answer": "20,000"}
 {"qid": "ff33529b4bc74ace9ffcd97c9809ac64", "answer": "jamukha"}
 {"qid": "7fe2f97c6976479da7faad4c5842ae9d", "answer": "onggirat tribe when he was around 16 in order to cement alliances between their respective tribes"}
-{"qid": "d66892e8a1014c79b134526330ad23cb", "answer": "merkits"}
+{"qid": "d66892e8a1014c79b134526330ad23cb", "answer": "tem\u00fcjin , she was kidnapped by the merkits"}
 {"qid": "b0880f8c717f4b1bb57bd7bcd2738559", "answer": "friend and future rival , jamukha , and his protector , toghrul khan"}
-{"qid": "d0afa438bd674795857786508bcd5613", "answer": "jochi"}
+{"qid": "d0afa438bd674795857786508bcd5613", "answer": "tem\u00fcjin"}
 {"qid": "b18717c7fe5342b7b299c222d2158182", "answer": "friendship and reunion"}
 {"qid": "5f6f50a57c9d4295bbdbb93fae353413", "answer": "stating that he did not want disloyal men in his army"}
 {"qid": "987e55fd9e9c46e8ae3fb0fba1d14e12", "answer": "death"}
-{"qid": "a624fb080e8e4c36aa4b4142a70a0396", "answer": "men"}
+{"qid": "a624fb080e8e4c36aa4b4142a70a0396", "answer": "jamukha"}
 {"qid": "8c1aa4d1aeba4b72b8ce1bbcaa6708ca", "answer": "jochi , the eldest son of tem\u00fcjin"}
 {"qid": "541ace1ac727453399eceed1c18544a0", "answer": "toghrul allied himself with jamukha"}
-{"qid": "e336b6ec91054d65b8404d6e5d7803bf", "answer": "jamukha"}
-{"qid": "ff218614711c4785a4af83f68c4e245e", "answer": "keraite"}
+{"qid": "e336b6ec91054d65b8404d6e5d7803bf", "answer": "toghrul allied"}
+{"qid": "ff218614711c4785a4af83f68c4e245e", "answer": "tem\u00fcjin"}
 {"qid": "513d356cfde943fe9f9b6f653a934bb1", "answer": "tien shan mountains"}
 {"qid": "78236d35e79447c4b97ac94bc604ae53", "answer": "three"}
 {"qid": "0c1e0b28756245eaad3850d2d9efdb67", "answer": "samarkand"}
 {"qid": "d36022e6efa84f0c9a3b0a350f33e7a4", "answer": "jebe marched secretly to the southeast part of khwarzemia to form , with the first division"}
 {"qid": "8a81b5ab87f949b5a4ba80acf463bc2c", "answer": "samarkand"}
 {"qid": "54a33a114d0e405a8d35fe2db8edbd36", "answer": "g\u00fcr khan"}
-{"qid": "e294bff0da6f4d64a4858a72c158f720", "answer": "1201"}
+{"qid": "e294bff0da6f4d64a4858a72c158f720", "answer": "jamukha"}
 {"qid": "c013d784ca9e4ab5b7f1b10689a8fad8", "answer": "universal ruler"}
 {"qid": "3bd3cfd720ee4b80ab900126cf11a51d", "answer": "younger brother"}
 {"qid": "98306e8bdf414dfeb2db7a7bdda74540", "answer": "1206"}
@@ -6187,12 +6187,12 @@
 {"qid": "a952ee7a2895443cb50653556286b598", "answer": "yellow river"}
 {"qid": "a960041a7b324677a0ddc7f84b5148fc", "answer": "legend"}
 {"qid": "e1b935950ce84265be428331fb05a687", "answer": "tem\u00fcjin 's patron"}
-{"qid": "5f2e517c2a994daba3d4867a609dcbf1", "answer": "eternal blue sky"}
+{"qid": "5f2e517c2a994daba3d4867a609dcbf1", "answer": "tem\u00fcjin 's patron"}
 {"qid": "545871cfb6bd4c28a27fa0182885e377", "answer": "tem\u00fcjin"}
 {"qid": "9f999d8813884572acba9d1b170ef16b", "answer": "tem\u00fcjin 's patron"}
 {"qid": "10ca5e940b3b40c3822dc9906e8cdae7", "answer": "tem\u00fcjin 's patron , was exiled to the qara khitai"}
 {"qid": "c2c4d088c34e4eaba40832fa5a7dfb2c", "answer": "seniority of jochi"}
-{"qid": "e2f8c01d0eab4cdcae3a27f8a824ff17", "answer": "\u00f6gedei"}
+{"qid": "e2f8c01d0eab4cdcae3a27f8a824ff17", "answer": "jochi"}
 {"qid": "2c17c7610b074bb0bb59fd32b94e41aa", "answer": "father and brothers"}
 {"qid": "bb45be917d294048b392bb08c662faa3", "answer": "jochi"}
 {"qid": "7ad577d43f2c48e08d7147d1af4ad74c", "answer": "albarellos"}
@@ -6228,7 +6228,7 @@
 {"qid": "a048f7cce1a34a5fac14afacb8eaaf41", "answer": "father"}
 {"qid": "4889f68f60b04856824ad622434cadda", "answer": "mongolia"}
 {"qid": "5dd50f0b7ed544c0ab9eab91618040e2", "answer": "biased"}
-{"qid": "20f08fe6149c431aa63ea1b51f7a39c5", "answer": "biased"}
+{"qid": "20f08fe6149c431aa63ea1b51f7a39c5", "answer": "mongolians maintain that the historical records written by non - mongolians are unfairly biased"}
 {"qid": "4db9c0ae200346869a114158ea75405f", "answer": "t\u00f6regene khatun"}
 {"qid": "742f5db703a1422bb328d9485c3db270", "answer": "pax mongolica"}
 {"qid": "72728798d63d44e38c6dee1547e16385", "answer": "t\u00f6regene khatun"}
@@ -6237,13 +6237,13 @@
 {"qid": "cfab4746e49a44a09f4ef02de7a4994d", "answer": "caspian sea"}
 {"qid": "c02981cb55944814a90a142fc92dd3af", "answer": "genghis khan"}
 {"qid": "216cd487658549738c1b8d7a0d9c735d", "answer": "1279"}
-{"qid": "b29c697af9f54be08ce978ef4b6f20d5", "answer": "chinggis khaan international airport"}
-{"qid": "6f998285a62e4128a4a5b6e545fcb1b7", "answer": "genghis khan"}
+{"qid": "b29c697af9f54be08ce978ef4b6f20d5", "answer": "mongolian"}
+{"qid": "6f998285a62e4128a4a5b6e545fcb1b7", "answer": "mongolian"}
 {"qid": "1e0a1a42bf1a4851b603015ad147d0bf", "answer": "chinggis khaan international airport"}
 {"qid": "567d95e075ab492fb9a771a0c3a25b4c", "answer": "his name and image to avoid trivialization"}
 {"qid": "b1e224036bc94c54b01278ea22344603", "answer": "ulaanbaatar"}
 {"qid": "42a385daf4c94985bf9b4fc86f6f9234", "answer": "khan"}
-{"qid": "23e1fb202a8045049e32a1e3bdcd384c", "answer": "mongols"}
+{"qid": "23e1fb202a8045049e32a1e3bdcd384c", "answer": "mongols returned to conquer volga bulgaria"}
 {"qid": "52135509f7264382ad11b717040f2676", "answer": "genghis khan 's grandson batu and the golden horde"}
 {"qid": "d950633da79f47ec847a30bad788b729", "answer": "1225"}
 {"qid": "64533f5a89914b19a48e7a8186822c9c", "answer": "samarkand"}
@@ -6255,8 +6255,8 @@
 {"qid": "701e986f1bac4358ad3402c0f8a5147c", "answer": "feigned retreat to break enemy formations and to lure small enemy groups away"}
 {"qid": "4eb039cea0c94cfe92b07670e88d5bea", "answer": "driving them in front of the army"}
 {"qid": "9a1723f6e3fa4bddac68f143b98df58b", "answer": "mughal emperors were proud descendants of genghis khan and particularly timur"}
-{"qid": "fe989fe1ccf842aa94cfbefb79855db4", "answer": "timur"}
-{"qid": "7f08167149d7412181e606ab02acb545", "answer": "timur"}
+{"qid": "fe989fe1ccf842aa94cfbefb79855db4", "answer": "mughal"}
+{"qid": "7f08167149d7412181e606ab02acb545", "answer": "attar of nishapur"}
 {"qid": "2583d90c4ad448ef893f03d3a90ffab9", "answer": "silk road"}
 {"qid": "f1881dd735784683b8631560c3c13c8a", "answer": "turkey"}
 {"qid": "230d4453c706455a87b7758a6126d597", "answer": "tolerant of religions"}
@@ -6266,14 +6266,14 @@
 {"qid": "e42016e8d5e8437aa244749d8f27ca2b", "answer": "grandson kublai"}
 {"qid": "654d7652c1c544d59c4edaae3677a7b0", "answer": "yuan"}
 {"qid": "2ec23d31f05f437d990ddaec5702d917", "answer": "never conquered all of china"}
-{"qid": "83997857f70b4651a8ce96e9ae95c152", "answer": "captured enemies as body shields"}
+{"qid": "83997857f70b4651a8ce96e9ae95c152", "answer": "samarkand using captured enemies as body shields"}
 {"qid": "097afd3b97fb4637bf9b0a3be121635b", "answer": "executed every soldier"}
 {"qid": "870d3d3918e64743a530693974f4132d", "answer": "plain"}
 {"qid": "20291f86d3e04e79b5015e1643d38416", "answer": "genghis told chu'tsai"}
 {"qid": "f19c27b37b7e43bc9a270f64db074a3f", "answer": "khan"}
 {"qid": "7484ce3e5b1c479585c1b5a428926ecc", "answer": "jin dynasty"}
 {"qid": "2a644f6964154389a234e93d4dc56293", "answer": "genghis"}
-{"qid": "a8cd269442c74c4eb8161558113e00e6", "answer": "mongolian and turkic word tenggis"}
+{"qid": "a8cd269442c74c4eb8161558113e00e6", "answer": "mongolian"}
 {"qid": "6c3498ba72534c6aa5c6d90c30eef5cc", "answer": "lake baikal and ocean were called tenggis by the mongols"}
 {"qid": "e8933dedd82e4e97867d0b1978b991d5", "answer": "ocean \" , \" oceanic \" or \" wide - spreading"}
 {"qid": "c7f5e653e10b4dac8305847cb7ec0ced", "answer": "right"}
@@ -6283,7 +6283,7 @@
 {"qid": "07b8c7bcdf0e4d989fb302bdbcce0bfc", "answer": "drug"}
 {"qid": "4f6da5ea0aae4263ac116e02a6530f11", "answer": "healthcare professionals with specialised education and training"}
 {"qid": "0fed289a116049b98830f2d80c038f8f", "answer": "education and training"}
-{"qid": "2f6572047df7438c84a06c7b5c971c05", "answer": "edsen khoroo"}
+{"qid": "2f6572047df7438c84a06c7b5c971c05", "answer": "mongolian : edsen khoroo"}
 {"qid": "d7f28a52a6bf4db387fd1bcb8fcc4f81", "answer": "dongshan dafo dian"}
 {"qid": "a233df18698844cf90175838e93ad317", "answer": "famous tibetan monastery of kumbum monastery or ta'er shi near xining"}
 {"qid": "cf477e162f4445bebfcbc0a65e5ead02", "answer": "1954"}
@@ -6292,16 +6292,16 @@
 {"qid": "2d69b67b7f2f46d6b7fe2294de715dab", "answer": "khorasan"}
 {"qid": "898203706efa482e8fd7814b8e9b9a48", "answer": "urgench"}
 {"qid": "7661e63f3ee140c78bd3748eadbdbd6f", "answer": "sultan muhammad"}
-{"qid": "4767c70b8a7d45deb8bd296187b63cdb", "answer": "sultan muhammad"}
+{"qid": "4767c70b8a7d45deb8bd296187b63cdb", "answer": "sultan muhammad , brought this land to life and gave assistance and support to the muslims"}
 {"qid": "c3cb9801d52942beb6f6cd268cb4defb", "answer": "1220"}
 {"qid": "eacf56c6d49c412d974409f978e9c80a", "answer": "mongol army was split into two forces . genghis khan"}
 {"qid": "f7ae9ca145b1401e8c2658f9fd7e4272", "answer": "armenia and azerbaijan"}
 {"qid": "54afb81520ed46aba583d6c460effafb", "answer": "battle of kalka river"}
 {"qid": "20a1bdb66bc74049838ddd9d53edfc1d", "answer": "genghis khan"}
-{"qid": "aaaa9b285e3747cd9d774ba38ef03d65", "answer": "\u0447\u0438\u043d\u0433\u0438\u0437 - \u0445\u0430\u043d"}
+{"qid": "aaaa9b285e3747cd9d774ba38ef03d65", "answer": "mongolian chinggis khaan"}
 {"qid": "c0280779c7694efe9b996b050c105f1c", "answer": "\u0447\u0438\u043d\u0433\u0438\u0437 - \u0445\u0430\u043d"}
 {"qid": "7208d7dde6d94eb99ee0f63371d7bcb0", "answer": "in chinese as simplified chinese"}
-{"qid": "45d57c120b34400b86951fde29379fd3", "answer": "chinghiz , chinghis , and chingiz , chinese : \u6210\u5409\u601d\u6c57"}
+{"qid": "45d57c120b34400b86951fde29379fd3", "answer": "english chinghiz , chinghis , and chingiz , chinese : \u6210\u5409\u601d\u6c57"}
 {"qid": "776247f5368f402c84cabf5660190334", "answer": "\u0447\u0438\u043d\u0433\u0438\u0437 - \u0445\u0430\u043d"}
 {"qid": "103116a502c74fd4aeb9a19c9bf6da8e", "answer": "ghazan khan"}
 {"qid": "f69fa484caaa4190b9eb8b1c78b59b84", "answer": "mamluks of egypt"}
@@ -6312,7 +6312,7 @@
 {"qid": "b833cb52f1404a49a72c975c0f135321", "answer": "de materia medica"}
 {"qid": "a035d4afb958422caeb09e1e55fe5259", "answer": "materia medica"}
 {"qid": "8f156eaa9e5e4de898488eb1cca88649", "answer": "diocles of carystus"}
-{"qid": "9cd5671b0a2f49868cf58cd01e5116ab", "answer": "greek physician pedanius dioscorides"}
+{"qid": "9cd5671b0a2f49868cf58cd01e5116ab", "answer": "dioscorides"}
 {"qid": "f449edab74974b8daa7139e578d2b291", "answer": "direct patient care"}
 {"qid": "40d03fe383234994a378fb84e004e600", "answer": "clinical pharmacists"}
 {"qid": "639b9d6f61d344a9ad7c36c9fb484153", "answer": "physicians"}
@@ -6328,9 +6328,9 @@
 {"qid": "fd41786d22fa414db42d2254c5d1177b", "answer": "pharmacists"}
 {"qid": "6488687802b0405a974167d65132b41d", "answer": "pharmacist assistants"}
 {"qid": "4acd549a8661435db90b4073bdff6872", "answer": "japan"}
-{"qid": "fabb7b4a6f094cc1875fcd50e56caabb", "answer": "ikh zasag"}
+{"qid": "fabb7b4a6f094cc1875fcd50e56caabb", "answer": "mongolian law"}
 {"qid": "e0ab1a828b594a6d9ce983e8f22bd9ac", "answer": "illegal matters related to corruption and bribery very heavily"}
-{"qid": "e00ffc14a3854fcd86d0120da145f534", "answer": "president elbegdorj sees genghis khan"}
+{"qid": "e00ffc14a3854fcd86d0120da145f534", "answer": "mongolian president tsakhiagiin elbegdorj noted . president elbegdorj sees genghis khan"}
 {"qid": "91e1360a4cd047c0b40f9e9069eacece", "answer": "mongolian"}
 {"qid": "9e1ec1baa25f4419b8affff2a421a458", "answer": "2000"}
 {"qid": "485f527727704eb1849001292575eeaf", "answer": "brick - and - mortar community pharmacies"}
@@ -6530,7 +6530,7 @@
 {"qid": "1769806c43164b7e923d983ea307f3d1", "answer": "unit - dose , or a single dose of medicine"}
 {"qid": "386e804a15aa4f688d917958827e2466", "answer": "viruses"}
 {"qid": "e8915ca44c8b4ed288c2d0ec6414e794", "answer": "cd8"}
-{"qid": "74aeea0138d144edbef7ef1180026da4", "answer": "antigen in a complex with the mhc class i"}
+{"qid": "74aeea0138d144edbef7ef1180026da4", "answer": "mhc class i"}
 {"qid": "223e4f2c84264ff18be1b4f44f598148", "answer": "granulysin"}
 {"qid": "f23bb3745e2e469680e4c76db763df06", "answer": "perforin"}
 {"qid": "183ee0809d0f4337a035bc196ad5f83e", "answer": "autoimmune"}
@@ -6548,7 +6548,7 @@
 {"qid": "ace553ccfa8244d8b7cbf87a029a5030", "answer": "rna silencing mechanisms"}
 {"qid": "2d1639e99c944365be51f83ca50a8893", "answer": "lck"}
 {"qid": "3192db8ac1c64f268ab845f2399a163f", "answer": "mhc"}
-{"qid": "2fb9bc253dd9400eae6ed94c16279712", "answer": "helper cell"}
+{"qid": "2fb9bc253dd9400eae6ed94c16279712", "answer": "mhc"}
 {"qid": "d88f735f893d464494efce5ba56d25fe", "answer": "cytokines"}
 {"qid": "28d2d1b881194a3f892b293481392116", "answer": "molecules"}
 {"qid": "deb1540c87844a24b6afcc0e8abfd47e", "answer": "b"}
@@ -6974,9 +6974,9 @@
 {"qid": "f8e8746f0edc4663aa342d6619573a26", "answer": "taxman"}
 {"qid": "7a10aa975ae24277b30184eecb422d34", "answer": "\u201c resign"}
 {"qid": "54be0dd83c1d47fcbadc435d3fac9547", "answer": "political philosophy"}
-{"qid": "eeef97b92e1c4ca683a8fa94fa53b709", "answer": "societies"}
+{"qid": "eeef97b92e1c4ca683a8fa94fa53b709", "answer": "societies can run schools in india"}
 {"qid": "8a11d7049c6340238265ca6951660459", "answer": "india"}
-{"qid": "235ed9bae74d469fb1b22cfcbd7b7f5a", "answer": "education report"}
+{"qid": "235ed9bae74d469fb1b22cfcbd7b7f5a", "answer": "aser"}
 {"qid": "dc43a799de0844be8406c60f43291512", "answer": "annual status of education report"}
 {"qid": "8da81d26117b4fa1a22afea092c9c10c", "answer": "english"}
 {"qid": "f59fd6a6ae394173b0285118514352d8", "answer": "non - tertiary"}
@@ -7042,7 +7042,7 @@
 {"qid": "55cd4f344f6d45478be7b5b72f2db538", "answer": "88"}
 {"qid": "84ca5d5fbdb441d1abe07ee45be97f39", "answer": "88 private schools in new zealand , catering for around 28,000 students or 3.7 %"}
 {"qid": "7617b40ab134467689384a518d9554cb", "answer": "catholic"}
-{"qid": "209d6fabf7814336a45f3d7cbc909f99", "answer": "auckland"}
+{"qid": "209d6fabf7814336a45f3d7cbc909f99", "answer": "auckland , hamilton , wellington and christchurch"}
 {"qid": "99a5714e8333446fb93db8e61e7d6f50", "answer": "massachusetts"}
 {"qid": "d0111b244f2d46d2967d219fe5194d90", "answer": "1852"}
 {"qid": "f6ffb1b2c3ba47cf9c042807ff250ca8", "answer": "1976 ) ; wisconsin v. yoder , 406 u.s. 205 ( 1972"}
@@ -7075,7 +7075,7 @@
 {"qid": "5654ddfa204640c78db396342a6a421c", "answer": "fully funded by private parties"}
 {"qid": "1670d056bf104a5d825efb3a4edee2f9", "answer": "kathmandu"}
 {"qid": "44d7a24069964bd3ac1a7e13dca4497e", "answer": "un - aided"}
-{"qid": "72303f98583b4c8ea32b555eea17d590", "answer": "boarding"}
+{"qid": "72303f98583b4c8ea32b555eea17d590", "answer": "boarding schools . the medium of education is english"}
 {"qid": "aed52d0f84014ff5ae8636b8221e9793", "answer": "harvard library"}
 {"qid": "bb1943cae78d4f9e864ffc0abe057413", "answer": "79"}
 {"qid": "29db9af0d96f4a69917a756893c16bdb", "answer": "18 million"}
@@ -7096,7 +7096,7 @@
 {"qid": "51831ee51fbe4d63a0ff55fb9b6dd2a1", "answer": "battle of cedar creek"}
 {"qid": "8f1cd39bf6d04e0b91ae8d1bba2aea8d", "answer": "warfare and the long occupation left the city disrupted"}
 {"qid": "c95bbdd54e1745b88391dcafef74584d", "answer": "olustee"}
-{"qid": "1ec173d837014771afbe83a8a952a4c9", "answer": "$ 40,000"}
+{"qid": "1ec173d837014771afbe83a8a952a4c9", "answer": "$ 40,000 annually"}
 {"qid": "ac1cd90c4cdb43768973c131156e974a", "answer": "quality private schools"}
 {"qid": "6de1f0475c5f45ae8add8530d5637e5a", "answer": "fundraising drives"}
 {"qid": "1ea6bb93776249dcaf3ea995696282d2", "answer": "expenses"}
@@ -7126,7 +7126,7 @@
 {"qid": "be943b4286644f2f9d7a4580b2be36e6", "answer": "an occupancy permit"}
 {"qid": "167a59f2769a4deebf10c6372b6b4739", "answer": "louis agassiz"}
 {"qid": "56353d4f669d40fd97fcac10d7808de9", "answer": "intuition"}
-{"qid": "cb655c8ad1164b48a8c3f382787a2bdd", "answer": "thomas reid"}
+{"qid": "cb655c8ad1164b48a8c3f382787a2bdd", "answer": "scottish philosophers thomas reid"}
 {"qid": "4b8aabd609254524aab20aaf4c8f67fe", "answer": "independent schools and public schools"}
 {"qid": "3bbc8b99e542428e91119e7b0a539172", "answer": "not private schools , as they are state - controlled"}
 {"qid": "7a1ca102a0174d51bc5b8a8bf4b86f17", "answer": "set much higher school fees"}
@@ -7148,7 +7148,7 @@
 {"qid": "734d2f399ed64461827cf83ddfc7c932", "answer": "puritan"}
 {"qid": "63ed0ced3867483e903f79dec67a0199", "answer": "dust"}
 {"qid": "58171a6cc17e4b17a244faa93bf9b308", "answer": "it was never affiliated with any particular denomination"}
-{"qid": "c37b3fbb6aec49a3a85556a1d1e1cae2", "answer": "jacksonville"}
+{"qid": "c37b3fbb6aec49a3a85556a1d1e1cae2", "answer": "jacksonville is the largest city by population in the u.s. state of florida"}
 {"qid": "78878d873f9b425fa122143d9fa417dd", "answer": "1,345,596"}
 {"qid": "b78e22cd36494919a577c0af27d0ca77", "answer": "12th"}
 {"qid": "fe90b5f48f2346e081e013901e9f79db", "answer": "duval county"}
@@ -7198,7 +7198,7 @@
 {"qid": "f8ee200f9029458aae008773912a8b32", "answer": "new york"}
 {"qid": "b55ff3e0918d4d5da9ef7503720d9501", "answer": "silent"}
 {"qid": "ffabb065abe94fe883223c61b880abc4", "answer": "winter film capital of the world"}
-{"qid": "8cdab13781c64b77961848e894b65049", "answer": "winter film capital of the world"}
+{"qid": "8cdab13781c64b77961848e894b65049", "answer": "jacksonville silent film museum at norman studios"}
 {"qid": "9a0e4baf8521460a83e954dc6349fed9", "answer": "1903"}
 {"qid": "a5311b336b6845b5a34afc5fba4889b7", "answer": "1903"}
 {"qid": "ebfe152feabd4d979b24ace7a9a02f54", "answer": "legalizing"}
@@ -7215,7 +7215,7 @@
 {"qid": "7c0266456458436e8780af02ef547b86", "answer": "90 % in 2004 to 60 %"}
 {"qid": "a5af22e62ae8444e9144ed185f764e19", "answer": "four half - courses per term and must maintain a four"}
 {"qid": "5a4432cc86874a7283cc038312bb0cb2", "answer": "magna cum laude"}
-{"qid": "ee0fae9cd3734f7389a6073ba850c8a2", "answer": "60 %"}
+{"qid": "ee0fae9cd3734f7389a6073ba850c8a2", "answer": "60 % in 2005"}
 {"qid": "9ecce81987b749a1b36f3f8eacab2731", "answer": "constructed in 1990 as the barnett center"}
 {"qid": "7b793fa557494d46809953ea9572cf37", "answer": "barnett center"}
 {"qid": "4b43ee589ea54a239174c5df7b7b88b9", "answer": "617 ft"}
@@ -7230,7 +7230,7 @@
 {"qid": "6c9e71e8801d40349f137ed9a1a48610", "answer": "grover cleveland"}
 {"qid": "a391985d80b74709821feb393606dc1f", "answer": "yellow fever outbreaks"}
 {"qid": "2598243f0ced4e85bca935aa11d3cfba", "answer": "florida east coast railway further south"}
-{"qid": "6e1bef32b758489b96f6a01e5e379167", "answer": "steamboat and later by railroad"}
+{"qid": "6e1bef32b758489b96f6a01e5e379167", "answer": "florida old confederate soldiers and sailors"}
 {"qid": "81e62784f79e484b81c93580687627f8", "answer": "spanish moss"}
 {"qid": "a74b82d3c1304db786f87bf4ba1636e6", "answer": "2,000"}
 {"qid": "db4bbb600c3249b6931c3e2832a17a7e", "answer": "declare martial law"}
@@ -7276,11 +7276,11 @@
 {"qid": "792239b531b64b0ca48a1c60dfd4a768", "answer": "94.1"}
 {"qid": "6a2a252b8cd24cb899573ad4ffab6720", "answer": "filipino american"}
 {"qid": "806de1df0fcf4bfc864fb48f72cebb96", "answer": "25,033"}
-{"qid": "0a5174aa23c54704a294a337d7970b04", "answer": "25,033"}
+{"qid": "0a5174aa23c54704a294a337d7970b04", "answer": "florida 's largest filipino american community , with 25,033"}
 {"qid": "a5632c9a679f43bb84b8cc3e345be918", "answer": "united states"}
 {"qid": "5ac658ca293e4ac48ab8d8b22fdf2378", "answer": "consumption is less extreme"}
 {"qid": "40987b44859848dbb6f09e37c807741b", "answer": "libertarian"}
-{"qid": "2011bd8efc4843e9b170d2deaffc6dea", "answer": "2001"}
+{"qid": "2011bd8efc4843e9b170d2deaffc6dea", "answer": "1986"}
 {"qid": "d3227186712648ab86052a733415c6e8", "answer": "thomas b. edsall"}
 {"qid": "63f9d93f7fa547b1bcf3bfa2c8832cbd", "answer": "journalist"}
 {"qid": "961b7d44301f424996c2777316df0a78", "answer": "malkin athletic center"}
@@ -7288,7 +7288,7 @@
 {"qid": "081760b80fc148a3b603e1b2c202d7ed", "answer": "three"}
 {"qid": "38166a16eb054c37a33f0437483a0e51", "answer": "american revolutionary war"}
 {"qid": "bd46871a350942998daf93cad88638a1", "answer": "constructed the king 's road connecting st. augustine to georgia"}
-{"qid": "04b1243d9df9405dbb67e9526874ba5b", "answer": "the seminole"}
+{"qid": "04b1243d9df9405dbb67e9526874ba5b", "answer": "the seminole called wacca pilatka and the british called the cow ford or cowford"}
 {"qid": "6a0b665b3fd14772bd43328f11b84c78", "answer": "britain"}
 {"qid": "4f4162708c9d419c88dfb97007e80ddc", "answer": "february 9 , 1832"}
 {"qid": "941bd991600d44248e0795ed0525c1b2", "answer": "through the traditional old boy network"}
@@ -7326,7 +7326,7 @@
 {"qid": "7d21c77d593144aeb1260dca160db241", "answer": "full stomachs"}
 {"qid": "fd2dd6c14e0d4382a4c7940c8ff074ad", "answer": "poorer countries"}
 {"qid": "e156815be08b40dba7534f05c00c5a6b", "answer": "life expectancy"}
-{"qid": "4fc5b636a2ba42dbaeeaf51ee7ba5159", "answer": "americans"}
+{"qid": "4fc5b636a2ba42dbaeeaf51ee7ba5159", "answer": "americans live no longer on average ( about 77 years in 2004 ) than greeks"}
 {"qid": "271f4aee068d4094aec5e8ee6452c361", "answer": "80 years ) and japan ( 82 ) \u2013 where income was more equally"}
 {"qid": "7b5d6b9e4c3144e58516016be3f13582", "answer": "increases in education first increase and then decrease growth as well as income inequality"}
 {"qid": "2090fe3a0ebd4e61bce4b1508d461e74", "answer": "inequality"}
@@ -7368,7 +7368,7 @@
 {"qid": "3b05e7e31c784abd97244e4888bc48f4", "answer": "saffir - simpson scale"}
 {"qid": "8dd14cd548654d9aba4eb7234526d597", "answer": "1964"}
 {"qid": "bb12e60e650847dea9c1ef464687c861", "answer": "gallifrey"}
-{"qid": "64794651c3684ff4af5daa5f08ae8cd0", "answer": "rogue time lord"}
+{"qid": "64794651c3684ff4af5daa5f08ae8cd0", "answer": "gallifrey"}
 {"qid": "7dce75439e22431591f661b3829012c9", "answer": "chameleon circuit"}
 {"qid": "0c8c5e803de246b79e68b4cb425e52a2", "answer": "machine to take on the appearance of local objects"}
 {"qid": "fbdb783794814c098f5d3adddb9b0872", "answer": "goes by the name"}
@@ -7550,7 +7550,7 @@
 {"qid": "afc60aa4d1744d20aec350313e6931ba", "answer": "thomas piketty"}
 {"qid": "b5f9a81d453149bdaa1a028f3514bff0", "answer": "higher returns"}
 {"qid": "2b4b97fab131450a9dcde08edb7b263d", "answer": "85"}
-{"qid": "2c41f1f31e5f436ea8d79a53e2236736", "answer": "3.5 billion"}
+{"qid": "2c41f1f31e5f436ea8d79a53e2236736", "answer": "85 richest people , a small part of the wealthiest 1 %"}
 {"qid": "3a75468d6f2e4ac79d5f1e30169ed26c", "answer": "$ 759,900"}
 {"qid": "db13fb17a60347bda97fdfb91d097241", "answer": "basis of the methodology used : by using net wealth"}
 {"qid": "466d1c5e05d843d08dbb2d631b49a405", "answer": "finds that there are more poor people in the united states and western europe"}
@@ -7686,14 +7686,14 @@
 {"qid": "532206edf96245448502d341c108b77f", "answer": "theta - sigma"}
 {"qid": "c40fe959ce11457d97fb35c7291637e8", "answer": "november 2006"}
 {"qid": "f2a1ba09fb8548c6b9b856de8e8dac2e", "answer": "depicts the prophesied"}
-{"qid": "466deeab9ace4830ae844cd4c19ee6ec", "answer": "excitedly replies \" goodness me"}
+{"qid": "466deeab9ace4830ae844cd4c19ee6ec", "answer": "first doctor excitedly replies \" goodness me"}
 {"qid": "727be9dd123344938df4932ba04ab973", "answer": "fourth"}
 {"qid": "f9c1b0ce914a42fe94d0289bd678c794", "answer": "lodger"}
 {"qid": "dffb3f4445d04047ba5437f7ae3031d9", "answer": "1983"}
 {"qid": "18387a449bc94a0ebbf59c501c3b1f08", "answer": "john hurt"}
 {"qid": "ab012ed44d10428794872f3a2ec6c1ab", "answer": "the day of the doctor"}
 {"qid": "bd66ec298a994dff974f3d01fe059812", "answer": "michael jayston"}
-{"qid": "f54caf34c10f42a18f905d4d17d0b38c", "answer": "michael jayston"}
+{"qid": "f54caf34c10f42a18f905d4d17d0b38c", "answer": "michael jayston portrayed the valeyard"}
 {"qid": "37935cc521444f7f95e1c92a11d853d8", "answer": "mcgann and eccleston"}
 {"qid": "f4986063f7f24a37aba1f88d3735ccb6", "answer": "sherlock holmes"}
 {"qid": "a71977d9cac740149c2cad60fb90f0a4", "answer": "archenemy"}
@@ -7744,7 +7744,7 @@
 {"qid": "e17fea931a0f4b23b9bf321e68449f73", "answer": "eighty seconds"}
 {"qid": "399de858ad8a44deb92af65bb43b8379", "answer": "john f. kennedy"}
 {"qid": "92af998a448140b58a69ba630057e214", "answer": "bbc"}
-{"qid": "6ad0ba535ceb4346961e28a511ac0c43", "answer": "power blackouts"}
+{"qid": "6ad0ba535ceb4346961e28a511ac0c43", "answer": "bbc"}
 {"qid": "37ab129493ed4f4b839c93defad2f8f8", "answer": "26"}
 {"qid": "f712632dbc6147fea24913ac84502276", "answer": "sophie aldred"}
 {"qid": "4994818626644996b2257a9adfd5fb6e", "answer": "sophie aldred"}
@@ -7775,23 +7775,23 @@
 {"qid": "9cfb020e89974f4dba59e9a5463f3523", "answer": "the big bang"}
 {"qid": "333d20de1b314c6a856bcd18ee03cb3c", "answer": "the day of the doctor"}
 {"qid": "a7e557ff495346f28b3a92a372268196", "answer": "dalek race"}
-{"qid": "a2d98b9a76464bd197450e3796eaee73", "answer": "skaro"}
+{"qid": "a2d98b9a76464bd197450e3796eaee73", "answer": "daleks"}
 {"qid": "c5682f5a413c46b1a22ecca96584e048", "answer": "mechanical armour shells for mobility"}
-{"qid": "52f67757e5b542c2bfc85ce6f7e05d15", "answer": "daleks are kaleds from the planet skaro"}
+{"qid": "52f67757e5b542c2bfc85ce6f7e05d15", "answer": "daleks"}
 {"qid": "bf90e5c6e2f040468072143ad718eb53", "answer": "their eyestalk ; attacks upon them using various weapons"}
 {"qid": "e282fbf3f76841c08f6201cd063d7183", "answer": "2005"}
 {"qid": "da8a62e528204412b047a1cfc9e3a3e0", "answer": "judith merril"}
 {"qid": "ed037628708143f19eadb0028928dcd2", "answer": "ytv"}
 {"qid": "44ac65ee1ea742d8960d472a0dadb1f0", "answer": "weng - chiang"}
 {"qid": "a88b7771e0084e42a7fe17266e23828f", "answer": "judith merril"}
-{"qid": "a5a7ae7ca9e34a1aac81a887a4247ebc", "answer": "premi\u00e8red"}
+{"qid": "a5a7ae7ca9e34a1aac81a887a4247ebc", "answer": "bbc one showing , and two days before it aired on fox"}
 {"qid": "76715a37d43443acb4d89452ef532fc2", "answer": "new zealand"}
 {"qid": "951959c7d4b943949f8e263997ae6587", "answer": "edmonton"}
 {"qid": "43fb844fa978471cb05795fe27e995a3", "answer": "two"}
-{"qid": "f3b3b617084b4f23a8d9c8d1dbc213cf", "answer": "23 november"}
+{"qid": "f3b3b617084b4f23a8d9c8d1dbc213cf", "answer": "1983"}
 {"qid": "5979653f3b104dde8e5daeaabffcd408", "answer": "australian broadcasting corporation"}
 {"qid": "017347af9eb544bc99693a6e24754741", "answer": "partial funding"}
-{"qid": "11b0f83c586744b5b6628df9bf0e8aa0", "answer": "bbc uktv"}
+{"qid": "11b0f83c586744b5b6628df9bf0e8aa0", "answer": "sf"}
 {"qid": "a80bcd6064d74d8b8ec1b0d99547a6b5", "answer": "periodically repeated episodes"}
 {"qid": "bd030f00bfe94e89b61d45fd366ee7ff", "answer": "australian broadcasting corporation"}
 {"qid": "f83e5a11b03a45fca3f512b9b285eb91", "answer": "late 1980s"}
@@ -7864,7 +7864,7 @@
 {"qid": "13f781f318ba4af7bfab53a65e0c1b83", "answer": "murray gold and ben foster"}
 {"qid": "aa4a74fcd9d24648b0fa8bd376405d2e", "answer": "ben foster"}
 {"qid": "48c3259eb89f45bab8d0d9a8d36bc720", "answer": "27 july 2008"}
-{"qid": "341718975ae341b4b432cfa03844fc99", "answer": "david tennant"}
+{"qid": "341718975ae341b4b432cfa03844fc99", "answer": "prom"}
 {"qid": "7bd52479968c42a496a28952c05269f7", "answer": "murray gold and ben foster"}
 {"qid": "a582d42ba45d4d98887ed2e83ae8c492", "answer": "elisabeth sladen"}
 {"qid": "87cfad7ee76e40909945264cdd7845f6", "answer": "24 september 2007"}
@@ -7958,7 +7958,7 @@
 {"qid": "e91232e0515c45a28164ac818327b143", "answer": "2008"}
 {"qid": "01b15db695d54f1a98ac0496d2f0d1fa", "answer": "children of earth"}
 {"qid": "485e852342a24094afff7c556746e59c", "answer": "torchwood ( an anagram of \" doctor who"}
-{"qid": "a88fbe70c40a4bd5b6734ebe8fd28079", "answer": "kublai khan 's reign . ogedei 's grandson kaidu"}
+{"qid": "a88fbe70c40a4bd5b6734ebe8fd28079", "answer": "kaidu"}
 {"qid": "06b963e200f54633b105a368e978ad71", "answer": "northeast border"}
 {"qid": "646fd7a53066479ba3a82dde0d8216d7", "answer": "prince wonjong"}
 {"qid": "f9bed8132d9c4d5bab0bfa392918ac0b", "answer": "western frontier"}
@@ -7977,7 +7977,7 @@
 {"qid": "ad29802263a440d3878dd38decc6bd34", "answer": "six"}
 {"qid": "5b600054a266487eb4d9ff9289f3776a", "answer": "henry ives cobb"}
 {"qid": "afb473315ee6430492360c42b1ccb883", "answer": "magdalen tower"}
-{"qid": "cb363d12c5634eb0b9a0ba57a023e59d", "answer": "magdalen tower , and the university commons , hutchinson hall , replicates christ church hall"}
+{"qid": "cb363d12c5634eb0b9a0ba57a023e59d", "answer": "oxford 's magdalen tower , and the university commons , hutchinson hall , replicates christ church"}
 {"qid": "af21d45e509e4336b3b9287cb11e0b1e", "answer": "university of chicago laboratory schools"}
 {"qid": "73f48b6c95cc4238aff2eca03285b05a", "answer": "the council"}
 {"qid": "c95abfd94a624e14b22ee25e9f0cd88c", "answer": "four"}
@@ -8021,7 +8021,7 @@
 {"qid": "e87d9ac6c1e449d3920e3a2de666c7a0", "answer": "5,792"}
 {"qid": "fd5c41ed210f4740a7a422e0a8c63af4", "answer": "international students comprised"}
 {"qid": "2f42c67e4de14b41ae67c897eeff7a4d", "answer": "season 11"}
-{"qid": "1730019f271649ccb0169f24876e95c4", "answer": "auntie awards \" as the culmination of their \" tv60"}
+{"qid": "1730019f271649ccb0169f24876e95c4", "answer": "bbc television held the \" auntie awards \" as the culmination of their \" tv60"}
 {"qid": "a5611d0726e04c4ea67f8dc355e3475b", "answer": "doctor who was ranked third"}
 {"qid": "24cf26a00c5f43389ecb0f5e9380b7d3", "answer": "sfx"}
 {"qid": "8ccc975607ae4d2fbbac467b49f9623f", "answer": "third"}
@@ -8086,7 +8086,7 @@
 {"qid": "bfff55ac041845dea0816e52547f31a0", "answer": "great yuan great mongol state"}
 {"qid": "b9e2c6e3ff6d4d1da5624cd48f81fd47", "answer": "great khan"}
 {"qid": "a7ec8c0b8a144dddad85aae187505457", "answer": "jin"}
-{"qid": "df439aa529434490a27ec6779a99a38c", "answer": "xiao zhala"}
+{"qid": "df439aa529434490a27ec6779a99a38c", "answer": "khitan xiao zhala"}
 {"qid": "266f8ea4f9644a749a433e5d5d030b22", "answer": "khitan"}
 {"qid": "0b259afeea074de388151b36bb6ad433", "answer": "10,000"}
 {"qid": "4612854a049449cdbe9479c4df6b1269", "answer": "three"}
@@ -8181,18 +8181,18 @@
 {"qid": "ecf0d65afa5a4d51b31dd543cbde0ff6", "answer": "marshall sahlins , historian dipesh chakrabarty , paleontologists neil shubin and paul sereno"}
 {"qid": "05cd094b8223494a859814f5001ee4c0", "answer": "chinese people"}
 {"qid": "8ab38433c2af4ac7974f799890c81b8f", "answer": "eternal heaven"}
-{"qid": "c06e4c0729d742e7b92cedb20cdcc3f5", "answer": "ming"}
-{"qid": "b718bfe503194f90a1f390093812f86a", "answer": "ming"}
-{"qid": "8fdd6d13f88542aba31d3839430a9f63", "answer": "china"}
+{"qid": "c06e4c0729d742e7b92cedb20cdcc3f5", "answer": "yuan dynasty"}
+{"qid": "b718bfe503194f90a1f390093812f86a", "answer": "yuan dynasty"}
+{"qid": "8fdd6d13f88542aba31d3839430a9f63", "answer": "chinese people[who"}
 {"qid": "0d14c17ac9b048f888ad1553a3f63981", "answer": "privy council"}
 {"qid": "bd1e028655fd486d97358ec873a0d40f", "answer": "introduced since the sui and tang dynasties"}
 {"qid": "c3b4e2ea91b64f7da19e8af688d565ea", "answer": "chinese and mongols"}
 {"qid": "35bf0ab7f2ba4219b4255911cc181575", "answer": "privy council"}
 {"qid": "400fffee04f94b698691de0fdbfc8193", "answer": "1340"}
-{"qid": "97dd0a9f3b2743d09571491dda61b05a", "answer": "toghun tem\u00fcr ( emperor huizong"}
+{"qid": "97dd0a9f3b2743d09571491dda61b05a", "answer": "rinchinbal"}
 {"qid": "705d8b80e9f34abba99d1173f847d18d", "answer": "nine"}
 {"qid": "5aaec7ffbf7b4611be06d7c38eb80a03", "answer": "liao , jin , and song dynasties"}
-{"qid": "14e865f054b14584a22c9beb81f18f54", "answer": "il - khanate court of gaykhatu"}
+{"qid": "14e865f054b14584a22c9beb81f18f54", "answer": "yuan"}
 {"qid": "abf82f3a7b004ca193256f991f7f448a", "answer": "mulberry trees"}
 {"qid": "71f6ce22a90d41f2bfadfa789caafa3b", "answer": "1275"}
 {"qid": "73b6366188cf40fd9028b89cf71e285b", "answer": "woodblocks to print paper money"}
@@ -8212,7 +8212,7 @@
 {"qid": "e342e40c8e8d4ba2a89538d8ef4714dd", "answer": "1996"}
 {"qid": "b9d00baf25e84fcab9b78d3268d1d966", "answer": "2002"}
 {"qid": "356032f5222f4aff85bee429b19f726c", "answer": "several thousand"}
-{"qid": "aa83151332e6450a8b5ccd4492e3363c", "answer": "transparency international 's corruption perception index"}
+{"qid": "aa83151332e6450a8b5ccd4492e3363c", "answer": "kenya"}
 {"qid": "b3e7d80d5a8541339e869618144d0077", "answer": "corruption perception index"}
 {"qid": "f257cfb9598644849ce2530e9fbea0e4", "answer": "139th out of 176 total countries"}
 {"qid": "4cb2e2aecc3a4cee89310e232ee9c376", "answer": "176 total countries in the cpi , with a score"}
@@ -8248,9 +8248,9 @@
 {"qid": "cda5daa87dc44baaaf7f524a7ad449bb", "answer": "because the uighurs surrendered to the mongols first"}
 {"qid": "c987480f86b54e499f63eefb4cde8c86", "answer": "dynasty arts"}
 {"qid": "d6ab9a4705774600b3b1be17d1e9df3d", "answer": "arts of painting , poetry , and calligraphy , the song dynasty and the yuan"}
-{"qid": "2bb94128d8f2425a8a98ba57e79a4047", "answer": "tang"}
+{"qid": "2bb94128d8f2425a8a98ba57e79a4047", "answer": "yuan poetry , the main development was the qu"}
 {"qid": "f0b173cf664945fab3c009bae9499a5e", "answer": "qu"}
-{"qid": "2f3b30ae24524d089431f4ad14524f7f", "answer": "poetry"}
+{"qid": "2f3b30ae24524d089431f4ad14524f7f", "answer": "yuan poetry"}
 {"qid": "a943a9da17104e47bbfb68e02c25a10d", "answer": "northern chinese"}
 {"qid": "960e857f8c494aca9077ef6a31673e13", "answer": "northern chinese"}
 {"qid": "d7f3a451b0564efba780412fded87a0a", "answer": "withstood"}
@@ -8289,7 +8289,7 @@
 {"qid": "56a14d5135c64ede86fb088113226913", "answer": "banned the growing of coffee"}
 {"qid": "8e202eea25ff4a6692a97c4694da295f", "answer": "80,000"}
 {"qid": "031ab0770c014abbbd5bfb627a053cb8", "answer": "han chinese , khitans , jurchens , mongols , and tibetan"}
-{"qid": "019eef05ec3948208f7151be8c9ac8bf", "answer": "han chinese , khitans , jurchens , mongols , and tibetan"}
+{"qid": "019eef05ec3948208f7151be8c9ac8bf", "answer": "han chinese"}
 {"qid": "7dbbde8d69994bd89663ff6f9a3a10a2", "answer": "liu bingzhong and yao shu"}
 {"qid": "55023d3ad3bb469e8d9a39bd4ba811bb", "answer": "chinese tripartite"}
 {"qid": "6040a93cf1cf400faec82c0be60fb31c", "answer": "civil , military , and censorial offices"}
@@ -8300,7 +8300,7 @@
 {"qid": "7aa021674ddf47779c5a9ab87518b675", "answer": "nestorian physician jesus the interpreter"}
 {"qid": "8146a26e60164af0bc16a395f01f237b", "answer": "1263"}
 {"qid": "d3f351872a7141158a4820e598b94fd7", "answer": "yin - yang and wuxing philosophy underlying traditional"}
-{"qid": "897efbedcd0f4eb7819c9b671dcd3a85", "answer": "yin - yang and wuxing philosophy"}
+{"qid": "897efbedcd0f4eb7819c9b671dcd3a85", "answer": "chinese physicians opposed western"}
 {"qid": "bfb65d6ec1684686853bbdd06ab187b6", "answer": "24 %"}
 {"qid": "f12322a1b0e44d10b4c5675a79242660", "answer": "tea , horticultural produce , and coffee"}
 {"qid": "a5e1b0291a7f4086a5e5a45e1a5eb3b8", "answer": "agriculture"}
@@ -8334,7 +8334,7 @@
 {"qid": "0ab094f222384795b8fa5f4606116fb2", "answer": "odm"}
 {"qid": "3357618dc9c0429c9374bd155f4bf590", "answer": "until the end"}
 {"qid": "c48d3a228b3a468898546d0af5bc34d9", "answer": "kenyan coast"}
-{"qid": "8d66c8f7cb494122b44dfafebdb2763e", "answer": "14th century and once rivalled mombasa for dominance in the african great lakes region"}
+{"qid": "8d66c8f7cb494122b44dfafebdb2763e", "answer": "swahili settlement since the 14th century"}
 {"qid": "bfb0d029fea345029b8382bc510984dc", "answer": "1498"}
 {"qid": "5fdd6c108b9c418184b30e454b113cc5", "answer": "august 1914"}
 {"qid": "87843cffaf8c46b1973a75122914c4db", "answer": "lt col paul von lettow - vorbeck"}
@@ -8345,10 +8345,10 @@
 {"qid": "9b2c84247ec44d9591adb83a9603cd32", "answer": "mongolian , tibetan , and chinese"}
 {"qid": "07e6779c50e24fbb977090ae5b27b6ce", "answer": "quda / marriage alliance with mongol clans , the onggirat , and the ikeres"}
 {"qid": "c63b0230acf149c38392ca5379613c53", "answer": "tugh temur"}
-{"qid": "6c9ef7ccbcfd454c941faa37e6a0eeb5", "answer": "emperor wenzong"}
+{"qid": "6c9ef7ccbcfd454c941faa37e6a0eeb5", "answer": "tugh temur ( emperor wenzong"}
 {"qid": "1f37e25cda7f4621aae8effac2469c9d", "answer": "yuan"}
 {"qid": "e44d0d80d4c14300aaa14b2a18b0dd77", "answer": "buddhism"}
-{"qid": "bb935a257c5146db871ee4cb65b4b1a0", "answer": "buddhism , islam , and christianity"}
+{"qid": "bb935a257c5146db871ee4cb65b4b1a0", "answer": "yuan dynasty , such as buddhism , islam , and christianity"}
 {"qid": "b347e82a486f4058bb72c6c2c5b130b2", "answer": "bureau of buddhist and tibetan affairs"}
 {"qid": "cfaa12ac698848698da1aadbbc6d2fb7", "answer": "tibetan variants"}
 {"qid": "e903e2426767493c9c16ab294b1618d8", "answer": "peacekeeping"}
@@ -8408,9 +8408,9 @@
 {"qid": "62aeef65e14946b1a1a5c495740fdc6f", "answer": "eliminate the position of prime minister"}
 {"qid": "ffdee7fe79244569beb6c2fe49c87af8", "answer": "27 august 2010"}
 {"qid": "a2bab3c99dcc4c579191b48494761e1e", "answer": "second republic"}
-{"qid": "48478ee53d834ac2b9ce286414d85abc", "answer": "mongolian patrimonial feudalism"}
-{"qid": "3dbdd84584be4fbe9ee741211560ee99", "answer": "mongolian patrimonial feudalism"}
-{"qid": "7d48a2b073954903b3e9c6e54531b5ac", "answer": "mongols"}
+{"qid": "48478ee53d834ac2b9ce286414d85abc", "answer": "mongolian"}
+{"qid": "3dbdd84584be4fbe9ee741211560ee99", "answer": "mongolian patrimonial feudalism and the traditional chinese"}
+{"qid": "7d48a2b073954903b3e9c6e54531b5ac", "answer": "mongols and semuren"}
 {"qid": "77d151bbd2ab43839d5feabc91785b57", "answer": "possibly due to the fear of transferring power"}
 {"qid": "8b56b07233fb435c807a3ba9c04a810c", "answer": "ilkhanate"}
 {"qid": "5d6112f560fb479ea79fa23a15e06ce6", "answer": "61 %"}
@@ -8423,7 +8423,7 @@
 {"qid": "15b6736af9f541edad17d4d92fe899f7", "answer": "complicity"}
 {"qid": "4b8012d3947846b99d819b9b7a676df4", "answer": "odinga"}
 {"qid": "ddcff839e4ad4344ba4bc03f637e5f0f", "answer": "yuan emperors"}
-{"qid": "924e6308cbb849168dddd356254cdcc8", "answer": "loyalist commander chen youding"}
+{"qid": "924e6308cbb849168dddd356254cdcc8", "answer": "yuan loyalist commander chen youding"}
 {"qid": "882b6acda84f4eab8d26c0f1a0605d53", "answer": "zhu yuanzhang"}
 {"qid": "0f7b989293a3450cb2a5ae5d5d07c22f", "answer": "thanks"}
 {"qid": "c6ffda6961824884a6c0ed386c903490", "answer": "zhu yuanzhang"}
@@ -8470,7 +8470,7 @@
 {"qid": "f06ce49c019a48209bb5fe5ab88c9c37", "answer": "change our understanding of climate science"}
 {"qid": "64a4a3f899b04e53a4e3f3e7a762607a", "answer": "raised as a serious shortcoming in a body"}
 {"qid": "fe97957fd13b43c8abf3784ae15329e6", "answer": "six years and lasts 12"}
-{"qid": "6c79ecd796164358842dae8093ca1d85", "answer": "basic formal education"}
+{"qid": "6c79ecd796164358842dae8093ca1d85", "answer": "basic formal education starts at age six years"}
 {"qid": "45d054987b4c4b81af4b1ecb0213915c", "answer": "free in public schools"}
 {"qid": "82ec6c33286244b19e92b9cb12de7ae9", "answer": "join a polytechnic"}
 {"qid": "4e4c41803965473093d5abef64e5c789", "answer": "january 1985"}
@@ -8529,9 +8529,9 @@
 {"qid": "ef240cf6ca8441e58b1b22e6df748df4", "answer": "2001"}
 {"qid": "d834f9aff2ec43fb93c12d8400d39d0a", "answer": "projections on temperature and sea level change with observations"}
 {"qid": "3e8a73e4d5a945a9b9aa214af27e4b75", "answer": "projections on temperature and sea level change with observations"}
-{"qid": "7c41a35567d34634acda35523487c0af", "answer": "rising at or above the maximum rates proposed"}
+{"qid": "7c41a35567d34634acda35523487c0af", "answer": "rising at or above the maximum rates proposed during the last ipcc report in 2001"}
 {"qid": "0dac26119d8542119ec228e9fbd26e7d", "answer": "poverty"}
-{"qid": "7e98e14038f14c3493cdef04fb7f1076", "answer": "half"}
+{"qid": "7e98e14038f14c3493cdef04fb7f1076", "answer": "kenyans"}
 {"qid": "a25cf0d81be94d95aa45fcfd5bdd1146", "answer": "preventable diseases like malaria , hiv / aids , pneumonia , diarrhoea and malnutrition"}
 {"qid": "6c4d4ead13f944e8840eb07a7eaa1e23", "answer": "weak management and poor leadership"}
 {"qid": "d6db3da721d34f98865042f0d3071bf8", "answer": "15 million"}
@@ -8602,7 +8602,7 @@
 {"qid": "1789ee34c79649deaa699bd385ae0f6f", "answer": "newer reconstructions used additional data and covered a wider area"}
 {"qid": "d4a7a325299d4646a970119118a11745", "answer": "reconstructions"}
 {"qid": "1762913816b948eba8233632a5a8f8a0", "answer": "scientific research"}
-{"qid": "52c95f180eac4c97a42a6df73f4c7f6d", "answer": "50\u2013140 cm ] above 1990 levels . these values are much greater than the 9\u201388 cm"}
+{"qid": "52c95f180eac4c97a42a6df73f4c7f6d", "answer": "1990 levels . these values are much greater than the 9\u201388 cm"}
 {"qid": "bcdeee440eac4392b75df0c3ccaffa4d", "answer": "0.5\u20131.4 m"}
 {"qid": "a1fd13a0d93f4b6890fa77ced3913796", "answer": "2001"}
 {"qid": "c5a95f325dd846ac8182200ad558b4c2", "answer": "five"}
@@ -8623,7 +8623,7 @@
 {"qid": "ecb89faae46b4eabb8c570aa081e6f45", "answer": "sherwood boehlert"}
 {"qid": "ebb384441b3743679bf1d2d51b5bd151", "answer": "chairman of the house science committee"}
 {"qid": "b1c2e340018746fc93ff4e5d5c70e872", "answer": "to conduct photosynthesis"}
-{"qid": "1960bb89cd804e509a19f3fbb3367636", "answer": "energy - storage molecules atp and nadph"}
+{"qid": "1960bb89cd804e509a19f3fbb3367636", "answer": "atp"}
 {"qid": "ed88ad4293fd4e4c8b929b6681d251df", "answer": "organic molecules from carbon dioxide"}
 {"qid": "33395957aef1451895ef80e0e8cd41fe", "answer": "calvin cycle"}
 {"qid": "3953319feee347b0bdda5424eddc070b", "answer": "1"}
@@ -8673,8 +8673,8 @@
 {"qid": "fdd2f799a1f549aa975b06ce6193db89", "answer": "chloroplast peripheral reticulum"}
 {"qid": "5862111b93014b25bb771b0da649fcaa", "answer": "a maze of membranous tubes and vesicles continuous with the inner chloroplast membrane"}
 {"qid": "4eb9e3f5b6f242fbbab57210b1752361", "answer": "thylakoids and intermembrane space"}
-{"qid": "f9aa25423a194412b93175989972f563", "answer": "chloroplast"}
-{"qid": "e9a00fcbfd9441fe9a1c53c679c567f7", "answer": "chloroplast"}
+{"qid": "f9aa25423a194412b93175989972f563", "answer": "dinophysis chloroplast"}
+{"qid": "e9a00fcbfd9441fe9a1c53c679c567f7", "answer": "dinophysis chloroplast is a kleptoplast \u2014 if so , dinophysis chloroplasts wear out and dinophysis species"}
 {"qid": "2ecf064f8eb54909af578ba9407ae098", "answer": "kleptoplast"}
 {"qid": "e82e1d0ba8914032a93ee1eeefedc976", "answer": "dinophysis chloroplast"}
 {"qid": "5f3b8235a6854489b2217be2d28234bf", "answer": "cpdna"}
@@ -8767,8 +8767,8 @@
 {"qid": "4512d7c339594ac68f8256db02e19f84", "answer": "1962"}
 {"qid": "632501d3220a4a63a8d576eec6b8490a", "answer": "a thylakoid"}
 {"qid": "305f47fcefba4dcd89ff9c140d2b8883", "answer": "thylakoid network"}
-{"qid": "ff95a4d2952a4b598a60d6c9cf28c394", "answer": "permanently attached either to a thylakoid or to another plastoglobulus attached to a thylakoid"}
-{"qid": "4c720962719f478c9fc7acdfb5f2dd6a", "answer": "chains"}
+{"qid": "ff95a4d2952a4b598a60d6c9cf28c394", "answer": "plastoglobuli"}
+{"qid": "4c720962719f478c9fc7acdfb5f2dd6a", "answer": "plastoglobuli tend to occur in linked groups or chains"}
 {"qid": "24d751fda27847178850ab38d6514ede", "answer": "light energy"}
 {"qid": "b78da34f9c254af9b8e96783a23ccb50", "answer": "light energy"}
 {"qid": "0f88cba2264e4aa7909cb0c7ec2bf473", "answer": "energize electrons"}
@@ -8787,7 +8787,7 @@
 {"qid": "645641723a66488cabc8a17de5bbd721", "answer": "plastoglobuli"}
 {"qid": "6e645d3f8bf84463853abcfbc8973464", "answer": "spherical"}
 {"qid": "e88c06b53ad442bcae49157dbdbe71fb", "answer": "spherical bubbles of lipids"}
-{"qid": "de7c7a5e665144189c2f6006d72cc2ff", "answer": "lipid monolayer"}
+{"qid": "de7c7a5e665144189c2f6006d72cc2ff", "answer": "plastoglobuli"}
 {"qid": "ad5cbc4d24b34c1d84320ae4a271285e", "answer": "lipid"}
 {"qid": "f549308e78684db1bf686ee92a453ce3", "answer": "all green"}
 {"qid": "b64ce3cd70c143bf9596cfe7b8839da3", "answer": "chlorophyll"}
@@ -8800,7 +8800,7 @@
 {"qid": "45768d1daea34b25afdf3dd71436545d", "answer": "a bright red - orange"}
 {"qid": "4bd3eaa32cc6406eaf18a181bfe38e3c", "answer": "orange - red zeaxanthin"}
 {"qid": "558c5c15262442feb06dab03874ba38a", "answer": "originate"}
-{"qid": "b371a10cd265468baec876b942d8805a", "answer": "0.3\u20130.8 % of the nuclear dna"}
+{"qid": "b371a10cd265468baec876b942d8805a", "answer": "paulinella cells contain one or two sausage shaped blue - green"}
 {"qid": "2c8714027bc840b9b0b81a00ec6e4f33", "answer": "150,000"}
 {"qid": "7871f1509ed14ab2b76b66876993a43a", "answer": "850"}
 {"qid": "85691bc274f54a32a83e2c0110ea0c51", "answer": "150,000"}
@@ -8864,8 +8864,8 @@
 {"qid": "001e2cf945c2458da11fe2267227611b", "answer": "white"}
 {"qid": "ace3d125aaeb4b66a75ed5dffa330910", "answer": "poor"}
 {"qid": "6dc8557078a64224b10b0b13376b97ad", "answer": "white"}
-{"qid": "efba9e4a00574f8697b9c8b509be4d26", "answer": "two plastid - dividing rings"}
-{"qid": "05c3ced35b9f4936bfe9117b5050d222", "answer": "two"}
+{"qid": "efba9e4a00574f8697b9c8b509be4d26", "answer": "pd rings form"}
+{"qid": "05c3ced35b9f4936bfe9117b5050d222", "answer": "pd"}
 {"qid": "c2d2c061e1764d6592d43e1af8eabf51", "answer": "5 nanometers"}
 {"qid": "c48b31e6b6d34fbf85d6a09619e8a144", "answer": "5 nanometers across , arranged in rows 6.4 nanometers"}
 {"qid": "a1f58f576c8b432da54be60457157b63", "answer": "two plastid - dividing rings , or pd rings form"}
@@ -8941,11 +8941,11 @@
 {"qid": "aed3252ed9ec4e249cde4cc7a04279de", "answer": "they can take shelter"}
 {"qid": "1a6dc55cb6384fc7937c80a0603078f4", "answer": "mitochondria"}
 {"qid": "7e38a48d66df4a44a1940c1ddcffe3d2", "answer": "1640"}
-{"qid": "d735833e53084b51a5f026cce84f0cef", "answer": "euler"}
+{"qid": "d735833e53084b51a5f026cce84f0cef", "answer": "leibniz and euler"}
 {"qid": "c4af7836ba274ad5b62c8fd7c95c1187", "answer": "22n + 1"}
 {"qid": "a711ac6981044fd78179a9609dca47f4", "answer": "2p \u2212 1"}
 {"qid": "c9703ec46e8148fb935197ce5e36b86c", "answer": "n = 4"}
-{"qid": "ca37cf27ed7647d3a845d93796408d84", "answer": "rhind papyrus"}
+{"qid": "ca37cf27ed7647d3a845d93796408d84", "answer": "egyptian fraction expansions in the rhind papyrus"}
 {"qid": "fefadd3243754b518e1044dd03d822f3", "answer": "greeks"}
 {"qid": "e4962b0055d843c8a9c92496dfac193c", "answer": "euclid 's elements"}
 {"qid": "f67914d2915c465ca85b73e5cb22b277", "answer": "euclid"}
@@ -8976,10 +8976,10 @@
 {"qid": "07181e279dcb45a8858976aec12024e9", "answer": "large prime numbers"}
 {"qid": "d55641be618243f3a1d96c91b538b389", "answer": "several"}
 {"qid": "9dfbca87810f40f78d8ba41447db354d", "answer": "the fact that there are efficient algorithms for modular"}
-{"qid": "91770d3de2724c7d8e41421967645c09", "answer": "512-bit primes are frequently used for rsa and 1024-bit primes are typical for diffie"}
+{"qid": "91770d3de2724c7d8e41421967645c09", "answer": "diffie"}
 {"qid": "af65d37623234a468dfe3311e1d351d5", "answer": "2p + 1 with p prime"}
 {"qid": "4c7e5c6153944a60bcad43da71e20495", "answer": "2p + 1 with p prime"}
-{"qid": "d24c2ce418584c848ca7b717f1e79a5b", "answer": "sophie germain primes"}
+{"qid": "d24c2ce418584c848ca7b717f1e79a5b", "answer": "2p + 1 with p prime"}
 {"qid": "fbffa4afab6b4cdf858a11a87ddfc50b", "answer": "sophie germain primes"}
 {"qid": "788993ea3a464934b0eb4768e5a18575", "answer": "sophie germain primes"}
 {"qid": "3f59df2d2847425f848dba4a8e5b7fd0", "answer": "middle rhine flows"}
@@ -9021,12 +9021,12 @@
 {"qid": "601a7f8698074f30ad4e7e78221aceba", "answer": "1 + 1/2 + 1/3 + 1/4 +"}
 {"qid": "18dfe3cdc31e46dfb6724be949e5920b", "answer": "modern algebraic number theory is the following identity"}
 {"qid": "df42561cb99f457b8f8b131e9a21b95b", "answer": "little theorem"}
-{"qid": "4c368c4f42ee4d42911b55ded3458407", "answer": "the fact"}
+{"qid": "4c368c4f42ee4d42911b55ded3458407", "answer": "fermat 's little theorem"}
 {"qid": "8a1f1f8b85af43e9828c1639c4e49b6c", "answer": "composite"}
 {"qid": "084feb7b08e840ecbd176c91e2ff3ee0", "answer": "fermat primality test , which relies on the fact ( fermat 's little theorem"}
 {"qid": "b61e3cef4f834bf1a64d4fbe57250955", "answer": "fermat primality test , which relies on the fact ( fermat 's little theorem"}
 {"qid": "0dc721ec5fce44458b6aa32f77fb085a", "answer": "drainage channels"}
-{"qid": "a243014b210443e3a24edc136f5f9b27", "answer": "the delta in the second half of the 20th century"}
+{"qid": "a243014b210443e3a24edc136f5f9b27", "answer": "delta"}
 {"qid": "17e0e28bc73040669fac21db4b63ff6d", "answer": "dammed"}
 {"qid": "b87e9248d4f14ea78a3e06bdd5cea125", "answer": "second half of the 20th century"}
 {"qid": "39f8ec6ab2e54934a4566b1fbc2e2dc1", "answer": "via the notion of the spectrum of a ring"}
@@ -9091,12 +9091,12 @@
 {"qid": "e333b0fb3d424c8c91a935ec6a2ed2cf", "answer": "meuse delta"}
 {"qid": "c6e383869b6b44c2b28cf37ca2f48cd4", "answer": "netherlands"}
 {"qid": "5af9254ef1b2414daed986c97da8d87a", "answer": "tourism"}
-{"qid": "ab8ef283048d4e31a435571a3e71b9e5", "answer": "am rhein and koblenz is listed"}
+{"qid": "ab8ef283048d4e31a435571a3e71b9e5", "answer": "koblenz"}
 {"qid": "1e9b940f9723409e9914d8f2c1590e9e", "answer": "lorelei"}
 {"qid": "6d4e1abe98bc4900affaf14087eb6760", "answer": "middle rhine valley"}
 {"qid": "37f803c28aa24c26a4a118e078eb92c8", "answer": "tourism"}
 {"qid": "74d41004d4dc489c83c9fd9607f96e68", "answer": "unesco world heritage site"}
-{"qid": "ffb9f8ba7c034fad99f4d218b5d44a48", "answer": "r\u00fcdesheim am rhein"}
+{"qid": "ffb9f8ba7c034fad99f4d218b5d44a48", "answer": "r\u00fcdesheim am rhein and koblenz"}
 {"qid": "fc194126a0ac4ca5b81af8ec9537bc27", "answer": "lorelei"}
 {"qid": "c170389df8f34c51bf487af727ebd618", "answer": "lorelei"}
 {"qid": "18c613a15c404f1391aae688acedefd6", "answer": "through stream capture"}
@@ -9116,7 +9116,7 @@
 {"qid": "b7c25d6daed54f0484c1347cbb8a113e", "answer": "draining the surrounding land and polders"}
 {"qid": "df4396530f294ef49bc26696444273e0", "answer": "kromme rijn"}
 {"qid": "6ff86266b14e448c860e01c8045b4630", "answer": "kromme rijn"}
-{"qid": "cb411e1d8e894cb194e12ff5788c9b51", "answer": "sluice"}
+{"qid": "cb411e1d8e894cb194e12ff5788c9b51", "answer": "sluice at katwijk"}
 {"qid": "e00ecffe2ce544a4a5660317f2779bfa", "answer": "cicadas"}
 {"qid": "2449ab8c7d714495a658624b68334b2b", "answer": "grubs underground"}
 {"qid": "b1e12f3b38da4290a6a33aee3e8fc2d4", "answer": "15-year"}
@@ -9147,7 +9147,7 @@
 {"qid": "7a3e272a90714beba7ce819f2bdae03d", "answer": "west"}
 {"qid": "878ac5cbc08a4364804dbe8865815b04", "answer": "120 m"}
 {"qid": "f2ef0a6f499e4a59be3e78c40df95e80", "answer": "dry land"}
-{"qid": "24083e2493df49b3bf41eaac97add6e1", "answer": "n \u2013 s"}
+{"qid": "24083e2493df49b3bf41eaac97add6e1", "answer": "alpine orogeny caused a n \u2013 s"}
 {"qid": "6f1cde317a9b44d89cfeff679b6b73ee", "answer": "upper rhine graben"}
 {"qid": "ef13354cb8dd445da36b04875ace13bb", "answer": "miocene"}
 {"qid": "6ab999df20b345e0a9424f36489ab1b3", "answer": "the alps"}
@@ -9204,11 +9204,11 @@
 {"qid": "69ed68d251664506b05573e096ff3709", "answer": "nederrijn changes its name and becomes the lek"}
 {"qid": "27cee695a0764f949abefeff93f2d2c9", "answer": "wijk"}
 {"qid": "2d2f26378726428884a07a0516399085", "answer": "ijssel and nederrijn"}
-{"qid": "ef6f86ceb0064981930cbdd8a729b753", "answer": "north sea"}
+{"qid": "ef6f86ceb0064981930cbdd8a729b753", "answer": "ijssel"}
 {"qid": "539a05a8f1e24c95902754c0ecb40445", "answer": "two ninths"}
-{"qid": "3438125355414e92b4fabd7eff73c042", "answer": "flows farther west"}
+{"qid": "3438125355414e92b4fabd7eff73c042", "answer": "nederrijn changes its name and becomes the lek"}
 {"qid": "1c56ae2be0fb4bf780be6112f0c099d7", "answer": "wijk bij duurstede"}
-{"qid": "091e7ba3844448dfac4d201909de7319", "answer": "recurring decimal"}
+{"qid": "091e7ba3844448dfac4d201909de7319", "answer": "recurring decimal , whose period is p \u2212 1"}
 {"qid": "bde384bb2c19446789fa250dbc5ba747", "answer": "p \u2212 1 or a divisor of p \u2212 1"}
 {"qid": "b2457a56486f4882b3fefe3a805e6116", "answer": "factorial ( p \u2212 1 ) ! + 1"}
 {"qid": "0e54878904714fdbab2a8f06f3219236", "answer": "p \u2212 1 ) ! + 1"}
@@ -9229,7 +9229,7 @@
 {"qid": "653841972cd64db0a90f55c958aa4cec", "answer": "farther west"}
 {"qid": "2036bd85a0df4d8fa8f770dbc3fe0a09", "answer": "farther west"}
 {"qid": "7fe5163eeee9455f8cf0791b5d04ca7b", "answer": "meuse"}
-{"qid": "6c7367f4888743389e0c5eb138e6ea9c", "answer": "oude maas branches off , near dordrecht"}
+{"qid": "6c7367f4888743389e0c5eb138e6ea9c", "answer": "dordrecht"}
 {"qid": "99237da3090649efaed55d4e6c46ef3d", "answer": "near diepoldsau"}
 {"qid": "9c77a41281364e88a9e0a51ed3a836eb", "answer": "fu\u00dfach"}
 {"qid": "efefeacd1d654d80a39b4744dc3ec07c", "answer": "strong sedimentation"}
@@ -9241,7 +9241,7 @@
 {"qid": "3589720f968f4b2e8c9c7c2a27526421", "answer": "canalized rhine"}
 {"qid": "d36b6c3adbc94538a89a6fca0cd0d7ef", "answer": "continuous input of sediment into the lake will silt up the lake"}
 {"qid": "b566dacff483426aa7b29648bc141256", "answer": "r\u0113nos"}
-{"qid": "235d7de7fc2e4c90a89c63065daf17b3", "answer": "vocalism rin-"}
+{"qid": "235d7de7fc2e4c90a89c63065daf17b3", "answer": "french rhin"}
 {"qid": "b0a6cc40ede549e59495268f58ff1b26", "answer": "r\u0113nos"}
 {"qid": "12161dda3c034b1f84b2688632b40c6a", "answer": "1st"}
 {"qid": "e29528edd013477a95e421f6c02be9a6", "answer": "r\u0113nos"}
@@ -9249,7 +9249,7 @@
 {"qid": "bbc663c674bc491b8ef2ec5dc57a1570", "answer": "r\u0113nos"}
 {"qid": "b095e29e751f4492b9b34ed14072896e", "answer": "* r\u012bnaz"}
 {"qid": "d9e77fe7a4ac4dc786506131d760c49b", "answer": "rhijn"}
-{"qid": "636e437fe2d24f75a344759c43fba459", "answer": "19th"}
+{"qid": "636e437fe2d24f75a344759c43fba459", "answer": "19th century"}
 {"qid": "6d80c408f9134c188089670e7ea2b3d5", "answer": "increased"}
 {"qid": "6614fdce14a04160986a0b624267884b", "answer": "the rate of flow was increased and the ground water level fell significantly"}
 {"qid": "2ff35f1b88024727bca9d98b9b11b690", "answer": "grand canal d'alsace"}
@@ -9292,7 +9292,7 @@
 {"qid": "23ae27fa8a354f8da9d5c09d63c5b276", "answer": "lake \u00fcberlingen"}
 {"qid": "33d64a54e48047a192642adaba66aa30", "answer": "rhine gutter"}
 {"qid": "3473efde741f411dad71cf85f64a51f1", "answer": "water level"}
-{"qid": "868424dd0b41458195ff25507206815e", "answer": "eight"}
+{"qid": "868424dd0b41458195ff25507206815e", "answer": "eight legions in five"}
 {"qid": "f9151d29b168469f973ef0796d7a9682", "answer": "oppidum ubiorum"}
 {"qid": "b9b33c56a0b24b1d9574d6eba1605f7b", "answer": "town of the ubii"}
 {"qid": "0488266522dd4762b56a441898863c87", "answer": "whether a state or threat of war existed"}
@@ -9308,7 +9308,7 @@
 {"qid": "b37333055b234741882ade38a3b70cdd", "answer": "leaf - shaped"}
 {"qid": "2654518b7c4d411ba2e45daa9c9e870e", "answer": "queen elizabeth ii"}
 {"qid": "37fbb2d9fdd64d729177a1f996b7f039", "answer": "cologne , d\u00fcsseldorf"}
-{"qid": "88bacb4a55524650bd76c8eb9212af04", "answer": "30 km downstream of duisburg"}
+{"qid": "88bacb4a55524650bd76c8eb9212af04", "answer": "wesel - datteln canal , which runs parallel"}
 {"qid": "b72b3f0df95345f6834006c9eb4f6e0f", "answer": "lippe"}
 {"qid": "78b2daccf08b4ab6b34850222e5375a0", "answer": "emmerich rhine bridge"}
 {"qid": "50dda22cb4e14e6d9825e3ac8f57cd38", "answer": "400 m"}
@@ -9345,7 +9345,7 @@
 {"qid": "8ae34218f82441c699a82cbec4c8485c", "answer": "switzerland , it is along the lower rhine"}
 {"qid": "65d4a8bb580340db938381fd081af8b8", "answer": "switzerland"}
 {"qid": "663b2e10dac34e38bed04a7b80308495", "answer": "rotterdam , antwerp and amsterdam"}
-{"qid": "6f6aa856eec946deb1d2a9a90b6e5e91", "answer": "the ruhr"}
+{"qid": "6f6aa856eec946deb1d2a9a90b6e5e91", "answer": "the ruhr , which joins the rhine"}
 {"qid": "a3d377069c2d49e2ba4c3d71cab0df7b", "answer": "migration period"}
 {"qid": "e09307faee6d4531a61e9b8980f4dc52", "answer": "kingdoms of francia"}
 {"qid": "226baf31a37f4864be085362e9034c3f", "answer": "dragons rock"}
@@ -9363,7 +9363,7 @@
 {"qid": "5bcf1abd0968421493560bb0b5d3f022", "answer": "invasion of western europe"}
 {"qid": "a128a43cb68642c3a9ec72253e8017f9", "answer": "6th century"}
 {"qid": "013de3d247f644a79ccb052dec00d482", "answer": "10th century"}
-{"qid": "cc1a090706f6491d908eb61a3c273b2c", "answer": "holland"}
+{"qid": "cc1a090706f6491d908eb61a3c273b2c", "answer": "franconia and lower lorraine"}
 {"qid": "2ab7157f49704aaeaa8ca6abd15dea42", "answer": "archduke sigismund of austria"}
 {"qid": "b1e6cbc08ab1477c933209c5cadecbfa", "answer": "1469"}
 {"qid": "ebede2e3e8bf4e5488da70f9bd7070d4", "answer": "ad 14"}
@@ -9388,7 +9388,7 @@
 {"qid": "3558aaa5cf5b431993021e0ec86c5fe4", "answer": "1930"}
 {"qid": "fcc98220089547849ca209ddfbde6df0", "answer": "1998"}
 {"qid": "7e29a363a667499eab582baa5a66434f", "answer": "scotland act 1998"}
-{"qid": "e68905c4625c4da1a16e4ecfa82a9e98", "answer": "scottish"}
+{"qid": "e68905c4625c4da1a16e4ecfa82a9e98", "answer": "scottish parliament"}
 {"qid": "0192836102ea449183d7f024bfc5f41d", "answer": "westminster"}
 {"qid": "3d68feab10474c9689e9df2f56b163dd", "answer": "westminster"}
 {"qid": "5c372ba87e9f479f99f7b9409841f990", "answer": "north sea"}
@@ -9440,7 +9440,7 @@
 {"qid": "221bbab1d1e7460a8b38be6e1151e0aa", "answer": "mandatory committees"}
 {"qid": "b49ca90808794f739d8ab9c1b1d49dce", "answer": "mandatory committees"}
 {"qid": "54c8b1dd9875454497dbe149ed2000ec", "answer": "current mandatory committees in the fourth"}
-{"qid": "3031dae600574df6baa9e82b16347446", "answer": "upper rhine formed a contentious border"}
+{"qid": "3031dae600574df6baa9e82b16347446", "answer": "france and germany"}
 {"qid": "508bab419d124a9fa0e5c25050bfa706", "answer": "natural borders"}
 {"qid": "63f0a098fe934657bd0fb76ea5e7edf2", "answer": "napoleon"}
 {"qid": "a55e8cc8af444a84b502892c880a178c", "answer": "1806 and lasted until 1814"}
@@ -9501,7 +9501,7 @@
 {"qid": "38cc049a1c1a4194aa1152b14c0b94c1", "answer": "4-week"}
 {"qid": "9a3a3e025cde4508a425f65a3eae0f3a", "answer": "supreme court of the united kingdom"}
 {"qid": "558935972c7c4c5e9d46814bc5067506", "answer": "the bill for this act"}
-{"qid": "1fac23867a674363b2954ff839b74616", "answer": "vote on domestic legislation"}
+{"qid": "1fac23867a674363b2954ff839b74616", "answer": "scottish mps sitting in the uk house of commons are able to vote on domestic legislation"}
 {"qid": "c19dcaea70e04058b922aac9c872c703", "answer": "domestic legislation of the scottish parliament"}
 {"qid": "747a0e67824e4f49a1a1207fcfb70f5a", "answer": "the west lothian question"}
 {"qid": "d0e4ad15257f4bd3b28ae6048ea31a31", "answer": "conservative"}
@@ -9546,7 +9546,7 @@
 {"qid": "f2f633edfaf5430d908403861555a56e", "answer": "the devolved competencies"}
 {"qid": "73e3ceabf519495c9dc342115075b8a8", "answer": "parliament of the united kingdom"}
 {"qid": "d138565a06cc471aac88439fa2d5ec76", "answer": "parliament"}
-{"qid": "23e14ee116414862bffdee9c830087cd", "answer": "scottish parliament"}
+{"qid": "23e14ee116414862bffdee9c830087cd", "answer": "snp government , making this the first time in the scottish parliament"}
 {"qid": "86b930e2c936474ea9d366687194af43", "answer": "liberal democrats"}
 {"qid": "0a06ab8bffd0490788b754c2b4caf52b", "answer": "151 votes"}
 {"qid": "a8d64220519d4da2b5d49677397be8ed", "answer": "eight"}
@@ -9572,7 +9572,7 @@
 {"qid": "a329814a3ddc4ca8bdac8f1b22a29dd4", "answer": "due date of an ordinary general election"}
 {"qid": "1100a63eb41341fbb5c2f3aba735361a", "answer": "28"}
 {"qid": "f9afba8e26674fffb77392f294587937", "answer": "if islam"}
-{"qid": "b383b43d84144bb49b2d7e89db5ab5b7", "answer": "americans to explain the iranian islamic revolution"}
+{"qid": "b383b43d84144bb49b2d7e89db5ab5b7", "answer": "americans to explain the iranian islamic revolution and apolitical islam"}
 {"qid": "2436604095ee48c99db842a2f16f14e0", "answer": "historical fluke"}
 {"qid": "3a58c4d34df24c128db3b2b5501d34d6", "answer": "1945 and 1970"}
 {"qid": "e1f649eb9a064d20956f247e113f7c86", "answer": "quietist / non - political islam"}
@@ -9581,8 +9581,8 @@
 {"qid": "dfa9241cf1264355adac3f3983f302fd", "answer": "sharia"}
 {"qid": "fa418cd2e7574d208426bda39104294c", "answer": "democracy"}
 {"qid": "d24fc4d8aa194c05892fe500f99d84a8", "answer": "maintain their legitimacy"}
-{"qid": "3aa4bd3f81ac4a01b20722120a5c20b9", "answer": "a member of the london branch of the all india muslim league"}
-{"qid": "3801938917e147d4b5e9f9b81e5bebf3", "answer": "indian national congress"}
+{"qid": "3aa4bd3f81ac4a01b20722120a5c20b9", "answer": "iqbal became a member of the london branch of the all india muslim league"}
+{"qid": "3801938917e147d4b5e9f9b81e5bebf3", "answer": "london branch of the all india muslim league"}
 {"qid": "6da11d8d1c194bab9c7a72ebabdb20a2", "answer": "oxford university press"}
 {"qid": "d0c3e079dfcc468bab4564c6f432e928", "answer": "1908"}
 {"qid": "7988780fe00f43fcae8765a229fd3cf2", "answer": "the reconstruction of religious thought in islam"}
@@ -9648,7 +9648,7 @@
 {"qid": "5dc738174ee040bf8e2a50cfc1ccc9ce", "answer": "bulwarks against"}
 {"qid": "51168e80d09b4f118c39ba7a9d55251b", "answer": "experience , ideology , and weapons"}
 {"qid": "ea3e0235bbc746779721ff620588c42f", "answer": "parliamentary speaker"}
-{"qid": "6457fd592b7449feb14c40f6be1b6506", "answer": "head of the counter - terrorism police"}
+{"qid": "6457fd592b7449feb14c40f6be1b6506", "answer": "egyptian state in the 1990s included the head of the counter - terrorism police"}
 {"qid": "fef495bd46f84ac8ad19ecd077f7e0c1", "answer": "2003"}
 {"qid": "af2f40c59c804d949746ec62a1101edb", "answer": "unsuccessful"}
 {"qid": "9623c8c7f4bc4e6cbbdd2feb3a7d164b", "answer": "jamaa islamiya"}
@@ -9720,12 +9720,12 @@
 {"qid": "fae686952ec448de84e0f7e42a7dafb1", "answer": "1599"}
 {"qid": "d029e46080d2440291fec02cfb7e5063", "answer": "queen elizabeth"}
 {"qid": "894fbc6a18874704a8ab5a84624a567f", "answer": "causing the plundering of the local economy"}
-{"qid": "46274fcada53484b8ceffe938123721b", "answer": "british"}
-{"qid": "acd190c9011b46d4b9e50c8c16f84972", "answer": "democratic"}
+{"qid": "46274fcada53484b8ceffe938123721b", "answer": "india , the british"}
+{"qid": "acd190c9011b46d4b9e50c8c16f84972", "answer": "ht members have gone on to join terrorist groups and many jihadi terrorists have cited ht"}
 {"qid": "1c9495bed11948f0b367c08b07cb5533", "answer": "\" a \" change of the government"}
 {"qid": "e735e397cb74464ba809586620779aa5", "answer": "elites"}
 {"qid": "cb32d5c8862c48c098654aa88a4e8ef1", "answer": "egypt"}
-{"qid": "9ad9b57279fb4610ad0608a11b8dba76", "answer": "terrorist groups and many jihadi terrorists"}
+{"qid": "9ad9b57279fb4610ad0608a11b8dba76", "answer": "terrorist groups and many jihadi terrorists have cited ht"}
 {"qid": "3b0f69e15c6a46ed8a3721f24736f83a", "answer": "analysis of the role of nineteenth - century maps during the \" scramble for africa"}
 {"qid": "55fdb69a304343d2b53f01dc480e6a98", "answer": "imperial and colonial powers"}
 {"qid": "d2df31762a534fc8a1aaafe944b3a342", "answer": "imperial and colonial powers to obtain \" information to fill in blank spaces on contemporary"}
@@ -9787,8 +9787,8 @@
 {"qid": "fb0a800961ac4afaad8238689a2e0d8b", "answer": "mainline protestant denomination"}
 {"qid": "e6178fdf2e0d42f0898205ad1aa9ebad", "answer": "3.6 %"}
 {"qid": "a93c7e1408ce49dcb5257f2ea773cbf5", "answer": "civilize the inferior"}
-{"qid": "5b6bf686d4d24b81ad116a1d284b82b5", "answer": "bringing christianity and french culture"}
-{"qid": "a1513a73d72f4147a42b5163ee4b0a3e", "answer": "small numbers of settlers"}
+{"qid": "5b6bf686d4d24b81ad116a1d284b82b5", "answer": "france sent small numbers of settlers to its colonies"}
+{"qid": "a1513a73d72f4147a42b5163ee4b0a3e", "answer": "france sent small numbers of settlers"}
 {"qid": "90433c7e8289448098b4a28a90d4a2f6", "answer": "christianity and french culture"}
 {"qid": "04480aafb527401c89f541eeca00e147", "answer": "algeria"}
 {"qid": "f5f581dec3ca4895bd1cf8cd0752b761", "answer": "secularism and secular nationalism"}
@@ -9822,7 +9822,7 @@
 {"qid": "15e15ab28b8e4cbe8f41d918120b570b", "answer": "lovely lane methodist church"}
 {"qid": "82141e1f3a8e437aaedb671757e336a1", "answer": "mid-18th century"}
 {"qid": "dbd9d4d1c9854cc297998d00b31b4689", "answer": "in the mid-18th century within the church of england"}
-{"qid": "04beedbc72d54829a9de867883f3523e", "answer": "holy club"}
+{"qid": "04beedbc72d54829a9de867883f3523e", "answer": "methodists"}
 {"qid": "de74b982b5874a5da691990a0c853542", "answer": "bowman"}
 {"qid": "d3f39996e9814ddda6807e083964bfb3", "answer": "1917"}
 {"qid": "f0cf5ec8d8d94d2ba68afb1f25184d33", "answer": "president wilson"}
@@ -9854,7 +9854,7 @@
 {"qid": "09690705c82144aeb3b7ee4dc226a541", "answer": "hamburg merchants and traders"}
 {"qid": "89ec34483d084ec0a14fe5d2605d3fe2", "answer": "hamburg merchants and traders"}
 {"qid": "d99b44b36e0b439cae37ed2e33bb76d1", "answer": "1884"}
-{"qid": "cc8a5531e06d4727be790eb5e1fb423f", "answer": "1883\u201384 germany"}
+{"qid": "cc8a5531e06d4727be790eb5e1fb423f", "answer": "german new guinea"}
 {"qid": "43586e346c2244f58c0903e6d9f0f955", "answer": "hamburg merchants"}
 {"qid": "4066072014c74b208089679f72ffbb68", "answer": "april 23 , 1968"}
 {"qid": "2b3a6902b972427db6c2b9d1d0311aa4", "answer": "dallas , texas"}
@@ -9896,7 +9896,7 @@
 {"qid": "821272b1ca2943c79269e302bd90e33f", "answer": "muslim iberia"}
 {"qid": "b0c778c0507c419995cfc09ad83fd1ae", "answer": "800 ce"}
 {"qid": "bbdaffa8e8c1401a893c538558ede556", "answer": "800 ce"}
-{"qid": "b03a39a126604daea8cd63a9bcdddfa5", "answer": "italy"}
+{"qid": "b03a39a126604daea8cd63a9bcdddfa5", "answer": "germany \" remained largely a conceptual term referring to an amorphous area of central europe"}
 {"qid": "5c97305d031549f4a88de65cb6737c9c", "answer": "united methodist church"}
 {"qid": "eceb61f63ffb4bc48705a00fad90ca07", "answer": "a mainline protestant methodist denomination"}
 {"qid": "b7851d508bad4b8f8961295b807e393c", "answer": "1968"}
@@ -9912,7 +9912,7 @@
 {"qid": "c18a33d71c3a4e1f91eeca1f3b985b28", "answer": "32"}
 {"qid": "2e5c17284a24430d9a8faa0f14ebd4a7", "answer": "caucasus , north africa , and the horn of africa"}
 {"qid": "7f09ef21555a4dbba8f469995cec2f69", "answer": "17th century"}
-{"qid": "5b1323cc7df54b5190ea73c5780b8426", "answer": "a different view of muslim"}
+{"qid": "5b1323cc7df54b5190ea73c5780b8426", "answer": "muslim"}
 {"qid": "41074766b3b84131b234c58ad652101c", "answer": "7th century"}
 {"qid": "7f1196815e5348d6b5c5934521bfe6a3", "answer": "1924"}
 {"qid": "8364623bfc7d46979b95fef0301d95d6", "answer": "true islamic"}
@@ -9920,7 +9920,7 @@
 {"qid": "bf24435d8af447319859998efc44d336", "answer": "japan took part of sakhalin island from russia"}
 {"qid": "76523a983da145a596aece8c2f687113", "answer": "1894"}
 {"qid": "ebc0631a97d84413961388b59d877809", "answer": "japan"}
-{"qid": "5287b748687c48c3b5e377afe1154b84", "answer": "manchuria"}
+{"qid": "5287b748687c48c3b5e377afe1154b84", "answer": "manchuria from china"}
 {"qid": "0634061840804c669f0b799cb37bc4c0", "answer": "1784"}
 {"qid": "60361f8edd4844d7a33d93bc36137688", "answer": "dr. thomas coke"}
 {"qid": "81571700605647ea89a6853457c75daa", "answer": "thomas vasey and richard whatcoat"}
@@ -9980,7 +9980,7 @@
 {"qid": "3fd810f6492a417ca659313c4a516f29", "answer": "united methodist church"}
 {"qid": "933d4e6471de4518b3b0a571fe13b423", "answer": "violence , degradation , exploitation , and coercion"}
 {"qid": "0155aa244b684494b5863d6ade7ce276", "answer": "girls and women"}
-{"qid": "7a6df3b2d21d4330b287a3d3e3aa7425", "answer": "late 19th century"}
+{"qid": "7a6df3b2d21d4330b287a3d3e3aa7425", "answer": "germany \u2019s participation in western imperialism was negligible until the late 19th century"}
 {"qid": "b666461ce381437eb16f43131a4a6aa0", "answer": "after the franco - german war"}
 {"qid": "861f5354cbcd4e95b0a38c0a67a1bf0a", "answer": "napoleon"}
 {"qid": "40f8dd86a46b42fd94494ca557d2869f", "answer": "western imperialism"}
@@ -10055,10 +10055,10 @@
 {"qid": "44e6138de96b48529273fe263ac092d2", "answer": "eight - year"}
 {"qid": "8b2478f2b9b247c493afee094c0d0754", "answer": "twice"}
 {"qid": "de31d5d262184279adb319bc0bd14a36", "answer": "various locations throughout the world"}
-{"qid": "6d72e3b03d63479e8415780bed545c27", "answer": "imaginative geography"}
+{"qid": "6d72e3b03d63479e8415780bed545c27", "answer": "imaginative geography of the east"}
 {"qid": "2e4d856b769744dc968c274b4892847a", "answer": "irrational and backward"}
 {"qid": "bbec5a99599c4bf1a5780052033f3662", "answer": "irrational and backward"}
-{"qid": "100b55da035c4006bfad1c1ea96f4210", "answer": "irrational and backward"}
+{"qid": "100b55da035c4006bfad1c1ea96f4210", "answer": "irrational and backward in opposition to the rational and progressive west"}
 {"qid": "dd498ff966444632a1fb2a85f2b72507", "answer": "irrational and backward"}
 {"qid": "7748e29b0132497a854e1e5cfe38b04a", "answer": "united methodist church"}
 {"qid": "23aabbf241a74a22a5051f3c91332e89", "answer": "general conference"}
@@ -10095,7 +10095,7 @@
 {"qid": "c3270a00f2254e95b9b0d4d0b4783c76", "answer": "2000"}
 {"qid": "a7c5c362630848d7a431fb082afb3008", "answer": "may 2012"}
 {"qid": "f7e5f3bcbdfc45e09f6c8787f0193ff0", "answer": "1985"}
-{"qid": "f112011ad9c24c9ca6ecf013cb8e11c8", "answer": "baptism"}
+{"qid": "f112011ad9c24c9ca6ecf013cb8e11c8", "answer": "baptism is a sacrament in the umc"}
 {"qid": "e06dff4e3e3a46b18fd0252fa9399cb2", "answer": "about church and the methodist - christian theological tradition"}
 {"qid": "2245e7018e504ed4bd41529c81908186", "answer": "the book of discipline of the united methodist church"}
 {"qid": "e05ae70fe1f145808460e8f9db6671ca", "answer": "church"}
@@ -10137,7 +10137,7 @@
 {"qid": "e31664af86744db28a62ea5c83d32353", "answer": "no french regular army troops were stationed in north america"}
 {"qid": "30c5f7631d9d4d5ebc62543916efa3d8", "answer": "no french regular army troops were stationed"}
 {"qid": "8d45e57d8a25458ba99b42c4a2411606", "answer": "3,000 troupes de la marine , companies of colonial regulars"}
-{"qid": "fc0d4bbf3961421ba5eca079595f086d", "answer": "they owned the ohio country"}
+{"qid": "fc0d4bbf3961421ba5eca079595f086d", "answer": "logstown"}
 {"qid": "e355b64e3be84dafb1289f6e228be467", "answer": "miami chief"}
 {"qid": "b3dea7ba56fc4a9a992df20bef0a1f07", "answer": "severe consequences if he continued to trade"}
 {"qid": "191b46bd8af34d7dbfc0c0e14b9a0eff", "answer": "ignored the warning"}
@@ -10156,7 +10156,7 @@
 {"qid": "cba8725c9f2546c0916cbc17c1e8e78a", "answer": "albert c. outler"}
 {"qid": "1c60c4204e8143a79a343cc7a2ca3399", "answer": "albert c. outler"}
 {"qid": "48ab773d94cb4f38870495e89b12f54e", "answer": "william pitt"}
-{"qid": "cdb388bcc8af4a16a9cb781113499359", "answer": "unwilling to risk large convoys"}
+{"qid": "cdb388bcc8af4a16a9cb781113499359", "answer": "french ceded canada in accordance with the 1763 treaty ."}
 {"qid": "7e92819d29834e628a4b4095f450a3dc", "answer": "quebec"}
 {"qid": "60c2e04de48c4f838d8198140c636a10", "answer": "sainte foy"}
 {"qid": "fd90d11913344e9ab2dd7064c874531c", "answer": "3,000 miles"}
@@ -10175,7 +10175,7 @@
 {"qid": "22d4692babca45148288ed3c1c2e6347", "answer": "warraghiggey"}
 {"qid": "ff13e0cc37214e8cbe2a1d7773aaf92a", "answer": "mohawk chief hendrick"}
 {"qid": "c03bfbf398da4fd0a979572703746cfb", "answer": "creek and choctaw"}
-{"qid": "a850162d0b1e49d7ab0167870b11aa63", "answer": "huron , mississauga , ojibwa , winnebago , and potawatomi"}
+{"qid": "a850162d0b1e49d7ab0167870b11aa63", "answer": "french and british"}
 {"qid": "ab50e07c5ced4641b2dbadc50b7deda0", "answer": "cherokee"}
 {"qid": "d87dbec9b8d940019eade25550b45214", "answer": "75,000"}
 {"qid": "d64f62f92d8c40eabbd09991bf2f29b4", "answer": "st. lawrence and mississippi watersheds"}
@@ -10186,7 +10186,7 @@
 {"qid": "2cca0b5e4302401abaf1d7dd286adb5d", "answer": "very badly disposed towards the french"}
 {"qid": "e9f2b1e683c84b0fbeb1daf04403d79f", "answer": "all i"}
 {"qid": "339a10730d894c2c952807dcd65ef99e", "answer": "forceful , stating that british colonists would not be safe"}
-{"qid": "49bcfdbd86c643c7a2090162f1961341", "answer": "scouting party"}
+{"qid": "49bcfdbd86c643c7a2090162f1961341", "answer": "french scouting party"}
 {"qid": "02cf588d327b4db2b16830ec462a8a7d", "answer": "french scouting party"}
 {"qid": "5cd0dd67b9c84e1d9048482836e584a5", "answer": "to gain the support of the british and regain authority over his own people"}
 {"qid": "ec8602690bd4464e83fc0a2612eb4fa6", "answer": "blockade french ports"}
@@ -10194,7 +10194,7 @@
 {"qid": "620b919217b948f5b03f30e1fb2f47aa", "answer": "six regiments to new france"}
 {"qid": "afc63eab56934913b7b189d3256c82fb", "answer": "blockade french ports"}
 {"qid": "f77803dba14545ceafba17ce0a95df08", "answer": "george washington"}
-{"qid": "b354b11e6b6f4c319aed40245dfd5ecd", "answer": "1,000 british soldiers were killed or injured"}
+{"qid": "b354b11e6b6f4c319aed40245dfd5ecd", "answer": "braddock called for a retreat . he was killed"}
 {"qid": "14d3c08211a04b80b8be932df26971c4", "answer": "1,000"}
 {"qid": "18d10749fc854a628ee39b788869b936", "answer": "french and indian"}
 {"qid": "a3c8414c1d004bb8a5b6f428bf2e1167", "answer": "shirley and johnson"}
@@ -10214,7 +10214,7 @@
 {"qid": "4aa4a4e35a514e6d9a224984272c89e8", "answer": "never ratified by the colonial legislatures nor approved of by the crown"}
 {"qid": "3ae7d95a633c47528d885240d6538bc8", "answer": "to formalize a unified front"}
 {"qid": "cd27d80be2dd411ca58b08e988ba8156", "answer": "1755"}
-{"qid": "2ac8e6d00e934cd584a6ac75388a4f7b", "answer": "disaster"}
+{"qid": "2ac8e6d00e934cd584a6ac75388a4f7b", "answer": "braddock was a disaster"}
 {"qid": "f8b71b52a3c2482089a41be488d05531", "answer": "due to a combination of poor management , internal divisions"}
 {"qid": "b380eb5e97c74391a800cf6e77fbe0f7", "answer": "nova scotia"}
 {"qid": "b0b23568a34149ec81d11dcecbfba060", "answer": "expulsion of the acadians"}
@@ -10225,7 +10225,7 @@
 {"qid": "c8780ea8b712422a9b9ba772d4bfd074", "answer": "1749"}
 {"qid": "d53b762fc0d24285ac7071c219349dbf", "answer": "virginia"}
 {"qid": "90b369d49d2b415195261c89c76284ce", "answer": "christopher gist"}
-{"qid": "3b8324543f6e40a18475b762e82214d6", "answer": "indian tribes at logstown . he completed the 1752 treaty of logstown"}
+{"qid": "3b8324543f6e40a18475b762e82214d6", "answer": "british government gave land to the ohio company of virginia"}
 {"qid": "b3c9a90bd8d34bc0a44d10634b23bafa", "answer": "mouth of the monongahela river"}
 {"qid": "994f6f2dc8e14ee0ac4779ed6df9d8b0", "answer": "jacques legardeur de saint - pierre"}
 {"qid": "90024c3cc8784a31b9549269f9080f7e", "answer": "dinwiddie demanding an immediate french withdrawal from the ohio country"}
@@ -10236,20 +10236,20 @@
 {"qid": "da65b847303a476680e2abc397e63860", "answer": "albany"}
 {"qid": "f833329bc7b04bd89a5899df432f317a", "answer": "stripping the prisoners of their valuables"}
 {"qid": "f6462205408f453cb275c85d271a7917", "answer": "william shirley"}
-{"qid": "317548b906704da1a36e8e6f63ac6e09", "answer": "albany"}
+{"qid": "317548b906704da1a36e8e6f63ac6e09", "answer": "1756"}
 {"qid": "f41708abb5e948a493022d1c79a6710b", "answer": "fort frontenac"}
 {"qid": "091ba0974dba4b55bfb676a864bd701b", "answer": "albany"}
 {"qid": "9c0116679a0d461aa54871da6a5c47eb", "answer": "marquis de la jonqui\u00e8re"}
 {"qid": "ab06fe23f90c46ceab13a519f079c8e7", "answer": "300"}
 {"qid": "594bc69370564d59acf443a0d8536d52", "answer": "not following c\u00e9loron 's orders to cease trading with the british"}
-{"qid": "b608b3c56cfe4421acd218554cf2b9a0", "answer": "pickawillany , capturing three traders and killing 14 people of the miami nation"}
+{"qid": "b608b3c56cfe4421acd218554cf2b9a0", "answer": "french war party"}
 {"qid": "1ae373039f514d23a740262e8b5ed0d2", "answer": "marquis de vaudreuil"}
-{"qid": "f104aca67d53437c9aa4cd7f21a3db4a", "answer": "vaudreuil sent dieskau"}
+{"qid": "f104aca67d53437c9aa4cd7f21a3db4a", "answer": "vaudreuil"}
 {"qid": "5c6e853fb488406882906ff629de544a", "answer": "fort edward and fort william henry"}
 {"qid": "28856c73fa094befa08f93efea8e6ddb", "answer": "fort"}
 {"qid": "02222c68836b42d180e3a995e68e9387", "answer": "ticonderoga point"}
 {"qid": "0dc0977793dd47d79b4983101498194b", "answer": "oneida"}
-{"qid": "0fd965b79da443e79b9703f56eb14e93", "answer": "supply chain"}
+{"qid": "0fd965b79da443e79b9703f56eb14e93", "answer": "british supply chain"}
 {"qid": "69478dbef43c4815ba2f44455dca129f", "answer": "45,000 pounds"}
 {"qid": "78d58b0b611d4d698799b3288789c5ee", "answer": "lake ontario"}
 {"qid": "6add3ce61ca64f9bbacc8cd2d1c4ebd6", "answer": "king george iii"}
@@ -10500,7 +10500,7 @@
 {"qid": "0e2cc35423ad4be68507625e5498f06e", "answer": "15 february 1763"}
 {"qid": "acb5490df09647c0b9c750c1786f0452", "answer": "15 february 1763"}
 {"qid": "ba25613df08d437f8776a773f38adb4d", "answer": "continental north american possessions east of the mississippi or the caribbean islands of guadeloupe and martinique"}
-{"qid": "1abda580adfa4498a4750741ccb4be3c", "answer": "surrendering"}
+{"qid": "1abda580adfa4498a4750741ccb4be3c", "answer": "france chose to cede the former"}
 {"qid": "f6fee6ec91d4439eb3d9495cdb367653", "answer": "isaac newton"}
 {"qid": "2f9c035c8ed2415cbb6bd2595a6cb1c8", "answer": "20th"}
 {"qid": "6d05301c652e47d586dbe85cf9f5c93b", "answer": "four"}

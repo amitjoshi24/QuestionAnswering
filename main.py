@@ -478,10 +478,16 @@ def main(args):
     print(f'dev samples = {len(dev_dataset)}')
     print()
 
+    sentencesPlsDontLetThisVarBeTaken = list()
+    
+    for sample in train_dataset.samples:
+        passage = sample[1]
+        sentencesPlsDontLetThisVarBeTaken.append(passage)
+
     # Select model.
     model = _select_model(args)
     num_pretrained = model.load_pretrained_embeddings(
-        vocabulary, args.embedding_path
+        vocabulary, args.embedding_path, sentencesPlsDontLetThisVarBeTaken
     )
     pct_pretrained = round(num_pretrained / len(vocabulary) * 100., 2)
     print(f'using pre-trained embeddings from \'{args.embedding_path}\'')

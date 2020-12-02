@@ -12,6 +12,9 @@ import spacy
 from utils import cuda, load_cached_embeddings
 from torch.nn.utils.rnn import pack_padded_sequence, pad_packed_sequence
 
+from allennlp.modules.elmo import Elmo, batch_to_ids
+
+
 
 def _sort_batch_by_length(tensor, sequence_lengths):
     """
@@ -191,7 +194,7 @@ class BilinearOutput(nn.Module):
                     
                     
 
-                    if actualWord not in ent.text.lower():
+                    '''if actualWord not in ent.text.lower():
                         print ("rawPassage: " + str(rawPassages[i]))
                         print ("rawQuestion: " + str(rawQuestions[i]))
                         print ("questionEntities: " + str(questionEntities))
@@ -199,11 +202,13 @@ class BilinearOutput(nn.Module):
                         print ("actualWordWithOurghettobinsearchshit: " + str(actualWord))
                         #exit()
                         break
+                    '''
 
                     #if this named entity in the passage is in the question, then do pscores[i]++ lmao
                     if actualWord in questionEntities:
                         #print ("actualWordMatched: " + str(actualWord))
-                        p_scores[i][wordIndex] += 0.24 #idk
+                        #print ("before: " + str(p_scores[i][wordIndex]))
+                        p_scores[i][wordIndex] += 2 #idk
 
 
 
@@ -302,7 +307,9 @@ class BaselineReader(nn.Module):
         # Initialize bilinear layer for end positions (7)
         self.end_output = BilinearOutput(_hidden_dim, _hidden_dim)
 
-    def load_pretrained_embeddings(self, vocabulary, path):
+        
+
+    def load_pretrained_embeddings(self, vocabulary, path, sentences):
         """
         Loads GloVe vectors and initializes the embedding matrix.
 
@@ -310,8 +317,30 @@ class BaselineReader(nn.Module):
             vocabulary: `Vocabulary` object.
             path: Embedding path, e.g. "glove/glove.6B.300d.txt".
         """
-        embedding_map = load_cached_embeddings(path)
+
         self.vocabulary = vocabulary
+
+
+        '''options_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json"
+        weight_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5"
+
+        # Note the "1", since we want only 1 output representation for each token.
+        elmo = Elmo(options_file, weight_file, 1, dropout=0)
+        print ("made it here the prequel")
+        sentences = sentences[0:5]
+        print (sentences)
+        character_ids = batch_to_ids(sentences)
+        print ("made it here")
+        print ("charids: " + str(character_ids))
+        embeddings = elmo(character_ids)'''
+        
+
+        #return len(vocabulary)
+
+        embedding_map = load_cached_embeddings(path)
+        
+
+
 
         # Create embedding matrix. By default, embeddings are randomly
         # initialized from Uniform(-0.1, 0.1).
@@ -331,6 +360,7 @@ class BaselineReader(nn.Module):
 
         return num_pretrained
 
+        
     def sorted_rnn(self, sequences, sequence_lengths, rnn):
         """
         Sorts and packs inputs, then feeds them into RNN.
@@ -364,14 +394,43 @@ class BaselineReader(nn.Module):
 
     def forward(self, batch):
         # Obtain masks and lengths for passage and question.
+
+
+
+        
+        options_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json"
+        weight_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5"
+
+        # Note the "1", since we want only 1 output representation for each token.
+        elmo = Elmo(options_file, weight_file, 1, dropout=0)
+
+
         passage_mask = (batch['passages'] != self.pad_token_id)  # [batch_size, p_len]
         question_mask = (batch['questions'] != self.pad_token_id)  # [batch_size, q_len]
         passage_lengths = passage_mask.long().sum(-1)  # [batch_size]
         question_lengths = question_mask.long().sum(-1)  # [batch_size]
 
         # 1) Embedding Layer: Embed the passage and question.
-        passage_embeddings = self.embedding(batch['passages'])  # [batch_size, p_len, p_dim]
-        question_embeddings = self.embedding(batch['questions'])  # [batch_size, q_len, q_dim]
+        #passage_embeddings = self.embedding(batch['passages'])  # [batch_size, p_len, p_dim]
+        #question_embeddings = self.embedding(batch['questions'])  # [batch_size, q_len, q_dim]
+
+        oldPassageEmbeddings = self.embedding(batch['passages'])
+        print ("$$$$$$$$$$$$$:" + str(type(oldPassageEmbeddings)))
+
+        #passagesList = batch['rawPassages']
+
+        #print ("passagesList: " + str(passagesList))
+
+
+        passage_character_ids = batch_to_ids(batch["rawPassages"])
+        passage_embeddings = elmo(passage_character_ids)["elmo_representations"]
+
+        question_character_ids = batch_to_ids(batch['rawQuestions'])
+        question_embeddings = elmo(question_character_ids)["elmo_representations"]
+
+        '''for item in passage_embeddings:
+            print ("item: " + str(item))
+            print (passage_embeddings[item])'''
 
         # 2) Context2Query: Compute weighted sum of question embeddings for
         #        each passage word and concatenate with passage embeddings.
