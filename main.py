@@ -70,7 +70,7 @@ parser.add_argument(
 parser.add_argument(
     '--embedding_path',
     type=str,
-    default='glove/glove.6B.300d.txt',
+    default='falkwjfak',
     help='GloVe embedding path',
 )
 parser.add_argument(
@@ -397,7 +397,8 @@ def write_predictions(args, model, dataset):
             official test datasets are blind and hosted by official servers).
     """
     # Load model checkpoint.
-    model.load_state_dict(torch.load(args.model_path, map_location='cpu'))
+    
+    #model.load_state_dict(torch.load(args.model_path, map_location='cpu'))
     model.eval()
 
     # Set up test dataloader.

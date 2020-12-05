@@ -307,6 +307,13 @@ class BaselineReader(nn.Module):
         # Initialize bilinear layer for end positions (7)
         self.end_output = BilinearOutput(_hidden_dim, _hidden_dim)
 
+        options_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json"
+        weight_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5"
+
+        # Note the "1", since we want only 1 output representation for each token.
+        self.elmo = Elmo(options_file, weight_file, 1, dropout=0)
+
+
         
 
     def load_pretrained_embeddings(self, vocabulary, path, sentences):
@@ -399,12 +406,12 @@ class BaselineReader(nn.Module):
 
 
         
-        options_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json"
+        '''options_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json"
         weight_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5"
 
         # Note the "1", since we want only 1 output representation for each token.
         elmo = Elmo(options_file, weight_file, 1, dropout=0)
-
+        '''
 
         
 
@@ -415,11 +422,11 @@ class BaselineReader(nn.Module):
         #oldQuestionEmbeddings = self.embedding(batch['questions'])  # [batch_size, q_len, q_dim]
 
         passage_character_ids = batch_to_ids(batch["rawPassages"])
-        passage_embeddings = elmo(passage_character_ids)["elmo_representations"][0]
+        passage_embeddings = self.elmo(passage_character_ids)["elmo_representations"][0]
 
 
         question_character_ids = batch_to_ids(batch['rawQuestions'])
-        question_embeddings = elmo(question_character_ids)["elmo_representations"][0]
+        question_embeddings = self.elmo(question_character_ids)["elmo_representations"][0]
 
 
         # 2) Context2Query: Compute weighted sum of question embeddings for
