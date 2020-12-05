@@ -151,7 +151,6 @@ class BilinearOutput(nn.Module):
             return high
 
 
-
     def forward(self, p, q, p_mask, passagesNer, questionsNer, passagesMaps, questionsMaps, rawPassages, rawQuestions, trueCasePassages, trueCaseQuestions):
         # Compute bilinear scores
         q_key = self.linear(q).unsqueeze(2)  # [batch_size, p_dim, 1]
@@ -169,32 +168,38 @@ class BilinearOutput(nn.Module):
 
         for i in range(len(passagesNer)):
             
-            questionEntities = questionNerSets[i]
-            #print ("questionEntities: " + str(questionEntities))
+            who = "who" in rawQuestions[i]
+            who_entities = ["PERSON", "ORG", "GPE", "NORP"]
 
-            
+            when = "when" in rawQuestions[i]
+            when_entities = ["DATE", "TIME"]
+
+            quantity = False
+            for x in range(0, len(rawQuestions[i])):
+                if (rawQuestions[i][x] == "how" and (rawQuestions[i][x + 1] == "much" or rawQuestions[i][x + 1] == "many")):
+                    quantity = True
+            quantity_entities = ["MONEY", "QUANTITY", "PERCENT", "CARDINAL"]
+
+            questionEntities = questionNerSets[i]
+            #print ("questionEntities: " + str(questionEntities))            
 
             doc = passagesNer[i]
             for ent in doc.ents:
                 sc = ent.start_char
                 ec = ent.end_char
 
-
-
                 wordIndex = self.binsearch(passagesMaps[i], sc)
 
-                
-                
                 curChar = sc
 
                 actualWord = trueCasePassages[i][wordIndex].lower()
+
                 while curChar + len(actualWord) <= ec:
 
                     actualWord = trueCasePassages[i][wordIndex].lower()
-                    
-                    
 
-                    '''if actualWord not in ent.text.lower():
+                    '''
+                    if actualWord not in ent.text.lower():
                         print ("rawPassage: " + str(rawPassages[i]))
                         print ("rawQuestion: " + str(rawQuestions[i]))
                         print ("questionEntities: " + str(questionEntities))
@@ -202,27 +207,32 @@ class BilinearOutput(nn.Module):
                         print ("actualWordWithOurghettobinsearchshit: " + str(actualWord))
                         #exit()
                         break
+                    
+                    #print("p_scores[i]: " + str(len(p_scores[i])))
+                    #print("trueCasePassages[i]: " + str(len(trueCasePassages[i])))
                     '''
 
+                    # '''
                     #if this named entity in the passage is in the question, then do pscores[i]++ lmao
                     if actualWord in questionEntities:
                         #print ("actualWordMatched: " + str(actualWord))
                         #print ("before: " + str(p_scores[i][wordIndex]))
-                        p_scores[i][wordIndex] += 2 #idk
+                        p_scores[i][wordIndex] -= 1 #idk
+                        
+                        if who and ent.label_ in who_entities:
+                            p_scores[i][wordIndex] -= 0.5
 
+                        if when and ent.label_ in when_entities:
+                            p_scores[i][wordIndex] -= 0.5
 
+                        if quantity and ent.label_ in quantity_entities:
+                            p_scores[i][wordIndex] -= 0.5
+                    # '''
 
                     wordIndex += 1
                     curChar += len(actualWord) + 1 # 1 for the space pls
                     
-
-
             #exit()
-
-                
-                
-
-                
 
         return p_scores  # [batch_size, p_len]
 
@@ -395,9 +405,6 @@ class BaselineReader(nn.Module):
 
     def forward(self, batch):
         # Obtain masks and lengths for passage and question.
-
-
-
         
         '''options_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json"
         weight_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5"
