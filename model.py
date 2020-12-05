@@ -337,7 +337,7 @@ class BaselineReader(nn.Module):
 
         #return len(vocabulary)
 
-        embedding_map = load_cached_embeddings(path)
+        '''embedding_map = load_cached_embeddings(path)
         
 
 
@@ -358,8 +358,8 @@ class BaselineReader(nn.Module):
         # Place embedding matrix on GPU.
         self.embedding.weight.data = cuda(self.args, embeddings)
 
-        return num_pretrained
-        #return 0
+        return num_pretrained'''
+        return 0
 
         
     def sorted_rnn(self, sequences, sequence_lengths, rnn):
@@ -399,7 +399,7 @@ class BaselineReader(nn.Module):
 
 
         
-        '''options_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json"
+        options_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_options.json"
         weight_file = "https://s3-us-west-2.amazonaws.com/allennlp/models/elmo/2x4096_512_2048cnn_2xhighway/elmo_2x4096_512_2048cnn_2xhighway_weights.hdf5"
 
         # Note the "1", since we want only 1 output representation for each token.
@@ -409,27 +409,17 @@ class BaselineReader(nn.Module):
         
 
         # 1) Embedding Layer: Embed the passage and question.
-        #passage_embeddings = self.embedding(batch['passages'])  # [batch_size, p_len, p_dim]
-        oldQuestionEmbeddings = self.embedding(batch['questions'])  # [batch_size, q_len, q_dim]
 
-        oldPassageEmbeddings = self.embedding(batch['passages'])
-        print ("$$$$$$$$$$$$$:" + str(type(oldPassageEmbeddings)))
-        print ("old one  shape: " + str(oldPassageEmbeddings.shape))
-        print ("old question embeddings shape: " + str(oldQuestionEmbeddings.shape))
-        #passagesList = batch['rawPassages']
 
-        #print ("passagesList: " + str(passagesList))
-
+        #oldPassageEmbeddings = self.embedding(batch['passages']) # [batch_size, p_len, p_dim]
+        #oldQuestionEmbeddings = self.embedding(batch['questions'])  # [batch_size, q_len, q_dim]
 
         passage_character_ids = batch_to_ids(batch["rawPassages"])
         passage_embeddings = elmo(passage_character_ids)["elmo_representations"][0]
 
-        print ("pre *********: " + str(type(passage_embeddings)))
-        print ("*************:" +str(passage_embeddings))
-        print ("new oneshape: " + str(passage_embeddings.shape))
 
         question_character_ids = batch_to_ids(batch['rawQuestions'])
-        question_embeddings = elmo(question_character_ids)["elmo_representations"][0]'''
+        question_embeddings = elmo(question_character_ids)["elmo_representations"][0]
 
 
         # 2) Context2Query: Compute weighted sum of question embeddings for
@@ -440,8 +430,8 @@ class BaselineReader(nn.Module):
         passage_lengths = passage_mask.long().sum(-1)  # [batch_size]
         question_lengths = question_mask.long().sum(-1)  # [batch_size]
         
-        passage_embeddings = self.embedding(batch['passages'])
-        question_embeddings = self.embedding(batch['questions'])
+        #passage_embeddings = self.embedding(batch['passages'])
+        #question_embeddings = self.embedding(batch['questions'])
 
         aligned_scores = self.aligned_att(
             passage_embeddings, question_embeddings, ~question_mask

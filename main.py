@@ -167,7 +167,7 @@ parser.add_argument(
 parser.add_argument(
     '--embedding_dim',
     type=int,
-    default=300,
+    default=1024,
     help='embedding dimension',
 )
 parser.add_argument(
