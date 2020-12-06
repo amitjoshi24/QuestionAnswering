@@ -173,6 +173,9 @@ class BilinearOutput(nn.Module):
 
             when = "when" in rawQuestions[i]
             when_entities = ["DATE", "TIME"]
+            
+            where = "where" in rawQuestions[i]
+            where_entities = ["FAC", "ORG", "GPE", "LOC", "EVENT"]
 
             quantity = False
             for x in range(0, len(rawQuestions[i])):
@@ -213,20 +216,19 @@ class BilinearOutput(nn.Module):
                     '''
 
                     # '''
-                    #if this named entity in the passage is in the question, then do pscores[i]++ lmao
+                    #if this named entity in the passage is in the question, then do increment the probability by 1
                     if actualWord in questionEntities:
-                        #print ("actualWordMatched: " + str(actualWord))
-                        #print ("before: " + str(p_scores[i][wordIndex]))
-                        p_scores[i][wordIndex] -= 1 #idk
+                        p_scores[i][wordIndex] += 1
                         
-                        if who and ent.label_ in who_entities:
-                            p_scores[i][wordIndex] -= 0.5
-
-                        if when and ent.label_ in when_entities:
-                            p_scores[i][wordIndex] -= 0.5
-
-                        if quantity and ent.label_ in quantity_entities:
-                            p_scores[i][wordIndex] -= 0.5
+                    # if this entity contains the appropriate entity for the question type, increment the probability by 2
+                    if who and ent.label_ in who_entities:
+                        p_scores[i][wordIndex] += 2
+                    elif when and ent.label_ in when_entities:
+                        p_scores[i][wordIndex] += 2
+                    elif where and ent.label_ in where_entities:
+                        p_scores[i][wordIndex] += 2
+                    elif quantity and ent.label_ in quantity_entities:
+                        p_scores[i][wordIndex] += 2
                     # '''
 
                     wordIndex += 1
