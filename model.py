@@ -421,12 +421,17 @@ class BaselineReader(nn.Module):
         #oldPassageEmbeddings = self.embedding(batch['passages']) # [batch_size, p_len, p_dim]
         #oldQuestionEmbeddings = self.embedding(batch['questions'])  # [batch_size, q_len, q_dim]
 
+        elmo = self.elmo.cuda()
+        
+        #embeddings = elmo(character_ids.cuda()) 
+
+
         passage_character_ids = batch_to_ids(batch["rawPassages"])
-        passage_embeddings = self.elmo(passage_character_ids)["elmo_representations"][0]
+        passage_embeddings = elmo(passage_character_ids.cuda())["elmo_representations"][0]
 
 
         question_character_ids = batch_to_ids(batch['rawQuestions'])
-        question_embeddings = self.elmo(question_character_ids)["elmo_representations"][0]
+        question_embeddings = elmo(question_character_ids.cuda())["elmo_representations"][0]
 
 
         # 2) Context2Query: Compute weighted sum of question embeddings for
