@@ -184,7 +184,6 @@ class BilinearOutput(nn.Module):
             quantity_entities = ["MONEY", "QUANTITY", "PERCENT", "CARDINAL"]
 
             questionEntities = questionNerSets[i]
-            #print ("questionEntities: " + str(questionEntities))            
 
             doc = passagesNer[i]
             for ent in doc.ents:
