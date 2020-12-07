@@ -160,6 +160,7 @@ class BilinearOutput(nn.Module):
         p_scores.data.masked_fill_(p_mask.data, -float('inf'))
         #print ("pmaskdata: " + str(p_mask.data))
         # create set of all named entities in the question
+        '''
         questionNerSets = list()
         for doc in questionsNer:
             questionNerSet = set()
@@ -194,22 +195,12 @@ class BilinearOutput(nn.Module):
                     
                     
 
-                    '''if actualWord not in ent.text.lower():
-                        print ("rawPassage: " + str(rawPassages[i]))
-                        print ("rawQuestion: " + str(rawQuestions[i]))
-                        print ("questionEntities: " + str(questionEntities))
-                        print ("word we were supposed to find: " + str(ent.text.lower()))
-                        print ("actualWordWithOurghettobinsearchshit: " + str(actualWord))
-                        #exit()
-                        break
-                    '''
+
 
                     #if this named entity in the passage is in the question, then do pscores[i]++ lmao
-                    if actualWord in questionEntities:
-                        #print ("actualWordMatched: " + str(actualWord))
-                        #print ("before: " + str(p_scores[i][wordIndex]))
-                        p_scores[i][wordIndex] += 2 #idk
-
+                    #if actualWord in questionEntities:
+                    #    p_scores[i][wordIndex] += 2 #idk
+                    
 
 
                     wordIndex += 1
@@ -220,7 +211,7 @@ class BilinearOutput(nn.Module):
             #exit()
 
                 
-                
+        '''
 
                 
 
