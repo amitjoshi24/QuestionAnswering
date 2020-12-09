@@ -218,17 +218,17 @@ class BilinearOutput(nn.Module):
                     # '''
                     #if this named entity in the passage is in the question, then do increment the probability by 1
                     if actualWord in questionEntities:
-                        p_scores[i][wordIndex] += 0.5
+                        p_scores[i][wordIndex] += 1
                         
                     # if this entity contains the appropriate entity for the question type, increment the probability by 2
                     if who and ent.label_ in who_entities:
-                        p_scores[i][wordIndex] += 1
+                        p_scores[i][wordIndex] += 2
                     elif when and ent.label_ in when_entities:
-                        p_scores[i][wordIndex] += 1
+                        p_scores[i][wordIndex] += 2
                     elif where and ent.label_ in where_entities:
-                        p_scores[i][wordIndex] += 1
+                        p_scores[i][wordIndex] += 2
                     elif quantity and ent.label_ in quantity_entities:
-                        p_scores[i][wordIndex] += 1
+                        p_scores[i][wordIndex] += 2
                     # '''
 
                     wordIndex += 1
@@ -432,6 +432,11 @@ class BaselineReader(nn.Module):
 
         #passage_embeddings = self.embedding(batch['passages']) # [batch_size, p_len, p_dim]
         #question_embeddings = self.embedding(batch['questions'])  # [batch_size, q_len, q_dim]
+
+        elmo = self.elmo.cuda()
+        
+        #embeddings = elmo(character_ids.cuda()) 
+
 
         elmo = self.elmo.cuda()
         
