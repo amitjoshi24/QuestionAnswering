@@ -70,7 +70,7 @@ parser.add_argument(
 parser.add_argument(
     '--embedding_path',
     type=str,
-    default='falkwjfak',
+    default='glove/glove.6B.300d.txt',
     help='GloVe embedding path',
 )
 parser.add_argument(

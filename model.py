@@ -169,32 +169,40 @@ class BilinearOutput(nn.Module):
 
         for i in range(len(passagesNer)):
             
-            questionEntities = questionNerSets[i]
-            #print ("questionEntities: " + str(questionEntities))
+            who = "who" in rawQuestions[i]
+            who_entities = ["PERSON", "ORG", "GPE", "NORP"]
 
+            when = "when" in rawQuestions[i]
+            when_entities = ["DATE", "TIME"]
             
+            where = "where" in rawQuestions[i]
+            where_entities = ["FAC", "ORG", "GPE", "LOC", "EVENT"]
+
+            quantity = False
+            for x in range(0, len(rawQuestions[i])):
+                if (rawQuestions[i][x] == "how" and (rawQuestions[i][x + 1] == "much" or rawQuestions[i][x + 1] == "many")):
+                    quantity = True
+            quantity_entities = ["MONEY", "QUANTITY", "PERCENT", "CARDINAL"]
+
+            questionEntities = questionNerSets[i]
 
             doc = passagesNer[i]
             for ent in doc.ents:
                 sc = ent.start_char
                 ec = ent.end_char
 
-
-
                 wordIndex = self.binsearch(passagesMaps[i], sc)
 
-                
-                
                 curChar = sc
 
                 actualWord = trueCasePassages[i][wordIndex].lower()
+
                 while curChar + len(actualWord) <= ec:
 
                     actualWord = trueCasePassages[i][wordIndex].lower()
-                    
-                    
 
-                    '''if actualWord not in ent.text.lower():
+                    '''
+                    if actualWord not in ent.text.lower():
                         print ("rawPassage: " + str(rawPassages[i]))
                         print ("rawQuestion: " + str(rawQuestions[i]))
                         print ("questionEntities: " + str(questionEntities))
@@ -202,27 +210,31 @@ class BilinearOutput(nn.Module):
                         print ("actualWordWithOurghettobinsearchshit: " + str(actualWord))
                         #exit()
                         break
+                    
+                    #print("p_scores[i]: " + str(len(p_scores[i])))
+                    #print("trueCasePassages[i]: " + str(len(trueCasePassages[i])))
                     '''
 
-                    #if this named entity in the passage is in the question, then do pscores[i]++ lmao
+                    # '''
+                    #if this named entity in the passage is in the question, then do increment the probability by 1
                     if actualWord in questionEntities:
-                        #print ("actualWordMatched: " + str(actualWord))
-                        #print ("before: " + str(p_scores[i][wordIndex]))
-                        p_scores[i][wordIndex] += 2 #idk
-
-
+                        p_scores[i][wordIndex] += 0.5
+                        
+                    # if this entity contains the appropriate entity for the question type, increment the probability by 2
+                    if who and ent.label_ in who_entities:
+                        p_scores[i][wordIndex] += 1
+                    elif when and ent.label_ in when_entities:
+                        p_scores[i][wordIndex] += 1
+                    elif where and ent.label_ in where_entities:
+                        p_scores[i][wordIndex] += 1
+                    elif quantity and ent.label_ in quantity_entities:
+                        p_scores[i][wordIndex] += 1
+                    # '''
 
                     wordIndex += 1
                     curChar += len(actualWord) + 1 # 1 for the space pls
                     
-
-
             #exit()
-
-                
-                
-
-                
 
         return p_scores  # [batch_size, p_len]
 
@@ -418,8 +430,8 @@ class BaselineReader(nn.Module):
         # 1) Embedding Layer: Embed the passage and question.
 
 
-        #oldPassageEmbeddings = self.embedding(batch['passages']) # [batch_size, p_len, p_dim]
-        #oldQuestionEmbeddings = self.embedding(batch['questions'])  # [batch_size, q_len, q_dim]
+        #passage_embeddings = self.embedding(batch['passages']) # [batch_size, p_len, p_dim]
+        #question_embeddings = self.embedding(batch['questions'])  # [batch_size, q_len, q_dim]
 
         elmo = self.elmo.cuda()
         
