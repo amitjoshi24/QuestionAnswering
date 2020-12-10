@@ -1,5 +1,7 @@
 # CS378 NLP Spring 2020 QA Final Project
 
+This is our (@amitjoshi24 and @RSaravanan17) research project on Improving Accuracy of the DrQA Model Using Named Entity Recognition and ELMo Embeddings in the Cross-Domain Context.
+
 This repository contains starter code for the CS378 Natural Language Processing (Spring 2020) final project on question answering. For specific details on deliverables and deadlines, please refer to the [final project spec](https://www.cs.utexas.edu/~gdurrett/courses/sp2020/fp.pdf).
 
 Authors: Shrey Desai, Yasumasa Onoe, and Greg Durrett
