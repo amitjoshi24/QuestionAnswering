@@ -398,7 +398,7 @@ def write_predictions(args, model, dataset):
     """
     # Load model checkpoint.
     
-    #model.load_state_dict(torch.load(args.model_path, map_location='cpu'))
+    model.load_state_dict(torch.load(args.model_path, map_location='cpu'))
     model.eval()
 
     # Set up test dataloader.

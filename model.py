@@ -356,7 +356,7 @@ class BaselineReader(nn.Module):
 
         #return len(vocabulary)
 
-        '''embedding_map = load_cached_embeddings(path)
+        embedding_map = load_cached_embeddings(path)
         
 
 
@@ -377,8 +377,8 @@ class BaselineReader(nn.Module):
         # Place embedding matrix on GPU.
         self.embedding.weight.data = cuda(self.args, embeddings)
 
-        return num_pretrained'''
-        return 0
+        return num_pretrained
+        #return 0
 
         
     def sorted_rnn(self, sequences, sequence_lengths, rnn):
@@ -430,9 +430,10 @@ class BaselineReader(nn.Module):
         # 1) Embedding Layer: Embed the passage and question.
 
 
-        #passage_embeddings = self.embedding(batch['passages']) # [batch_size, p_len, p_dim]
-        #question_embeddings = self.embedding(batch['questions'])  # [batch_size, q_len, q_dim]
+        passage_embeddings = self.embedding(batch['passages']) # [batch_size, p_len, p_dim]
+        question_embeddings = self.embedding(batch['questions'])  # [batch_size, q_len, q_dim]
 
+        '''
         elmo = self.elmo.cuda()
         
         #embeddings = elmo(character_ids.cuda()) 
@@ -449,6 +450,7 @@ class BaselineReader(nn.Module):
 
         question_character_ids = batch_to_ids(batch['rawQuestions'])
         question_embeddings = elmo(question_character_ids.cuda())["elmo_representations"][0]
+        '''
 
 
         # 2) Context2Query: Compute weighted sum of question embeddings for
